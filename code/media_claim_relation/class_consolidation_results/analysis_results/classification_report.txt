@@ -1,0 +1,38 @@
+# CLASS CONSOLIDATION EXPERIMENT - DETAILED RESULTS
+============================================================
+
+## OVERALL PERFORMANCE:
+- Test Accuracy: 0.493  
+- Macro F1-Score: 0.469  
+
+## PER-CLASS METRICS:
+----------------------------------------
+
+**DECORATIVE:**  
+- Precision: 0.380  
+- Recall: 0.200  
+- F1-Score: 0.260  
+- Support: 15 samples  
+
+**FALSE:**  
+- Precision: 0.500  
+- Recall: 0.562  
+- F1-Score: 0.531  
+- Support: 16 samples  
+
+**REPURPOSED:**  
+- Precision: 0.670  
+- Recall: 0.444  
+- F1-Score: 0.529  
+- Support: 18 samples  
+
+**SOURCE_ISSUES:**  
+- Precision: 0.450  
+- Recall: 0.722  
+- F1-Score: 0.548  
+- Support: 18 samples  
+
+## KEY FINDING – SOURCE_ISSUES PERFORMANCE:
+- F1-Score: 0.548  
+- Recall: 0.722 (72%)  
+- Precision: 0.450  

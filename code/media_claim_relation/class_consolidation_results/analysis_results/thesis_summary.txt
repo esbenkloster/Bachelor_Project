@@ -1,0 +1,12 @@
+# THESIS SUMMARY - CLASS CONSOLIDATION RESULTS
+==================================================
+
+## APPROACH:
+- Merged 'unreliable source' and 'slanted' into 'source_issues'  
+- Used focal loss for class balancing  
+- Applied RoBERTa-large with optimized hyperparameters  
+
+## KEY RESULTS:
+- source_issues F1-score: 0.55  
+- source_issues recall: 72%  
+- Overall macro F1: 0.469  
