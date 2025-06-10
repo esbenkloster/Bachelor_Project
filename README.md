@@ -46,6 +46,7 @@ Model training script is available and the rapport contains a link to the Commun
 
 
 ## Setup
+*Note: If not on linux use portable_env.yml
 
 To explore the code or reproduce analysis:
 ```bash
