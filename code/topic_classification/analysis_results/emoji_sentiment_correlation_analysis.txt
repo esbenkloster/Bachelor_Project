@@ -1,0 +1,29 @@
+================================================================================
+EMOJI USAGE vs SENTIMENT CORRELATION ANALYSIS
+Analysis based on 21,630 tweets
+================================================================================
+
+OVERALL CORRELATION RESULTS:
+----------------------------------------
+Pearson Correlation:    +0.0511 (p = 5.546e-14)
+Spearman Correlation:   +0.0662 (p = 1.780e-22)
+R-squared (Linear):     0.0026
+Regression Slope:       +0.0094
+Regression Intercept:   -0.0615
+
+EMOJI USAGE BREAKDOWN:
+----------------------------------------
+No Emojis (0): 15,771 tweets (72.9%) - Mean Sentiment: -0.075
+Low (1): 2,922 tweets (13.5%) - Mean Sentiment: -0.011
+Medium (2-3): 2,267 tweets (10.5%) - Mean Sentiment: -0.021
+High (4-5): 437 tweets (2.0%) - Mean Sentiment: +0.068
+Very High (6+): 233 tweets (1.1%) - Mean Sentiment: +0.103
+
+TOPIC-WISE CORRELATIONS:
+----------------------------------------
+Sports: r = +0.132*** (n = 1,259)
+Lifestyle: r = +0.064*** (n = 7,097)
+Politics: r = +0.043*** (n = 8,382)
+Science: r = +0.033 (n = 2,195)
+Economics: r = +0.012 (n = 1,041)
+Health: r = -0.034 (n = 1,656)

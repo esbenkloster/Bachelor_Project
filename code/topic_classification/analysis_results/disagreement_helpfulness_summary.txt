@@ -1,0 +1,43 @@
+
+PURE DISAGREEMENT AND NET HELPFULNESS ANALYSIS
+==============================================
+
+METHODOLOGY:
+- Minimum ratings per note: 5
+- Minimum notes per theme: 20
+- Total notes analyzed: 22,092
+- Themes included: 7
+
+CORE METRICS:
+1. Pure Disagreement (σ): Standard deviation of helpfulness ratings per note
+2. Net Helpfulness: (Helpful - Not Helpful) / Total Ratings
+
+THEME RANKINGS:
+
+By Disagreement (highest to lowest):
+1. health: σ = 0.575
+2. science: σ = 0.536
+3. politics: σ = 0.529
+4. unknown: σ = 0.504
+5. economics: σ = 0.491
+6. lifestyle: σ = 0.476
+7. sports: σ = 0.410
+
+By Net Helpfulness (highest to lowest):
+1. sports: +0.813
+2. lifestyle: +0.768
+3. economics: +0.746
+4. unknown: +0.742
+5. politics: +0.720
+6. science: +0.706
+7. health: +0.663
+
+CORRELATION ANALYSIS:
+- Disagreement-Helpfulness: r = -0.990
+- Engagement-Disagreement: r = 0.481, p = 0.275
+- Engagement-Helpfulness: r = -0.395, p = 0.380
+
+SUMMARY STATISTICS:
+- Average disagreement: 0.503
+- Average net helpfulness: 0.737
+- Average ratings per note: 36.4

@@ -1,0 +1,105 @@
+================================================================================
+FACT-CHECK LINKS vs NET HELPFULNESS CORRELATION ANALYSIS
+Analysis Date: 2025-06-09 23:54:53
+Dataset: 22,092 notes with sufficient ratings (>=5)
+================================================================================
+
+OVERALL FACT-CHECK HELPFULNESS CORRELATIONS:
+--------------------------------------------------
+Has Fact Check Link:
+  Correlation coefficient: -0.0973***
+  P-value: 1.283e-47
+  R-squared: 0.0095
+  Sample sizes: 3,052 with fact-check, 19,040 without
+  Mean helpfulness difference: -0.0704
+  (With FC: +0.6763, Without FC: +0.7467)
+
+Fact Check Link Other:
+  Correlation coefficient: -0.0873***
+  P-value: 1.311e-38
+  R-squared: 0.0076
+  Sample sizes: 2,821 with fact-check, 19,271 without
+  Mean helpfulness difference: -0.0653
+  (With FC: +0.6800, Without FC: +0.7453)
+
+Links:
+  Correlation coefficient: -0.0740***
+  P-value: 3.142e-28
+  R-squared: 0.0055
+  Sample sizes: 1,277 with fact-check, 20,815 without
+  Mean helpfulness difference: -0.0792
+  (With FC: +0.6624, Without FC: +0.7416)
+
+Significance levels: *** p<0.001, ** p<0.01, * p<0.05
+
+PRIMARY ANALYSIS - HAS FACT CHECK LINK:
+--------------------------------------------------
+Correlation Coefficient: -0.0973
+P-value: 1.283e-47
+R-squared: 0.0095
+Regression slope: -0.0704
+Regression intercept: +0.7467
+Mean helpfulness without fact-check: +0.7467
+Mean helpfulness with fact-check: +0.6763
+Difference: -0.0704
+
+STATISTICAL INTERPRETATION:
+The correlation between fact-check links and helpfulness is negligible and negative.
+This correlation is statistically significant (p = 1.283e-47).
+
+PRACTICAL FINDINGS:
+Fact-check links show no meaningful relationship with helpfulness ratings.
+Effect size: 0.0704 points on helpfulness scale.
+
+TOPIC-WISE CORRELATION ANALYSIS:
+--------------------------------------------------
+Analysis for topics with sufficient sample size (n>=10, variation in fact-check presence)
+
+Science:
+  Correlation: -0.131*** (p = 0.000)
+  Sample size: 1,993 notes (505 with fact-check)
+  Helpfulness difference: -0.0812
+
+Economics:
+  Correlation: -0.120*** (p = 0.000)
+  Sample size: 966 notes (101 with fact-check)
+  Helpfulness difference: -0.0912
+
+Unknown:
+  Correlation: -0.112*** (p = 0.000)
+  Sample size: 2,118 notes (290 with fact-check)
+  Helpfulness difference: -0.0800
+
+Health:
+  Correlation: -0.100*** (p = 0.000)
+  Sample size: 1,528 notes (454 with fact-check)
+  Helpfulness difference: -0.0637
+
+Lifestyle:
+  Correlation: -0.075*** (p = 0.000)
+  Sample size: 6,594 notes (619 with fact-check)
+  Helpfulness difference: -0.0585
+
+Sports:
+  Correlation: -0.041 (p = 0.171)
+  Sample size: 1,119 notes (22 with fact-check)
+  Helpfulness difference: -0.0589
+
+Politics:
+  Correlation: -0.040*** (p = 0.000)
+  Sample size: 7,774 notes (1,061 with fact-check)
+  Helpfulness difference: -0.0300
+
+TOPIC SUMMARY:
+Topics analyzed: 7
+Mean correlation: -0.089
+Correlation range: -0.131 to -0.040
+Standard deviation: 0.034
+
+METHODOLOGICAL NOTES:
+------------------------------
+Minimum ratings per note: 5
+Helpfulness scale: -1 (Not Helpful) to +1 (Helpful)
+Net helpfulness = (Helpful - Not Helpful) / Total Ratings
+Statistical test: Pearson product-moment correlation
+Multiple comparisons: Not corrected (exploratory analysis)

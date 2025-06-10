@@ -1,0 +1,83 @@
+================================================================================
+STATISTICAL ANALYSIS - ANOVA AND EFFECT SIZES
+Analysis Date: 2025-06-09 23:54:41
+Dataset: 22,092 individual notes across 7 themes
+================================================================================
+
+SAMPLE SIZES BY THEME:
+------------------------------
+Politics: 7,774 notes
+Lifestyle: 6,594 notes
+Unknown: 2,118 notes
+Science: 1,993 notes
+Health: 1,528 notes
+Sports: 1,119 notes
+Economics: 966 notes
+
+Total: 22,092 notes
+
+ONE-WAY ANOVA RESULTS:
+----------------------------------------
+DISAGREEMENT SCORES:
+  F(6, 22085) = 45.393
+  p-value = 0.000000
+  η² = 0.0122
+  Effect size: small
+  Variance explained: 1.22%
+
+NET HELPFULNESS SCORES:
+  F(6, 22085) = 69.860
+  p-value = 0.000000
+  η² = 0.0186
+  Effect size: small
+  Variance explained: 1.86%
+
+POST-HOC TESTS - DISAGREEMENT:
+----------------------------------------
+Tukey HSD test performed (α = 0.05)
+Significant pairwise comparisons: 18/21
+
+POST-HOC TESTS - NET HELPFULNESS:
+----------------------------------------
+Tukey HSD test performed (α = 0.05)
+Significant pairwise comparisons: 18/21
+
+DESCRIPTIVE STATISTICS BY THEME:
+--------------------------------------------------
+Theme           | N      | Disagreement M(SD)    | Helpfulness M(SD)
+----------------------------------------------------------------------
+Health          |  1,528 | 0.575(0.337)        | +0.663(0.290)
+Science         |  1,993 | 0.536(0.343)        | +0.706(0.270)
+Politics        |  7,774 | 0.529(0.330)        | +0.720(0.258)
+Unknown         |  2,118 | 0.504(0.325)        | +0.742(0.244)
+Economics       |    966 | 0.491(0.322)        | +0.746(0.233)
+Lifestyle       |  6,594 | 0.476(0.322)        | +0.768(0.226)
+Sports          |  1,119 | 0.410(0.334)        | +0.813(0.200)
+
+CORRELATION ANALYSIS (Note-Level, n = 22,092):
+--------------------------------------------------
+Disagreement ↔ Helpfulness: r = -0.860, p = 0.000
+Disagreement ↔ Engagement: r = +0.055, p = 0.000
+Helpfulness ↔ Engagement: r = +0.005, p = 0.420
+
+STATISTICAL SUMMARY FOR MANUSCRIPT:
+--------------------------------------------------
+APA Format:
+Disagreement: F(6, 22085) = 45.4, p <0.001, η² = 0.012
+Net Helpfulness: F(6, 22085) = 69.9, p <0.001, η² = 0.019
+
+LaTeX Format:
+Disagreement: $F(6,22085) = 45.4$, $p <0.001$, $\eta^2 = 0.012$
+Net Helpfulness: $F(6,22085) = 69.9$, $p <0.001$, $\eta^2 = 0.019$
+
+INTERPRETATION:
+------------------------------
+Key Findings:
+1. Theme significantly predicts both disagreement and helpfulness
+2. Effect sizes are small for disagreement and small for helpfulness
+3. Note-level correlation between disagreement and helpfulness: r = -0.860
+
+Implications:
+- Misinformation domain meaningfully predicts community moderation outcomes
+- Systematic differences exist between themes in evaluation patterns
+- Theme-based approach to understanding community notes effectiveness is supported

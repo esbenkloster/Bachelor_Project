@@ -1,0 +1,190 @@
+N-GRAM ANALYSIS WITH SENTIMENT INTEGRATION
+============================================================
+Results for thesis Table: Top Unigrams and High-TF-IDF Bigrams/Trigrams
+
+DATASET SUMMARY
+------------------------------
+Total tweets analyzed: 20,621
+Number of topics: 6
+Methodology: TF-IDF + VADER sentiment analysis
+Criteria: Top 3 unigrams + bigrams/trigrams with TF-IDF > 0.02
+
+THESIS TABLE DATA
+============================================================
+Format: Topic | N-gram | TF-IDF | Sentiment
+------------------------------------------------------------
+
+POLITICS
+------------------------------
+Sample size: 8,171 tweets
+
+Top 10 Unigrams:
+  1. trump           | TF-IDF: 0.0391 | Sentiment: -0.041
+  2. breaking        | TF-IDF: 0.0343 | Sentiment: -0.171
+  3. israel          | TF-IDF: 0.0328 | Sentiment: -0.292
+  4. biden           | TF-IDF: 0.0278 | Sentiment: -0.069
+  5. president       | TF-IDF: 0.0264 | Sentiment: -0.039
+  6. ukraine         | TF-IDF: 0.0258 | Sentiment: -0.182
+  7. gaza            | TF-IDF: 0.0223 | Sentiment: -0.219
+  8. one             | TF-IDF: 0.0218 | Sentiment: -0.162
+  9. israeli         | TF-IDF: 0.0204 | Sentiment: -0.308
+  10. russia          | TF-IDF: 0.0201 | Sentiment: -0.181
+
+Bigrams with TF-IDF > 0.02:
+  • joe biden            | TF-IDF: 0.0226 | Sentiment: -0.031
+
+
+LIFESTYLE
+------------------------------
+Sample size: 6,679 tweets
+
+Top 10 Unigrams:
+  1. get             | TF-IDF: 0.0222 | Sentiment: +0.042
+  2. one             | TF-IDF: 0.0197 | Sentiment: +0.015
+  3. breaking        | TF-IDF: 0.0181 | Sentiment: -0.021
+  4. video           | TF-IDF: 0.0170 | Sentiment: -0.117
+  5. twitter         | TF-IDF: 0.0165 | Sentiment: +0.014
+  6. elon            | TF-IDF: 0.0162 | Sentiment: +0.048
+  7. real            | TF-IDF: 0.0155 | Sentiment: -0.113
+  8. got             | TF-IDF: 0.0153 | Sentiment: -0.100
+  9. man             | TF-IDF: 0.0137 | Sentiment: -0.076
+  10. musk            | TF-IDF: 0.0134 | Sentiment: +0.057
+
+Bigrams with TF-IDF > 0.02:
+  • elon musk            | TF-IDF: 0.0245 | Sentiment: +0.050
+
+
+SCIENCE
+------------------------------
+Sample size: 2,048 tweets
+
+Top 10 Unigrams:
+  1. nasa            | TF-IDF: 0.0279 | Sentiment: -0.035
+  2. earth           | TF-IDF: 0.0274 | Sentiment: -0.033
+  3. moon            | TF-IDF: 0.0268 | Sentiment: +0.034
+  4. one             | TF-IDF: 0.0245 | Sentiment: -0.002
+  5. earthquake      | TF-IDF: 0.0229 | Sentiment: -0.001
+  6. world           | TF-IDF: 0.0227 | Sentiment: -0.050
+  7. space           | TF-IDF: 0.0208 | Sentiment: -0.086
+  8. years           | TF-IDF: 0.0184 | Sentiment: +0.062
+  9. real            | TF-IDF: 0.0181 | Sentiment: -0.035
+  10. get             | TF-IDF: 0.0169 | Sentiment: -0.128
+
+
+HEALTH
+------------------------------
+Sample size: 1,503 tweets
+
+Top 10 Unigrams:
+  1. cancer          | TF-IDF: 0.0518 | Sentiment: -0.657
+  2. covid           | TF-IDF: 0.0515 | Sentiment: -0.172
+  3. vaccines        | TF-IDF: 0.0508 | Sentiment: -0.146
+  4. vaccine         | TF-IDF: 0.0433 | Sentiment: -0.154
+  5. autism          | TF-IDF: 0.0372 | Sentiment: -0.065
+  6. cause           | TF-IDF: 0.0334 | Sentiment: -0.230
+  7. health          | TF-IDF: 0.0271 | Sentiment: -0.227
+  8. one             | TF-IDF: 0.0269 | Sentiment: -0.281
+  9. get             | TF-IDF: 0.0266 | Sentiment: -0.163
+  10. children        | TF-IDF: 0.0217 | Sentiment: -0.371
+
+Bigrams with TF-IDF > 0.02:
+  • covid 19             | TF-IDF: 0.0369 | Sentiment: -0.238
+  • vaccines cause       | TF-IDF: 0.0272 | Sentiment: -0.076
+  • cause autism         | TF-IDF: 0.0258 | Sentiment: -0.035
+  • bill gates           | TF-IDF: 0.0201 | Sentiment: -0.146
+
+Trigrams with TF-IDF > 0.02:
+  • vaccines cause autism     | TF-IDF: 0.0333 | Sentiment: -0.002
+
+
+SPORTS
+------------------------------
+Sample size: 1,212 tweets
+
+Top 10 Unigrams:
+  1. game            | TF-IDF: 0.0324 | Sentiment: +0.114
+  2. league          | TF-IDF: 0.0263 | Sentiment: +0.315
+  3. one             | TF-IDF: 0.0252 | Sentiment: +0.203
+  4. breaking        | TF-IDF: 0.0239 | Sentiment: +0.065
+  5. first           | TF-IDF: 0.0230 | Sentiment: +0.130
+  6. messi           | TF-IDF: 0.0215 | Sentiment: +0.196
+  7. team            | TF-IDF: 0.0214 | Sentiment: +0.082
+  8. fans            | TF-IDF: 0.0206 | Sentiment: +0.058
+  9. season          | TF-IDF: 0.0205 | Sentiment: +0.126
+  10. ronaldo         | TF-IDF: 0.0200 | Sentiment: +0.214
+
+
+ECONOMICS
+------------------------------
+Sample size: 1,008 tweets
+
+Top 10 Unigrams:
+  1. 000             | TF-IDF: 0.0360 | Sentiment: +0.191
+  2. breaking        | TF-IDF: 0.0350 | Sentiment: +0.068
+  3. tax             | TF-IDF: 0.0338 | Sentiment: +0.131
+  4. bitcoin         | TF-IDF: 0.0323 | Sentiment: +0.157
+  5. money           | TF-IDF: 0.0269 | Sentiment: -0.030
+  6. year            | TF-IDF: 0.0267 | Sentiment: +0.116
+  7. pay             | TF-IDF: 0.0260 | Sentiment: +0.055
+  8. million         | TF-IDF: 0.0257 | Sentiment: +0.133
+  9. one             | TF-IDF: 0.0253 | Sentiment: +0.076
+  10. president       | TF-IDF: 0.0220 | Sentiment: +0.093
+
+Bigrams with TF-IDF > 0.02:
+  • elon musk            | TF-IDF: 0.0221 | Sentiment: +0.179
+
+
+============================================================
+SPECIAL ANALYSIS: 'VACCINES CAUSE AUTISM'
+============================================================
+Total occurrences: 46 tweets
+Percentage of Health topic: 3.1%
+TF-IDF score: 0.0333
+Mean sentiment: -0.002
+Sentiment range: -0.888 to +0.883
+Sentiment std dev: 0.424
+
+MOST NEGATIVE EXAMPLES (Top 10):
+1. (-0.888) The reason why they will NOT admit that ‘Vaccines’ cause Autism is because they would also discover they cause Diabetes,...
+2. (-0.882) The MMR Vaccine causes BRAIN DAMAGE. 
+
+After screaming, arching his back, and then falling into a sleep, the child will ...
+3. (-0.743) @newstart_2024 Peter Hotez, you are an enemy of the state. Your lies about vaccines have cost millions of children their...
+4. (-0.743) @newstart_2024 Peter Hotez, you are an enemy of the state. Your lies about vaccines have cost millions of children their...
+5. (-0.700) Remember when all the crazy conspiracy theorists said vaccines cause autism https://t.co/e0EF2zBE3p
+6. (-0.559) We've been compiling about @CommunityNotes for months Elon. It's weaponized just like Wikipedia. It's a Far Left ideolog...
+7. (-0.494) The MMR vaccine causes autism. Other vaccines  cause autism. Vaccines can also cause neurological damage, seizures, asth...
+8. (-0.494) The MMR vaccine causes autism. Other vaccines  cause autism. Vaccines can also cause neurological damage, seizures, asth...
+9. (-0.452) VACCINES CAUSE AUTISM 
+
+They'll never allow real human vaccine studies, but someone did manage to do a mouse study. 
+
+Wh...
+10. (-0.452) VACCINES CAUSE AUTISM 
+
+They'll never allow real human vaccine studies, but someone did manage to do a mouse study. 
+
+Wh...
+
+MOST NEUTRAL EXAMPLE:
+1. (+0.000) Vaccines cause autism!
+
+MOST POSITIVE EXAMPLES (Top 10):
+1. (+0.318) The Untold Truth About Vaccines
+
+One of the most senior scientists in the autism field once told Dr. James Lyons-Weiler,...
+2. (+0.497) This is so cool. With one VAERS query, you can prove that vaccines vaccines cause autism!! The medical community hasn't ...
+3. (+0.511) Vaccines cause autism. Autism is environmental poisoning. Are there other causes? Yes. But vaccines are the primary caus...
+4. (+0.571) On behalf of the millions of parents who witnessed their child regress into autism after vaccination, I unequivocally sa...
+5. (+0.572) Hey guys by the way Happy Friday and vaccines cause autism.
+6. (+0.607) Would @CommunityNotes please provide the studies that our regulatory agencies relied upon to make the claim ‘vaccines do...
+7. (+0.625) Have a great Friday. 
+Vaccines cause autism.
+8. (+0.625) Have a great Friday. 
+Vaccines cause autism.
+9. (+0.660) You can community note me all you want. I’m still going to say it. Vaccines cause autism. Have a great day.
+10. (+0.883) My parents would be so proud of me! I have now figured out vaccines cause autism and SIDS, so I'm now at red-pill LEVEL ...
+
+
+Analysis completed: 6 topics processed
+File generated for thesis reference

@@ -1,0 +1,61 @@
+================================================================================
+ENGAGEMENT METRICS vs SENTIMENT CORRELATION ANALYSIS
+Analysis based on 21,630 tweets
+================================================================================
+
+OVERALL SENTIMENT CORRELATION RESULTS:
+--------------------------------------------------
+Retweet Count       : r = -0.0290*** (p = 2.023e-05, n = 21,630)
+Favorite Count      : r = +0.0169*   (p = 1.271e-02, n = 21,630)
+Reply Count         : r = -0.0221**  (p = 1.179e-03, n = 21,630)
+Quote Count         : r = -0.0082    (p = 2.252e-01, n = 21,630)
+Total Engagement    : r = +0.0095    (p = 1.615e-01, n = 21,630)
+
+Significance levels: *** p<0.001, ** p<0.01, * p<0.05
+
+FAVORITE COUNT vs SENTIMENT - DETAILED ANALYSIS:
+--------------------------------------------------
+Correlation Coefficient: +0.0169
+P-value: 1.271e-02
+R-squared (Linear): 0.0003
+Regression Slope: +0.000000
+Regression Intercept: -0.0589
+
+INTERPRETATION:
+The correlation between favorite count and sentiment is negligible and positive.
+This correlation is statistically significant.
+Each additional favorite is associated with a +0.000000 change in sentiment score.
+
+ENGAGEMENT METRICS INTERCORRELATIONS:
+--------------------------------------------------
+Retweet Count vs Favorite Count: 0.755
+Retweet Count vs Reply Count: 0.290
+Retweet Count vs Quote Count: 0.366
+Retweet Count vs Total Engagement: 0.808
+Favorite Count vs Reply Count: 0.272
+Favorite Count vs Quote Count: 0.366
+Favorite Count vs Total Engagement: 0.992
+Reply Count vs Quote Count: 0.412
+Reply Count vs Total Engagement: 0.358
+Quote Count vs Total Engagement: 0.431
+
+TOPIC-WISE FAVORITE-SENTIMENT CORRELATIONS:
+--------------------------------------------------
+Economics           : r = -0.019    (n = 1,041)
+Politics            : r = +0.011    (n = 8,382)
+Lifestyle           : r = -0.024*   (n = 7,097)
+Science             : r = +0.023    (n = 2,195)
+Sports              : r = +0.035    (n = 1,259)
+Health              : r = +0.059*   (n = 1,656)
+
+STATISTICAL SUMMARY:
+--------------------------------------------------
+Total tweets analyzed: 21,630
+Engagement metrics available: 4
+Topics analyzed for correlations: 6
+Analysis date: Generated for thesis reference
+
+Sentiment score statistics:
+  Range: -0.999 to 1.000
+  Mean: -0.056
+  Standard deviation: 0.465

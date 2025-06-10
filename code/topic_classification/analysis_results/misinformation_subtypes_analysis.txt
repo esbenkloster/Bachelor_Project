@@ -1,0 +1,51 @@
+MISINFORMATION SUBTYPES BY TOPIC ANALYSIS
+==================================================
+
+ECONOMICS:
+  Misleading Missing Important Context: 65.7%
+  Misleading Factual Error: 60.1%
+  Misleading Unverified Claim As Fact: 27.0%
+  Misleading Outdated Information: 15.7%
+  Misleading Satire: 3.9%
+  Misleading Manipulated Media: 2.3%
+
+HEALTH:
+  Misleading Factual Error: 63.9%
+  Misleading Missing Important Context: 62.4%
+  Misleading Unverified Claim As Fact: 36.0%
+  Misleading Outdated Information: 17.4%
+  Misleading Satire: 3.4%
+  Misleading Manipulated Media: 2.4%
+
+LIFESTYLE:
+  Misleading Missing Important Context: 54.7%
+  Misleading Factual Error: 50.0%
+  Misleading Unverified Claim As Fact: 26.6%
+  Misleading Manipulated Media: 22.5%
+  Misleading Satire: 15.9%
+  Misleading Outdated Information: 15.4%
+
+POLITICS:
+  Misleading Factual Error: 63.3%
+  Misleading Missing Important Context: 61.5%
+  Misleading Unverified Claim As Fact: 30.2%
+  Misleading Outdated Information: 16.6%
+  Misleading Manipulated Media: 10.6%
+  Misleading Satire: 4.4%
+
+SCIENCE:
+  Misleading Missing Important Context: 66.2%
+  Misleading Factual Error: 61.5%
+  Misleading Unverified Claim As Fact: 35.5%
+  Misleading Outdated Information: 11.8%
+  Misleading Manipulated Media: 10.5%
+  Misleading Satire: 4.7%
+
+SPORTS:
+  Misleading Factual Error: 69.7%
+  Misleading Missing Important Context: 42.6%
+  Misleading Unverified Claim As Fact: 26.9%
+  Misleading Outdated Information: 17.0%
+  Misleading Manipulated Media: 13.8%
+  Misleading Satire: 12.4%
+

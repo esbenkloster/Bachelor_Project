@@ -1,0 +1,1500 @@
+================================================================================
+SENTIMENT ANALYSIS EXAMPLES BY TOPIC
+Generated from 21,630 tweets
+Top 5 most extreme examples per topic
+================================================================================
+
+TOPIC: HEALTH
+Average Sentiment: -0.183
+Total Tweets: 1,656
+----------------------------------------------------------------------
+
+TOP 5 MOST POSITIVE EXAMPLES:
+----------------------------------------
+ 1. Score: +0.989
+    Text: "We heard your concerns and feedback around this post and agree that this message could have been better articulated.
+
+The term “traditional medicine” is inclusive of traditional, complementary, and integrative medicine/health and well-being systems.
+
+Our work aims to bring evidence and scientific validation around traditional medicine so that millions of people around the world who use complementary and traditional medicine understand whether it’s safe and effective and are better protected. When scientifically validated, traditional medicine has the potential to bridge access gaps for millions around the world. By access gaps, we mean that too many people still can’t afford or are unable to obtain the health care and tools that can keep them safe.
+
+We welcome this feedback and are thankful to our audiences for being engaged on this topic. Health literacy is vital for science, solidarity, and solutions."
+
+ 2. Score: +0.964
+    Text: "Your DISHWASHING tablets are literally punching HOLES in your gut lining.
+
+Go check the back of the packet on your dish tabs: how many chemicals do they contain? If you don’t want them in your mouth, I’d suggest they go in your bin. 
+
+A recent study found that molecules called Alcohol Ethoxylates in mainstream dishwashing detergents may create holes in your gut epithelial cells, causing LEAKY GUT.
+
+Leaky gut is a serious issue, as it compromises your intestinal lining, allowing toxins in your bloodstream, potentially triggering other health issues, allergies (ie. Spring Allergy, anyone?) and even hypothyroidism.
+
+Leaky gut is not unpopular at all: it’s slowing becoming an epidemic with an estimated 80-90% of the population having some form of gut inflammation or permeability.
+
+Your dishwasher products might be a heavy contributing factor, as they're leaking harmful chemicals into your body. How? These chemicals are never completely rinsed off at the end of the cleaning cycle, which can leave residues on the dishes & cutlery that you use to eat.
+
+As a reminder, you do NOT need these CRAZY chemicals…and shiny dishes are definitely not worthy your gut punch!
+
+Hot water & baking soda, or a gentle soap are perfectly effective + safer. Otherwise, you can find cleaner alternative options even on Amazon."
+
+ 3. Score: +0.955
+    Text: "Prescriptions in Scotland are free for those who need them, but if you live in England you will pay £9.65.
+
+The SNP wll never tax ill health. However, keeping free prescriptions protected cannot be taken for granted as others don’t value them.
+
+#VoteSNP
+
+https://t.co/OTsy49dzL6 https://t.co/TDYJxXbWJu"
+
+ 4. Score: +0.949
+    Text: "We were told that masks save lives, but it turns out the exact opposite is true.
+
+A study from Norway uncovered a higher likelihood of COVID-19 infections among individuals who regularly wore masks, compared to those who didn't.
+
+Key insights from the study:
+
+• This startling outcome emerged from a detailed analysis involving 3,209 participants, monitored over a 17-day period for their mask usage habits.
+
+• A notable increase in COVID-19 positivity was observed among frequent mask users: from 8.6% in rare mask wearers to over 15% in consistent users.
+
+• Adjustments for various factors revealed a 33-40% elevated infection rate in regular mask wearers, although further adjustments suggested a more modest 4% increase.
+
+This information was compiled by an article written by @EpochTimes (give them a follow). Read the full article in the comment below."
+
+ 5. Score: +0.918
+    Text: "Hooker paper: The fully vaccinated (and partially vaccinated) have a 5X likelihood of getting autism compared to the fully unvaccinated. This is stunning agreement with the Mawson study, isn't it (which was a 4X odds ratio)? 
+
+How is THAT possible? :)  
+
+Also, the overall autism % was similar in these two completely different studies (1% for unvaxxed vs. 5% rate of fully vaxxed). 
+
+Hooker paper: https://t.co/Q2T2mA3kU2 
+
+Mawson paper: https://t.co/c2eyVtjciz
+
+Now if there is no effect, how do you explain the stunning agreement?"
+
+TOP 5 MOST NEGATIVE EXAMPLES:
+----------------------------------------
+ 1. Score: -0.999
+    Text: "Elisabeth Bik's public reputation as a key scientific integrity expert is dangerous for the scientific community.  Like it or not, she is regarded as an expert in the industry.  Journalists' have told me they cal her for her opinion.  Her complaints, X posts, and pubpeer comments have a real impact on people's lives, but she does not seem to consider the effect of false accusations or the right to a fair investigation.  
+
+Her behavior and approach should strip her of her title and reputation.  It is not behavior that is to be expected from a science integrity expert.  Below are some details why I believe journalists, institutions, journals, and government should stop considering her opinion.  The easiest way to make that a reality is for Bik to change, but I don't see that happening.  I could use some help to force that change.  
+
+Behave like an Integrity Expert
+Elisabeth Bik has called me a chauvinist, she says my comments about her result in death threats, she says I have called her a fraud.  These are all lies and damage my reputation in the biotech industry.  
+
+Stop Biased attacks on Groups or Individuals Based on your Policial Beliefs
+I want @microbiomdigest to stop targeting researchers based on her political beliefs.   As an integrity expert she should not be doing that.  She targets people that she perceives as anti-vax.  Is she paid to do this?  Is it a political mission of hers?  Why is she drowning these authors with 1000s of questions to their institutions, pubpeer, the journals?  Whatever the reason, I do not feel these are the actions that should be accepted by our world for a "science integrity consultant" let alone awarding her for it.  
+
+She has posted on 14 of @SabinehazanMD papers on pubpeer nitpicking many topics: 
+conflict of interest concerns, unclear baselines, potential incorrect conclusions, patient admission, timeline of medicine administration, IRB approval and consent, and literally 100s of questions.  I didn't see any that are related to image issues.  I feel she is targeting Hazan because of political reasons an perceives Dr Hazan as antivax.  
+
+@raoult_didier has 368 pubpeer complaints against him.  Michel Drancourt has 53.  In one email she reported 97 papers.  About 70% of the complaints from her were about Commitee for the Protection of Persons, but French law does not require it according to a France-soir article (https://t.co/GwyL4VlDT0).  She could not find much image integrity issues so she carpets bombed their whole body of work.  I feel she is targeting these authors for political reasons because she perceives them as antivax.  
+
+Complain Confidentially
+I want her to put in accusations of research misconduct into journals and institutions confidentially so that they can be fairly and thoroughly investigated.  
+
+Increase Evidence Standards
+I want her to be more thorough and selective with her accusations and questions, so she does not frivolously waste the time of researchers with pursuing cures to diseases and advancing science.   Once the complaint is sent it cannot be undone... be more careful.  When I read the Zolkovic issues raised on PubPeer, it was clear most of Biks were nitpicky oversights or small errors or guesses.  Most of @schrag_matthew comments looked like evidence of manipulation.  Bik should get some training and produce evidence that can be used by those evaluating the papers for corrections or retractions.  Mike Rosner would likely train her.  
+
+She is Biased toward Fraud and Retraction and Played a Big Role in a Real Fraud at uBiome
+I want the people she works with or complains to understand she is compensated to find problems in papers.  She is paid to deliver speeches on science integrity where she talks about her 7000+ challenged papers.  She measures her success on retractions.  She has been in the center of a very large fraud, uBiome.  She wrote research papers with the indicted cofounders and published with them AFTER she quit on moral grounds.  She published with them AFTER they were raided by the FBI.  I think all authors should ignore all of her comments on PubPeer because it just reinforces her bad behaviors.  
+
+I think all of these facts coalesce to make her unfit to be putting in accusations and questions about issues in researchers' articles on pubpeer or anywhere.
+
+What do we do about her?  How do we stop her?  I am  open to ideas... but ... 
+I think that people that she has unfairly targeted, harassed, or falsely accused should sue her to help prevent her from doing it to others.  DM me if you think she has wronged you or your institution and you want to fight back.  I am happy to help organize a legal effort against her. 
+
+I am considering personally suing her for libel based on the lies she has posted about me.  She does not like what I have to say and that I am standing up for people she is attacking, so she uses her reputation to smear me.  I am not a chauvinist. I caused nobody to give her a death threat.  Writing a post that someone replies to is not what causes a death threat.  Her insinuation I caused it is libel IMO.  Shit, one of her people told me to go kill myself.  Pretty close to an actual death threat in words vs someone saying she will pay.  The French researcher hate her because she unfairly targeted them and carpet-bombed complaints against their papers.   I have never accused her of fraud.  Only investigators or people with full access of information can credibly accuse anyone of fraud.  The evidential burden is high, and most are a federal felony."
+
+ 2. Score: -0.998
+    Text: "CANCER HOAX!
+
+Needle biopsies, for example.
+
+People need to understand that a tumour is there to save your life. When your body is full with poison, toxaemic and acidosis and you are basically going to die of that poison - your body builds a bag and collects all the poison from your body into this bag, which they call a tumour. So the body did all the work.
+
+And now they come and they say "We need to do a needle biopsy." and pinch into this highly toxic tumour; which of course now explodes and pours all the poison into the body. 
+
+And then they say "you have a very fast growing, very aggressive form of cancer.". 
+
+They GAVE it to you. They created it.
+
+And most cancers disappear on their own anyway, because about 7-10 times, everybody has cancer in their lifetime. 
+
+If you don't become unlucky enough to fall into the hands of a medical professional and get a test done and they tell you that you have something bad going on; and the very next day, can start murdering you with chemotherapy, which is based on mustard gas. 
+
+Mustard gas is forbidden after the Geneva Convention as a war chemical, they put it into your bloodstream and radiate you to death. Or cut you surgically - which always spreads the cancer! 
+
+Cancer is not an illness - cancer is a symptom. These cancerous growths, the cell growths, whatever it might be, that we don't want in our body, is a symptom; it is not the cancer. So cutting the symptom out does not resolve your problem, at all. And that's why it reappears. Or why they kill the entire body with chemotherapy for two years. 
+
+Now, anything and everything shrinks.
+
+Your organs shrink, the brain shrinks - and the tumour shrinks. Because they dehydrate the body. So now, at the same rate at your organs are shrinking, your tumour is shrinking. Now they say - It's working. The tumour is shrinking.. It's one f the biggest frauds ever.
+
+And if you don’t believe me, that’s fine go ahead and destroy yourself! All of the above has been verified by Dr. Leonard Coldwell."
+
+ 3. Score: -0.996
+    Text: "According to the internet i "Lied about cancer."
+
+However for the last 2 years I've been treating the symptoms of that cancer.  Blood tests, medications, and so much more.
+
+We still have one test left to do to verify WHICH cancer it is. For now,  we have been treating  the Polycthemia Vera which is the cancer they TOLD me that I have. 
+
+My brother has seen it in my medical charts.  My Girlfriend and best friend have been present when the doctor spoke of it.
+
+We are now doing more tests to confirm the Polycthemia Vera, or determine if there is a second cancer present. We are starting with a colonoscopy to see if there is cancer present there, as I've shown signs that prostate cancer is present.
+
+I was panicked when my doctor told me I had cancer 2 years ago and when I was in a vulnerable state I shared that long before I should have. It was a stupid, stupid thing to do. I should have never jumped the gun like that.
+
+I have NEVER done a go fund me.  I have NEVER asked my audience for money to treat this cancer.  I never have and never will.  
+
+In fact in my years as a youtuber I've donated and helped raise tens of thousands of dollars to St Jude's Cancer Research hospital, to help people suffering with cancer.
+
+My father died of cancer.  My best friend from childhood died of cancer.  My friend John (total biscuit) died of cancer.  
+
+Cancer is not something I would ever lie about.  But I should have waited for the final tests to be done and not just repeated what my doctor had to say that day.
+
+i'm sorry that I ever spoke of it and moving foward no matter what happens I will not speak of it publicly.
+
+I consider this a closed matter and now will make sure it remains a private battle that is shared only with my closest loved ones.
+
+I'm sorry for those hurt or offended by either the rumors that have floated around, or by my actions when I spoke too early about my cancer.
+
+Of all the mistakes and fuck ups I've ever made in this life, this was the one that will haunt me to the bitter end, as it should.
+
+I'm genuinely sorry."
+
+ 4. Score: -0.996
+    Text: "NEW ARTICLE: SUMMER OF DIED SUDDENLY - PREGNANT WOMEN - 20 Unexplained Deaths examined.
+
+New Harvard study recommends 6 COVID-19 mRNA jabs for Pregnant women!
+
+Also, CDC now recommends 4 different jabs in Pregnancy: COVID, DTaP, Flu and a dangerous new Pfizer RSV Vaccine (Abrysvo™️)
+
+In 2023, COVID-19 mRNA Vaccinated pregnant women were collapsing & dying suddenly from unknown ailments. This included:
+
+Dec.2, 2023 - Australia - 36 year old Pediatric nurse Amy Barker was 36 weeks pregnant when she died suddenly with her unborn child. The family has no answers.
+
+Nov.21, 2023 - Brazil - 38 year old news anchor Elaine da Silva was 23 weeks pregnant and was sent to hospital in Sao Paulo, Brazil on Monday Nov.20 with pneumonia. She died next day with her unborn child
+
+Nov.19, 2023 - Dr.Kristina Navarro-Krupka, athletic director for UW-Platteville died suddenly with her unborn baby on Nov.19, 2023.
+
+Nov.8, 2023 - UK - 33 year old Jayne Cox, a COVID-19 Vaccinated mom of 3 died suddenly Nov.8, 2023 during C-section before she could hold her newborn baby in her arms.
+
+Oct.31, 2023 - India - 35 year old Dr.Priya was a medical doctor and an actress in the Malayalam film industry. She suffered a fatal heart attack while pregnant. The baby was saved.
+
+Pfizer & Moderna COVID-19 mRNA Vaccines are extremely dangerous for pregnant women, who are suffering cardiac arrests, blood clots, excessive bleeding, preterm labor, and sudden deaths during delivery and post-partum period.
+
+So naturally, a new paper from American Journal of Obstetrics &  Gynecology, by Harvard Medical School authors is recommending 6 of them!!
+
+On Nov 9, 2023, AJOG published: “Pregnancy should be a condition eligible for additional doses of COVID-19 messenger RNA vaccines”
+
+“we believe that additional booster doses should be offered to pregnant individuals who received a bivalent COVID-19 booster before becoming pregnant.”
+
+For most people, the "bivalent booster" was their 4th or 5th shot.
+
+“it is unlikely that additional appropriately spaced doses pose threats to maternal or infant health”
+
+The paper references no safety studies in pregnancy.
+
+Harvard authors are: Jeremy Samuel Faust, Sonja Rasmussen, Denise J Jamieson
+
+These MDs should be arrested and criminally charged for medical malfeasance with the intent to cause bodily harm or death. 
+
+But it gets worse.
+
+CDC now recommends pregnant women jab themselves with 4 vaccines. According to NBC:
+
+“For the first time, four vaccines are recommended during pregnancy, including new RSV shots. Doctors say they are prepared to take on vaccine disinformation.”
+
+“this is the first year that four vaccines are being recommended during pregnancy. Yet, there are already signs that fewer pregnant women are getting vaccinated”
+
+“none of these vaccines have ever been shown to have any negative impact on the fetus or newborn.”
+
+It still gets worse:
+
+Recent BMJ Investigation shows Pfizer has been found putting pregnant women and preborn children at risk, this time with trials for an RSV vaccine.”
+
+"Pfizer failed to alert pregnant women participating in its own RSV vaccine trials about trials for a similar vaccine by GlaxoSmithKline (GSK) that ceased immediately after a potential risk of preterm birth and neonatal death became evident."
+
+“no women were notified by Pfizer of the possible dangers to their preborn children.”
+
+FDA rushed approval of Pfizer's new RSV vaccine in August 2023, despite 4 of 14 FDA members voting that the data presented by Pfizer were not adequate to support safety after a detailed discussion on the preterm birth.”
+
+YES, this is the DANGEROUS new Pfizer RSV Vaccine (Abrysvo™️) that CDC is now recommending to Pregnant women.
+
+They are coming for Pregnant women in 2024 in a very serious and dangerous way.
+
+Article Link in photo to avoid shadowban, just re-type the URL into your browser to access.
+
+@JaThorpmfm @TheChiefNerd
+
+#DiedSuddenly #cdnpoli #ableg"
+
+ 5. Score: -0.988
+    Text: "MMR AND MEASLES! 
+
+MMR Adverse reactions from MMR insert include as follows: 
+
+💉 Panniculitis 
+💉 Atypical Measles 
+💉 Fever 
+💉 Syncope 
+💉 Headache 
+💉 Dizziness 
+💉 Malaise 
+💉 Irritability 
+💉 Vasculitis 
+💉 Pancreatitis 
+💉 Diarrhea 
+💉 Vomiting 
+💉 Parotitis 
+💉 Nausea 
+💉 Diabetes Mellitus 
+💉 Thrombocytopenia
+💉 Purpura 
+💉 Regional Lymphadenopathy 
+💉 Leukocytosis 
+💉 Anaphylaxis 
+💉 Anaphylactoid 
+💉 Angioneurtic Edema (including facial and peripheral) 
+💉 bronchial spasms in individuals with or without an allergic history 
+💉 Arthritis 
+💉 Arthralgia 
+💉 Myalgia (Arthralgia and/or arthritis (usually transient and rarely chronic)
+💉 Polyneuritis
+💉 Encephalitis 
+💉 Encephalopathy
+💉 Measles inclusion body encephalitis (MIBE)
+💉 Subacute sclerosing panencephelitis (SSPE) 
+💉 Guillan-Barré Syndrome (GBS) 
+💉 Convulsions or seizures 
+💉 Ataxia
+💉 Polyneuritis
+💉 Polyneuropathy
+💉 Oscular Palsies
+💉 Parasthesia
+💉 Aspetic Meningitis 
+💉 Pnemonia
+💉 Sore Throat 
+💉 Cough 
+💉 Rhinitis
+💉 Steven Johnson Syndrome 
+💉 Erythema multiforme
+💉 Urticaria 
+💉 Rash
+💉 Measles like rash 
+💉 Pruritis
+💉 Burning stinging at injection site
+💉 Wheal and flare
+💉 Redness
+💉 Swelling 
+💉 Induration 
+💉 Tenderness 
+💉 Vesicularion at injection site 
+💉 Henoch-Schönlein Purpura 
+💉 Acute hemorrhagic edema in infancy 
+💉 Nerve deafness 
+💉 Otitis Media 
+💉 Retinitis 
+💉 Optic neuritis 
+💉 Papillitis 
+💉 Retrobulbar neuritis 
+💉 Conjunctivitis
+💉 Epididymitis 
+💉 Orchitis 
+💉 Death 
+
+💉 Has not been evaluated for mutagenic, carcinogenic, or potential to cause infertility. 
+
+💉 Excipients in MMR II: Chick embryo cell culture, WI – 38 human diploid lung fibroblast, vitamins, Amino acid’s, fetal bovine serum, sucrose, glutamate, recombinant human albumin, neomycin, sorbitol, hydrolyzed gelatin, phosphate, sodium chloride 
+
+MEASLES SIDE EFFECTS: 
+
+🌡 Cough
+🌡 Runny nose 
+🌡 Eye irritation 
+🌡 Fever 
+🌡 Generalized rash on days 4-10 of illness 
+
+In rare situations: 
+
+🌡 Brain Damage 
+🌡 Death 
+
+In the modern era, it is rare to suffer permanent disability or death from the measles in the US. 
+
+1900-1963: the mortality rate of measles dropped from 13.3 per 100,000 to .02 per 100,00 in the population, due to advancements of living conditions, nutrition, and health care. 
+
+🔅A 98% decline. 
+
+1963: RIGHT BEFORE the vaccine was introduced: 
+
+✅ 1 in 10,000 (.01%) measles cases were fatal 
+✅ 1 in 20,000 (.005%) measles cases resulted in measles encephalitis 
+✅ 1 in 80,000 (.00125%) measles cases resulted in permanent disability 
+✅ 7 in 1,000 (.7%) measles were hospitalized 
+
+** LOW VITAMIN A is a primary cause of over 100,000 measles deaths in underdeveloped countries, especially those with wide spread poverty. 
+
+***IN THE US 75-92% of hospitalized measles cases are low in vitamin A. 
+
+The World Health Organization recommends that serious measles cases be treated with high-dose vitamins A, 50,000 IU- 200,000 IU, administered orally on two consecutive days. 
+
+Are there ANY BENEFITS to the measles?? 
+
+❇️ Studies suggest a natural acquired measles infection and a reduced risk of Hodgkin’s and Non-Hodgkins lymphomas as well as..
+❇️ Reduced risk of atopic diseases such as eczema, hay fever, asthma. 
+❇️ Lower risk of mortality from cardiovascular disease as adults 
+❇️ Infants born to mothers who have had naturally acquired measles are protected from measles via maternal immunity longer than born to vaccinated mothers. 
+
+Please see sources here: 
+
+MMR Vaccine Insert: https://t.co/q32LLXk4bW
+
+Studies showing the BENEFITS of getting measles (and mumps) 
+
+Wild measles and mumps protects against heart problems. https://t.co/3vb0QAIaio 
+
+Wild Mumps: Researchers investigated whether mumps might engender immunity to ovarian cancer through antibodies against the cancer-associated antigen MUC1 abnormally expressed in the inflamed parotid gland. 
+https://t.co/5N5HfNq9SB"
+
+
+======================================================================
+
+TOPIC: POLITICS
+Average Sentiment: -0.129
+Total Tweets: 8,382
+----------------------------------------------------------------------
+
+TOP 5 MOST POSITIVE EXAMPLES:
+----------------------------------------
+ 1. Score: +0.992
+    Text: "Nevada: Vice President Harris Predicted to Win
+Vice President Kamala Harris is likely to secure victory in Nevada, thereby gaining 6 electoral votes.
+
+Key Insights from the Forecast
+• Vice President Harris is expected to garner support from women, LGBTQ+ communities, and pro-choice advocates due to her stance on gender equality and reproductive rights. Conversely, former President Trump is anticipated to receive widespread backing from male voters.
+• The Native American population in Nevada should not be overlooked by the Harris campaign, as their votes could prove pivotal. It is noteworthy that President Biden secured the state with a margin of approximately 40,000 votes in the previous election. Although the Native American population in Nevada is relatively small, estimated between 40,000 to 60,000 individuals, their support could help widen the margin between the candidates.
+• A commitment to easing taxation and regulations on tobacco use and sales could be advantageous for the Harris campaign. Similarly, the Trump campaign could appeal to Native American tribes with a parallel strategy to potentially capture some of Vice President Harris's voter base.
+• Nonetheless, projections suggest that Vice President Harris is likely to achieve a decisive victory in Nevada. Any legal challenges from the Trump campaign are expected to be resolved in the courts without significant impact. It seems that the Trump campaign is not heavily reliant on winning Nevada, indicating that a potential loss may not significantly affect their overall strategy.
+
+Assessing the Credibility of our Forecast
+If you're interested in evaluating our credibility and past predictions, please visit:
+https://t.co/cFK4b38uyz
+
+Contribute to Our Efforts
+If you wish to support our work financially, you have the option to make a donation, although it is entirely voluntary.
+https://t.co/ppnIhlsA6z
+
+General Consultation
+You can sum up life in one sentence — life is a very short journey. If you don’t live your life intentionally, it’ll be over before you know it. Ask any question about your life ahead — learn, plan & unlock your life's best possibilities.
+
+Book your Appointment now at:
+https://t.co/mnndSbv2Sc"
+
+ 2. Score: +0.992
+    Text: "Nevada: Vice President Harris Predicted to Win
+Vice President Kamala Harris is likely to secure victory in Nevada, thereby gaining 6 electoral votes.
+
+Key Insights from the Forecast
+• Vice President Harris is expected to garner support from women, LGBTQ+ communities, and pro-choice advocates due to her stance on gender equality and reproductive rights. Conversely, former President Trump is anticipated to receive widespread backing from male voters.
+• The Native American population in Nevada should not be overlooked by the Harris campaign, as their votes could prove pivotal. It is noteworthy that President Biden secured the state with a margin of approximately 40,000 votes in the previous election. Although the Native American population in Nevada is relatively small, estimated between 40,000 to 60,000 individuals, their support could help widen the margin between the candidates.
+• A commitment to easing taxation and regulations on tobacco use and sales could be advantageous for the Harris campaign. Similarly, the Trump campaign could appeal to Native American tribes with a parallel strategy to potentially capture some of Vice President Harris's voter base.
+• Nonetheless, projections suggest that Vice President Harris is likely to achieve a decisive victory in Nevada. Any legal challenges from the Trump campaign are expected to be resolved in the courts without significant impact. It seems that the Trump campaign is not heavily reliant on winning Nevada, indicating that a potential loss may not significantly affect their overall strategy.
+
+Assessing the Credibility of our Forecast
+If you're interested in evaluating our credibility and past predictions, please visit:
+https://t.co/cFK4b38uyz
+
+Contribute to Our Efforts
+If you wish to support our work financially, you have the option to make a donation, although it is entirely voluntary.
+https://t.co/ppnIhlsA6z
+
+General Consultation
+You can sum up life in one sentence — life is a very short journey. If you don’t live your life intentionally, it’ll be over before you know it. Ask any question about your life ahead — learn, plan & unlock your life's best possibilities.
+
+Book your Appointment now at:
+https://t.co/mnndSbv2Sc"
+
+ 3. Score: +0.986
+    Text: "This Was A Huge Story That Vanished From The Media & Stopped Being Talked About
+
+American Trucker Confirming A Huge Underground Tunnel System Spanning Hundreds Of Miles That Goes Into Washington DC & An Entire Underground City
+
+“In 2013, a video was uploaded to youtube of a trucker talking to a man about a massive underground secret city that was being built in the United States. They had to take this tunnel a 100 miles in to reach this place and apparently there were more of these tunnels. Check this out.”
+
+Goes all the way to Washington DC. Yeah. Goes all the way to Washington DC. I don't know. Yeah. You security? Yeah. How far have you taken this down to, uh, how far have you actually ran a load? Maine. Up to Maine?
+No shit. How many miles do you think that is? Man, that's unbelievable. 
+
+Not to mention, I heard, uh, there's one that goes all the way to Colorado. Right?
+Unbelievable. What do you think you're hauling? Any idea? Crap. Yeah.
+Okay. Yeah. Crap makes all kinds of stuff. Yeah. You don't really know.
+Yeah. 
+
+I know there's been a lot of military stuff being hauled around lately. That's for sure. Yeah. We deliver to some people.
+Gotcha. Gotcha. Gotcha. Yeah. Yeah.
+Well, I appreciate I heard there's water supply, food supply, everything's in there. Yeah. Unbelievable. You don't get no cell phone for sure. No.
+Peace, brother. I mean, basically, you got an underground road roadway system here that that runs all the way to Maine, to Washington DC, to Colorado. 
+
+It's fully stocked, uh, it runs completely underground. And this is stocked with food, water, everything they need. It's an underground city. So, uh, it's a north entrance, and, uh, we're gonna go see if we can do some more digging.”
+
+What are they doing down there?"
+
+ 4. Score: +0.981
+    Text: "Had the honor of meeting President Xi Jinping at the iconic Great Hall of People in Beijing. We discussed various dimensions of the multi faceted Pakistan-China relationship and reaffirmed our longstanding and steadfast friendship, All-Weather Strategic cooperation, economic and trade ties, and CPEC. Mutually decided to enhance our economic cooperation through timely completion of ongoing CPEC initiatives as it enters into the next phase with five new corridors. I congratulated him on the success of the 3rd Belt and Road Forum and 10 years of BRI. I underscored that Pakistan would continue to work with China to promote regional connectivity and economic development and to make Gwadar a connectivity hub for the socio-economic development of Pakistan. President Xi  reassured that China would continue supporting Pakistan’s sovereignty, territorial integrity and development, and would continue supporting us in harnessing our geo-economic potential as a hub of regional trade and economics.
+
+I also extended an invitation to President Xi to visit Pakistan at his earliest convenience.
+🇵🇰🤝🇨🇳"
+
+ 5. Score: +0.977
+    Text: "JUST IN: Governor Ron DeSantis' $50 million super PAC is shutting down as donors are beginning to jump ship.
+
+According to the Daily Mail, the super PAC will now be backing Donald Trump after they accused the governor of making "rookie s***" mistakes.
+
+The super PAC was set up by Republican strategist John Thomas who secured massive commitments from mega donors.
+
+Thomas said he began having second thoughts after DeSantis' 'Twitter Spaces' announcement back in May.
+
+"We were hoping to do like a formal TV campaign of air support when DeSantis officially launched,' Thomas told the Daily Mail. "But the problem with that is with the Twitter Spaces blunder, like almost from the get-go, all of our major donors said, "let's just see how this plays out."
+
+"There is one singular important thing every national presidential candidate must do on their launch day, which is provide video to give to the television stations to project optically what your vision is for the future."
+
+"We're going to see after the reporting period of September 30 how Trump's cash on hand is and then we're going to try to determine where we can fill in gaps, if it's needed," he added.
+
+"DeSantis missed, we think, the announcement window when voters were going to be receptive to a change."
+
+WOW."
+
+TOP 5 MOST NEGATIVE EXAMPLES:
+----------------------------------------
+ 1. Score: -0.997
+    Text: "On the so-called liberal Israeli newspaper, @haaretzcom. 
+
+As I scroll through Haaretz homepage, I can read AT LEAST stories 9 humanizing the Israeli army, the Israeli hostages, many of them published months ago, but still worth permanently pinning to the home page:
+
+1) "IDF chief to officers: 'We maintain our humanity, we are not on a killing spree, revenge or genocide'"
+
+2) "Israeli Army Announces Death of Soldier Wounded in Gaza Fighting"
+
+3) "Israel-Gaza War: Day 137 Hostages In Gaza: 134; Hostages Released: 123"
+
+4) "The Names of those Abducted from Israel"
+
+5) "How Haaretz Is Counting Israel's Dead From the October 7 Hamas Attack"'
+
+6) "The Hostages Released From Hamas Captivity"
+
+7) "How the Hamas Attack Unfolded"
+
+8) "Israel-Gaza War Bombed by Hezbollah, Wrecked by IDF: Residents of Towns Near Lebanon Border Are Furious"
+
+9) "Israel's Dead: The Names of Those Killed in Hamas Attacks, Massacres and the Israel-Hamas War"
+
+Meanwhile, I can read 0 stories on the 29,000 Palestinians slaughtered in Gaza, 14,000 of them children. 
+
+Not a single headline covering the death or destruction caused by the Israeli army. Israel's ostensible "left-wing" paper of record totally & utterly complicit with the dehumanization of 2.2M Palestinians in Gaza."
+
+ 2. Score: -0.997
+    Text: "EFCC PRESS STATEMENT
+
+EFCC’s Akure Arrests: Setting the Records Straight
+
+Arising from the misinformation and distortion of facts about the arrest of 127 suspected internet fraudsters by operatives of the Ibadan Zonal Command of the Economic and Financial Crimes Commission, EFCC, on Saturday, June 8, 2024, it becomes imperative to clearly present the true facts of the operation.
+
+The Operatives executed a classical sting operation at two Clubs simultaneously in Akure based on credible intelligence, leading to the arrest of the suspected fraudsters. The operation, in line with the established ground norm for such engagement, was devoid of any incident as the Operatives conducted themselves professionally.
+
+It was therefore shocking to be confronted with narratives particularly from the social media about brutalisation, including a trending video of two ladies showing bodies lacerated by whips. The Commission wants the public to discountenance this video as it may have been stage managed to achieve motives that are unclear. The Commission will subject this video to forensic analysis to establish its falsehood and prepare a case against purveyors of this distasteful stunt.
+
+The Commission wishes to state that no suspect was assaulted, brutalised or subjected to any dehumanising treatment during the Saturday operation. It is also false that tear gas was fired at the crime scene. Those familiar with the Commission’s operations know that EFCC personnel do not use tear gas during sting operation. The officers that carried out the arrests neither came to the scene of crime with canister of tear gas nor whips, to inflict bodily injuries on suspects.
+
+It is also important to state that no damage was done to the CCTV facility at the scene of the arrest. The device was removed by a staff of the Club at the instance of operatives of the Commission to preserve the footages for further analysis of the role of each of the arrested suspects in the alleged crime. Specifically, one of the arrested suspects, the manager of the Club, who confessed to the crime and directed the removal of the CCTV device for further investigative works by the Commission, is in the custody of the EFCC with the CCTV. He is assisting in the investigation of the crime.
+
+It is needful to state, for the umpteenth time, that the Standard Operating Procedure of the EFCC foreclose the use of brute force or unprofessional conduct in the course of any operation. The EFCC is a civilized law enforcement agency with optimal respect for human dignity and the rule of law.
+
+Meanwhile, profiling of suspects arrested at the scene of the crime has been completed. They will be prosecuted accordingly.
+
+Dele Oyewale
+Head, Media & Publicity
+June 9, 2024"
+
+ 3. Score: -0.997
+    Text: "EFCC PRESS STATEMENT
+
+EFCC’s Akure Arrests: Setting the Records Straight
+
+Arising from the misinformation and distortion of facts about the arrest of 127 suspected internet fraudsters by operatives of the Ibadan Zonal Command of the Economic and Financial Crimes Commission, EFCC, on Saturday, June 8, 2024, it becomes imperative to clearly present the true facts of the operation.
+
+The Operatives executed a classical sting operation at two Clubs simultaneously in Akure based on credible intelligence, leading to the arrest of the suspected fraudsters. The operation, in line with the established ground norm for such engagement, was devoid of any incident as the Operatives conducted themselves professionally.
+
+It was therefore shocking to be confronted with narratives particularly from the social media about brutalisation, including a trending video of two ladies showing bodies lacerated by whips. The Commission wants the public to discountenance this video as it may have been stage managed to achieve motives that are unclear. The Commission will subject this video to forensic analysis to establish its falsehood and prepare a case against purveyors of this distasteful stunt.
+
+The Commission wishes to state that no suspect was assaulted, brutalised or subjected to any dehumanising treatment during the Saturday operation. It is also false that tear gas was fired at the crime scene. Those familiar with the Commission’s operations know that EFCC personnel do not use tear gas during sting operation. The officers that carried out the arrests neither came to the scene of crime with canister of tear gas nor whips, to inflict bodily injuries on suspects.
+
+It is also important to state that no damage was done to the CCTV facility at the scene of the arrest. The device was removed by a staff of the Club at the instance of operatives of the Commission to preserve the footages for further analysis of the role of each of the arrested suspects in the alleged crime. Specifically, one of the arrested suspects, the manager of the Club, who confessed to the crime and directed the removal of the CCTV device for further investigative works by the Commission, is in the custody of the EFCC with the CCTV. He is assisting in the investigation of the crime.
+
+It is needful to state, for the umpteenth time, that the Standard Operating Procedure of the EFCC foreclose the use of brute force or unprofessional conduct in the course of any operation. The EFCC is a civilized law enforcement agency with optimal respect for human dignity and the rule of law.
+
+Meanwhile, profiling of suspects arrested at the scene of the crime has been completed. They will be prosecuted accordingly.
+
+Dele Oyewale
+Head, Media & Publicity
+June 9, 2024"
+
+ 4. Score: -0.995
+    Text: "#Bangladesh is under attack from #BNP & #Jamaat #Shibir #militants. 
+
+Today, across the country, the #terrorists targetedly attacked @albd1971 party offices, law enforcement agents, journalists and civilians. With a view to securing the unconstitutional fall of a govt, the militants -
+- Killed at least 14 cops in Cumilla and Sirajganj and injured dozens;
+- Killed at least 19 @albd1971 leaders and workers in multiple districts;
+-Attacked and burnt dozens of AL party offices; 
+- Attacked and looted various religious minority properties; 
+- Attacked and killed a prominent #Hindu community leader and local councilor Haradhan Ray in Rangpur; 
+- Attacked several #journalists and killed local journo Prodip Kumar Bhaumik in Sirajganj; 
+- Attacked, burnt, vandalised and/or looted houses/offices of AL leaders in Barisal, Khulna, Kirshoreganj etc. 
+
+This is not an exhaustive list, more info are still coming in about killings and destruction, which will be shared in due course.
+
+This is not politics. The criminals are not students. They are terrorists and they must be stopped.
+
+The international community must take note of these terrorist and violent acts that the #Bangladesh Govt is facing and handling on a daily basis. Unfortunately, int'l #media is portraying a very one-sided picture of the events.  
+
+#BangladeshUnderAttack"
+
+ 5. Score: -0.995
+    Text: "Philadelphia Officer Says The City Is No Longer Putting Up With The Crime Wave
+
+“The mayor, the commissioner and the governor said we gonna do something about the theft. They passed new legislation that they're going after people”
+
+“That's not gonna happen anymore. Not the city of Philadelphia. You're gonna get prosecuted, and it's gonna be a felony. It ain't gonna be on misdemeanor.”
+
+Interviewer “Can you say something to the youth, please, about all this morning?”
+
+Officer “Well, all I have to say to the youth is put down the gun because if you come here with a gun, the chances are you're not gonna make it home. I hate to say it like that, but we have to keep it real. This is killing us. I've never seen it like this before where young people shoot up a bus depot station, 40 rounds, and shoot innocent people. Something must be done. 
+
+I say this to the parents. Go in your children's room, tear it apart and find that gun. Because when they kill somebody, that's on you. You can't say, well, my child ain't you know what your children are doing. It is your job. 
+
+That's your house. You own it. You are the commander in that chief in that house. Go to your children's house your room and look for these weapons. Stop it before it's too late. 
+
+Either you're burying your child or you're going up to prison every month, visiting your child. It takes a community to stop this. It's not just on the police department. 
+
+That's why we are out there. But it's not all about locking people up. You have to educate these people. You have to educate these young people. Guns is not the way. 
+
+But there's a group of them that believe in robbing and stealing and killing. And those are the ones we have to capture and put away.“"
+
+
+======================================================================
+
+TOPIC: SCIENCE
+Average Sentiment: -0.019
+Total Tweets: 2,195
+----------------------------------------------------------------------
+
+TOP 5 MOST POSITIVE EXAMPLES:
+----------------------------------------
+ 1. Score: +0.983
+    Text: "NEW ARTICLE: Artemisia Annua (Artemisin, Sweet Wormwood) - NOBEL PRIZE WINNING top anti-malarial that also treats COVID-19. Papers retracted, herbal products recalled. It's under attack. WHY?
+
+Novartis sold 1 billion doses. 
+Won Nobel Prize in 2015
+Binds COVID-19 Spike protein better than hydroxychloroquine
+
+Ancient herbal medicine used for 2000 years to treat fevers, respiratory infections. Now being researched to treat Rheumatoid Arthritis, Lupus
+
+Approved by FDA and WHO, 1st line treatment globally for drug-resistant MALARIA
+
+many bioactive compounds (some enhance bioavailability)
+
+broad antiviral activity against viruses (Herpes, HIV, Hep B&C, EBV, CMV, Zika)
+
+binds Spike protein of SARS-COV2 more strongly than hydroxychloroquine (Artemisin has best binding to Spike protein of all the Artemisia compounds)
+
+blocks many other proteins & enzymes in SARS-COV2, blocks viral replication
+
+has immunoregulatory effects to decrease cytokines, cytokine storm, ARDS, organ damage and lung fibrosis in COVID-19 infection (blocks NF-κB signaling)
+
+active against all SARS-COV2 variants
+
+incidence of COVID-19 and related deaths has been very low in countries with regular use of Artemisinin-based antimalaria drugs (!!)
+
+Anti-cancer affects (via blocking NF-κB) for prostate, cervical, colorectal cancers
+
+Safe, very low toxicity
+
+Can it treat COVID-19 mRNA Vaccine Injuries?
+Can it treat Long COVID?
+Why is it under attack?
+
+I review 5 research papers and take a deep dive into this rarely talked about herbal wonder.
+
+Article Link in photo to avoid shadowban, just re-type the URL into your browser
+
+#DiedSuddenly #cdnpoli #ableg"
+
+ 2. Score: +0.983
+    Text: "NEW ARTICLE: Artemisia Annua (Artemisin, Sweet Wormwood) - NOBEL PRIZE WINNING top anti-malarial that also treats COVID-19. Papers retracted, herbal products recalled. It's under attack. WHY?
+
+Novartis sold 1 billion doses. 
+Won Nobel Prize in 2015
+Binds COVID-19 Spike protein better than hydroxychloroquine
+
+Ancient herbal medicine used for 2000 years to treat fevers, respiratory infections. Now being researched to treat Rheumatoid Arthritis, Lupus
+
+Approved by FDA and WHO, 1st line treatment globally for drug-resistant MALARIA
+
+many bioactive compounds (some enhance bioavailability)
+
+broad antiviral activity against viruses (Herpes, HIV, Hep B&C, EBV, CMV, Zika)
+
+binds Spike protein of SARS-COV2 more strongly than hydroxychloroquine (Artemisin has best binding to Spike protein of all the Artemisia compounds)
+
+blocks many other proteins & enzymes in SARS-COV2, blocks viral replication
+
+has immunoregulatory effects to decrease cytokines, cytokine storm, ARDS, organ damage and lung fibrosis in COVID-19 infection (blocks NF-κB signaling)
+
+active against all SARS-COV2 variants
+
+incidence of COVID-19 and related deaths has been very low in countries with regular use of Artemisinin-based antimalaria drugs (!!)
+
+Anti-cancer affects (via blocking NF-κB) for prostate, cervical, colorectal cancers
+
+Safe, very low toxicity
+
+Can it treat COVID-19 mRNA Vaccine Injuries?
+Can it treat Long COVID?
+Why is it under attack?
+
+I review 5 research papers and take a deep dive into this rarely talked about herbal wonder.
+
+Article Link in photo to avoid shadowban, just re-type the URL into your browser
+
+#DiedSuddenly #cdnpoli #ableg"
+
+ 3. Score: +0.978
+    Text: "What are the origins of Easter? Why do people celebrate it today? The truth is that Easter is a pagan holiday because it gives honor to Ishtar, the fertility goddess, who is known today as Easter. The bunnies are a sign of fertility and a sex symbol; they are one of the most sexual animals; for example, the bunny is known to represent playboy. This holiday revolves around sex rituals the priest of Baal would impregnate the virgins and sacrifice the kids once born. The blood of the children would be placed upon the eggs, This is the origin of your Easter eggs. The world has gone along with this tradition for years because we were taught to keep it, our families have continued to pass it down. Easter never falls on the same day year to year; Easter is not regulated by a date; it is regulated by the solar system. Easter always comes on the first Sunday after the first full moon after the equinox; this practice came from Babylon. They worshipped Ishtar in the springtime because everything came to life during this time. She’s been worshipped in Persia, Greece, and Rome. Now the whole world worships her without even knowing it. This is why God tells us not to participate in these wicked customs. Now that you know this, will you continue to celebrate it or stand with Christ? #Easter #Christ"
+
+ 4. Score: +0.963
+    Text: "Nan Madol, Micronesia :
+
+If you ask to many archaeologists what greatest archaeological mystery on earth is, 99% of them will answer: city of Nan Madol, Micronesia. Mysteries surrounding this city are so great and incomprehensible that virtually no one wants to talk about them. If you go to Wikipedia, you will read that the city of Nan Madol was built around 1200 AD by Saudeleur. But this data only refers to only 'known population' that has been traced on island, using some available dating systems. But in reality, according to archaeologists themselves, history of Nan Madol must 'necessarily' have been quite different, although no one can precisely explain how. What makes this city so mysterious, or rather, 'impossible´?
+
+Some of mighty walls of Nan Madol were built from below sea level. It should be noted that columnar basalt blocks were used, at least in some cases weighing up to 50 tonnes. These are held together without adhesives, simply by their weight. They are arranged on top of each other in a criss-cross pattern, like Lego. Researchers have noticed that care with which these blocks are placed underwater is same as when they are placed out of water. Whole thing is extremely precise. How is it possible to build huge walls that start from below sea level, and then emerge from water ? Nan Madol is 1.5km long. It was a real "metropolis" for those times.
+
+So why is it difficult to accept this theory, which is so logical as to seem "obvious"? If this were true, it would mean that Nan Madol was built before waters of planet Earth rose due to Thaw. We are talking about a period between 14,500 and 7000 years ago. This would make Nan Madol by far, and we repeat by far, oldest city in the world. It would also prove the existence of a civilisation that existed before Last Deglaciation.
+
+Ruined city is one of today's great archaeological enigmas and is sometimes called "Atlantis", "eighth wonder of the world," or "Venice of the Pacific".
+
+- Subscribe for Weekly Newsletter -
+https://t.co/QSjn4yGpeh
+
+#archaeohistories"
+
+ 5. Score: +0.961
+    Text: "It is obvious that the sun does not cause skin cancer. 
+
+If the sun caused skin cancer then every animal in the wild would have it. 
+
+If the sun caused skin cancer then people would have had it 100 years ago when everyone worked outside in the sun.
+
+If the sun caused skin cancer then hunter-gatherer tribes who live outside would have it. 
+
+The majority of people who have skin cancer today avoid the sun and cover their skin in toxic sunscreens.
+
+Clearly it is an unhealthy lifestyle and  sunscreen that cause skin cancer, not the sun!"
+
+TOP 5 MOST NEGATIVE EXAMPLES:
+----------------------------------------
+ 1. Score: -0.997
+    Text: "Deathbed confession regarding the "moon landing" a must listen. 
+
+Cyrus Eugene Akers detailed the information in the book, including not only the location of the filming of the first fake moon landing at his military base, the dates it was filmed, and the CIA codename, "OPERATION SLAM-DUNK". He also gave the names of fifteen government scientists and officials who were allowed exclusive observation of this historic government fraud, some of whom are still alive today.
+
+ The list was given to Akers by President Lyndon Johnson, who was there at the first day of filming.
+Threatened with execution if he ever revealed this information, Security Chief Akers kept all of this to himself until his deathbed, the guilt from which prompted his tearful confession to his son, who was also threatened with assassination after sharing this information with the author of Moon Man, Bart Sibrel.
+
+This sad and outrageous, and really unnecessary deception, was done for pride and embezzlement. It demonstrates the complete arrogance of leaders over their people, who in fact are financing their own deception. 
+
+Unlike government frauds about war, assassination, or terrorism, the moon landing deception cruelly gave the over-trusting public the pleasing candy that they cried out for. Trying to take it away from them, after they believed with tears and cheers, by exposing their heroes as the criminals they really are, faces fierce resistance. 
+
+Even a professor at a major university has so famously said, "Even if I heard a moon astronaut confess that he never really went, I would still believe that he walked on the moon."
+
+Fortunately a new generation is here, ones who were not emotionally branded by the deception, who are objective to the unfolding reality of the moon landings falsification. Simply put, what the corrupt government is claiming, is that in 1969 they went from never being in space, to walking on the moon, with only 8 years of research and development, and that with one-millionth the computing of a cell phone, and on the first attempt, when even the South Pole on Earth was not reached on the first attempt.
+
+Today, with 50 years of more advanced rocket and computer technology, the current Artemis moon rocket took 18 years to develop, had three launch failures, is not safe enough yet to carry astronauts, and will only orbit the moon, because a moon lander for it has not yet been developed that works. 
+
+The farthest that the government can send astronauts today, 50 years later, is to the space station, which is only one-thousandth the distance to the moon.
+
+For the first time in the entire history of the world, technology was greater in the past than in the future.
+
+ As this is actually impossible, it only means one thing, that the 1969 moon landing was a forgery. It is not the first time scientific boasts were falsified or governments have lied, as covid vaccine maker Prizer has been fined billions of dollars, on multiple occasions, for making fraudulent claims about their scientific products.
+
+Former high-ranking government employee Robert McNamara, who was Defense Secretary during the Vietnam War, admitted before he died that the "Gulf of Tonkin Incident", which was the reason why the war began, was completely fabricated by the CIA. If the corrupt government is willing to falsify something that led to the death of a million people, including 58,220 of their own citizens, then I think they are capable of faking an image on a television."
+
+ 2. Score: -0.996
+    Text: "This HAS to STOP NOW!!!!!!!
+
+One minute outside and my skin and lips are tingling . 
+
+This is the biggest crime against humanity EVER!!!
+
+This is outrageous 
+
+The largest gas chamber that we have no choice but to be in 
+
+This is the cause of much illness right now 
+
+This is the cause of farmers being unable to sow crops 
+
+THERE IS NO CLIMATE CRISIS!!!!
+
+But megalomaniac globalists are causing untold horrors with this satanic evil!!
+
+Geo engineering MUST STOP
+Solar Radiation Management MUST STOP
+Stratospheric aerosol injections MUST STOP 
+
+You are using poisons to humans and animals like SO2, aluminium , barium 
+
+You are poisoning land and water supplies 
+
+There are colder temperatures everywhere! Stop lying about hot weather. !!!!! 
+
+And a degree warming will do NIthing. 
+
+Warmer is better / less disease.. less heating for homes... less fuel used...less elderly dying ... happier animals 
+
+The fires all last year were man made arson attacks 
+
+Again there is no crisis- other than the likes of Bill bloody Gates and UN playing God and destroying nature and eco systems and weather patterns 
+
+LEAVE nature and Mother Earth ALONE!!!!!!!!!!!!!
+
+This must end IMMEDIATELY ‼️‼️
+
+@elonmusk  @RealCandaceO  @benhabib6  @GovRonDeSantis @KemiBadenoch @10DowningStreet 
+ @MichelleDewbs  @GregHands  @SuellaBraverman @danny__kruger 
+@RishiSunak  @MPIainDS @LeeAndersonMP_ @Jacob_Rees_Mogg @Nigel_Farage @LozzaFox @MartinDaubney @JuliaHB1 @Iromg  @drdavidbull @ThatAlexWoman  @TiceRichard  @toadmeister  @andreajenkyns @andrealeadsom @ABridgen      @pritipatel @Jeremy_Hunt @EstherMcVey1 @thenewcons  @trussliz @VivekGRamaswamy 
+@JamesCleverly @grantshapps @TomTugendhat @BWallaceMP 
+@JSHeappey @TuckerCarlson 
+@AJonesMP @Mather_Keir @michelledonelan @SteveBarclay @ClaireCoutinho"
+
+ 3. Score: -0.993
+    Text: "Das Kola-Superdeep-Borehole-Projekt war eine wissenschaftliche Unternehmung der Sowjetunion mit dem Ziel, so tief wie möglich in die Erdkruste zu bohren. Es begann im Jahr 1970 und wurde 1995 eingestellt. Das tiefste Bohrloch, das dabei erreicht wurde, hat eine Tiefe von 12.262 Metern, was mehr als die Höhe des Mount Everest ist. Dies macht es zum tiefsten von Menschenhand geschaffenen Loch der Geschichte.
+
+Das Projekt wurde auf der Kola-Halbinsel durchgeführt, die im Nordwesten Russlands liegt und an Norwegen und das Nordpolarmeer grenzt. Die Errungenschaft in den Feldern der Ingenieurwissenschaften und Geologie war von erheblicher Bedeutung. Die Bohrungen führten zu einer Reihe von Entdeckungen. Unter anderem wurden Wasser, Gas, Fossilien und Mikroorganismen in den Tiefen der Erde gefunden. Die Forscher stießen auch auf höhere Temperaturen und Drücke als erwartet, was die Bohrarbeiten schwierig und gefährlich machte.
+
+In Bezug auf ungewöhnliche Phänomene berichteten einige Personen von seltsamen Geräuschen, die sie während der Bohrung hörten. Diese wurden teils als "Schreie der Hölle" interpretiert, obwohl es keine wissenschaftliche Grundlage für solche Behauptungen gibt.
+
+Trotz der vielen Erkenntnisse und der technischen Fortschritte wurde das Projekt schließlich wegen fehlender Finanzierung und nachlassendem Interesse eingestellt. 
+
+Das Projekt dient als bedeutsame Grundlage für das Verständnis geologischer Verhältnisse in der Erdkruste und hat zahlreiche ungeklärte Fragen generiert, die bis heute weitere wissenschaftliche Untersuchungen erfordern."
+
+ 4. Score: -0.991
+    Text: "NEW ARTICLE: mRNA & Pregnancy - TURBO CANCER - LYMPHOMA & LEUKEMIA Diagnosed in Pregnancy after COVID-19 mRNA Vaccination
+
+Pfizer & Moderna COVID-19 mRNA Vaccines cause Turbo Cancers and PREGNANT women are at increasingly HIGH RISK of developing Turbo Cancer!
+
+Lymphomas are the most common Turbo Cancer and Pfizer has just acquired Seagen for $43 billion and one of Seagen's approved drugs is ADCETRIS which treats several types of Lymphomas (including kids - yes, Turbo cancer in kids - Pfizer expects millions of COVID-19 mRNA Vaccinated kids to develop CANCER but that's an article for another time).
+
+I document 26 cases of Turbo Cancer Lymphoma and Leukemia in Pregnancy, including:
+
+Dec.14, 2023 - Collierville, TN - Haley Freeman is a young mother and a dedicated Pediatric Nurse and Pediatric Nurse Practitioner. Her husband Billy Freeman is a Firefighter and Paramedic. Both were mandated COVID-19 mRNA Vaccination to keep their jobs. Haley is 4 months pregnant with her second child and developed a large mass in her neck and chest - she was diagnosed with Stage 2 Non-Hodgkin’s Lymphoma.
+
+Dec.1, 2023 - Lucy Richmond was 12 weeks pregnant when she was diagnosed with AML Leukemia. She had a medical termination of pregnancy at 13 weeks.
+
+Aug.1, 2023 - Crystal Lake, IL - 31 year old Sarah Johnson is 35 weeks pregnant with twins. At 33 weeks of pregnancy she was diagnosed with Stage 3 Non-Hodgkin Lymphoma.
+
+July 30, 2023 - Airdrie, AB - Brooke Blackwell-Trautvetter (Kajdy) was admitted to hospital while 20 weeks pregnant where she was diagnosed with Stage 4 B-cell Lymphoma. She is only 22 years old.
+
+May 6, 2023 - Elm Creek, NE - Lauren Schnacker was first diagnosed with Hodgkin Lymphoma in 2021 when she was 8 months pregnant with her 1st daughter. By March 2022 she was cancer free. She was pregnant again in Oct.2022 and her Lymphoma returned again during that pregnancy in Jan.2023.
+
+March 8, 2023 - Odessa, TX - Jamya Finkley is 20 years old. She is pregnant and was diagnosed with ALL Lymphoblastic leukemia
+
+Nov.18, 2022 - Jasper, GA - from June 19 2022, 34 year old Victoria Leigh Ennis went from planning gender reveal party, to having a miscarriage, to B-Cell ALL leukemia diagnosis all within 1 week. She died 5 months later on Nov.18, 2022
+
+Turbo Cancer deaths continue to rise steadily, and @EthicalSkeptic and @DowdEdward continue to provide the evidence
+
+Cancer deaths started rising in 2021 and are at highest levels currently since COVID-19 mRNA Vaccines rolled out.
+
+Pregnant women are especially vulnerable to developing Turbo Cancers for reasons that are currently unknown.
+
+COVID-19 mRNA Vaccines are extremely dangerous in PREGNANCY, carry elevated CANCER risks, and the entire LNP/mRNA platform should be BANNED from being used in pregnancy - that includes COVID-19, RSV, Influenza mRNA Vaccines.
+
+Article Link in photo to avoid shadowban, just re-type the URL into your browser.
+
+@ABDanielleSmith @GoAHealth @AdrianaLagrange
+
+#DiedSuddenly #cdnpoli #ableg #abhealth"
+
+ 5. Score: -0.987
+    Text: "So… I’m sure everyone has seen Kate Middleton’s video about her having cancer and undergoing chemotherapy.
+
+This is just a reminder:
+
+Chemotherapy is POISON.
+
+Cancer IS NOT a disease.
+
+Cancer DOES NOT make anyone sick.
+
+Cancer DOES NOT kill anyone.
+
+Cancer is a HEALING MECHANISM by the body.
+
+What is the body trying to heal from? Exposure to toxemia, drugs, harmful medical treatments, chronic stress and fear, unhealthy diet, unhealthy lifestyle, and overall disobedience to nature."
+
+
+======================================================================
+
+TOPIC: LIFESTYLE
+Average Sentiment: 0.007
+Total Tweets: 7,097
+----------------------------------------------------------------------
+
+TOP 5 MOST POSITIVE EXAMPLES:
+----------------------------------------
+ 1. Score: +0.989
+    Text: "In 1878, Isabella Bover, a renowned French model, was carefully selected to embody the spirit of the Statue of Liberty. This iconic statue, a gift from the generous people of France to their American counterparts, was intended to symbolize the enduring friendship and commemorate the momentous occasion of America's centenary in 1876. Isabella Bover's captivating presence became the face that would forever grace this monumental masterpiece, representing the shared values of liberty and freedom cherished by both nations."
+
+ 2. Score: +0.988
+    Text: "In these challenging economic times for indie game publishing, Humble Games has made the difficult but necessary decision to restructure our operations. This decision was not made lightly; it involved much deliberation and careful thought, with the goal of ensuring the stability and support of our developers and ongoing projects. Additionally, the restructuring of operations at Humble Games will have no impact on operations at Humble Bundle.
+
+We are acutely aware of the profound impact this decision has on our team members at Humble Games and deeply empathize with everyone affected. Our team's contributions have been world-class and invaluable, supporting the launch of our games since we started publishing in 2017. We are committed to navigating this transition with as much empathy and understanding as possible.
+
+Supporting our development partners and assisting former team members remains our top priority. We are committed to making this transition as smooth as possible for everyone involved. Thank you for your support and compassion during this challenging period. It is deeply appreciated."
+
+ 3. Score: +0.987
+    Text: "A great woman erased from history by idiots.  The branding of the syrup was a tribute to this woman’s gifts and talents.  Now future generations will not even know this beautiful woman existed.  What a shame. 
+
+The world knew her as “Aunt Jemima”, but her given name  was Nancy Green and she was a true American success story. She was born a  slave in 1834 Montgomery County, KY. and became a wealthy superstar in  the advertising world, as its first living trademark. Green was 56-yrs  old when she was selected as spokesperson for a new ready-mixed,  self-rising pancake flour and made her debut in 1893 at a fair and  exposition in Chicago. She demonstrated the pancake mix and served  thousands of pancakes, and became an immediate star. 
+
+She was a good  storyteller, her personality was warm and appealing, and her showmanship  was exceptional. Her exhibition booth drew so many people that special  security personnel were assigned to keep the crowds moving. 
+
+Nancy Green was signed to a lifetime contract, traveled on promotional tours all  over the country, and was extremely well paid. Her financial freedom and  stature as a national spokesperson enabled her to become a leading  advocate against poverty and in favor of equal rights for all Americans.  She maintained her job until her death in 1923, at age 89. 
+
+This was a  remarkable woman, and sadly she has been ERASED by politics. I wanted  you to know and remind you in this cancel culture time period."
+
+ 4. Score: +0.983
+    Text: "George Crum invented the Potato chips. Thanks to him, our mindless television watching became a bit more delicious.
+
+—The potato chip was invented in 1853 by George Crum. Crum was a black American chef at the Moon Lake Lodge resort in Saratoga Springs, New York, USA. French fries were popular at the restaurant, and one day a diner complained that the fries were too thick. Although Crum made a thinner batch, the customer was still unsatisfied. Crum finally made fries that were too thin to eat with a fork, hoping to annoy the extremely fussy customer. The customer, surprisingly enough, was happy – and potato chips were invented!
+
+Crum’s chips were originally called Saratoga Chips and potato crunches. They were soon packaged and sold in New England – Crum later opened his own restaurant.
+
+William Tappendon manufactured and marketed the chips in Cleveland, Ohio, in 1895. In the 1920s, a salesman named Herman Lay sold potato chips to the southern USA (selling the chips from the trunk of his car). In 1926, Laura Scudder (who owned a potato chip factory in Monterey Park, California) invented a wax paper potato chip bag to keep the chips fresh and crunchy. With further technology, innovation, and a countless number of variations and flavors, potato chips have only grown in popularity over the years!
+🖊️As the only admin behind this page, I try to research to educate. If you appreciate this effort, you can support to help the page thrive on https://t.co/vf5SMSPu4z. Your support is deeply appreciated! Or just follow the page for articles. #Blackhistorymonth"
+
+ 5. Score: +0.981
+    Text: "Now that 2024 is coming to a close it’s time to vote for our most important award: CATFISH OF THE YEAR 🐱🐈🐟🐠😇🥰
+
+I want to give special thanks to the filters , plastic surgeons, and FaceTime app that make this all possible! 
+
+Please vote by liking and Retweeting the lovely ladies in the thread below!! 
+
+I also want to thank @CaudilloNuclear for bringing attention to these lovely ladies!!"
+
+TOP 5 MOST NEGATIVE EXAMPLES:
+----------------------------------------
+ 1. Score: -0.998
+    Text: "The documentary about Lilly Philips who is being raped by 100 men for OnlyFans is just disgusting. It's heartbreaking to see her, and
+I can't understand how there are 100 men lining up to rape a woman one after another, and no one is talking about it from this point of view. Everybody is calling her whore, but it is only 1 woman and 101 men. Then who are the perverts?
+The cameraman in the documentary even gags when entering the room where this girl is being abused. It's horrifying in every sense. That documentary ends up, unintentionally, being an anti-porn and anti-prostitution piece.
+I really hope that one day the women who defend the regulation of prostitution and are pro-porn wake up to the human rights violations in that "industry."
+And I hope that disgusting pimping platform
+OnlyFans disappears soon, because they can’t allow this. This is not even about making money or female empowerment, this is a public suicidal attempt.
+I am very sorry for her, and through her eyes everybody can notice that she has some type of depression and an extremely low self-esteem. Specially the fact that she didn’t have anybody in her family telling her to stop or to reconsider because it could end up literally killing her. And I also heard her mom is conscious about this and manages her finances. If that is right, then that’s another reason that explains her low self esteem. Imagine having your own mom literally selling you, as her daughter and making profit from you being raped by 100 men you don’t even know. 
+
+The only thing I can think about is praying for her soul and also the souls of every single men that engaged into that to repent.
+
+When Jesus had raised Himself up and saw no one but the woman, He said to her, “Woman, where are those accusers of yours? Has no one condemned you?” 
+She said, “No one, Lord.”
+And Jesus said to her, “Neither do I condemn you; go and sin no more.”"
+
+ 2. Score: -0.998
+    Text: "The documentary about Lilly Philips who is being raped by 100 men for OnlyFans is just disgusting. It's heartbreaking to see her, and
+I can't understand how there are 100 men lining up to rape a woman one after another, and no one is talking about it from this point of view. Everybody is calling her whore, but it is only 1 woman and 101 men. Then who are the perverts?
+The cameraman in the documentary even gags when entering the room where this girl is being abused. It's horrifying in every sense. That documentary ends up, unintentionally, being an anti-porn and anti-prostitution piece.
+I really hope that one day the women who defend the regulation of prostitution and are pro-porn wake up to the human rights violations in that "industry."
+And I hope that disgusting pimping platform
+OnlyFans disappears soon, because they can’t allow this. This is not even about making money or female empowerment, this is a public suicidal attempt.
+I am very sorry for her, and through her eyes everybody can notice that she has some type of depression and an extremely low self-esteem. Specially the fact that she didn’t have anybody in her family telling her to stop or to reconsider because it could end up literally killing her. And I also heard her mom is conscious about this and manages her finances. If that is right, then that’s another reason that explains her low self esteem. Imagine having your own mom literally selling you, as her daughter and making profit from you being raped by 100 men you don’t even know. 
+
+The only thing I can think about is praying for her soul and also the souls of every single men that engaged into that to repent.
+
+When Jesus had raised Himself up and saw no one but the woman, He said to her, “Woman, where are those accusers of yours? Has no one condemned you?” 
+She said, “No one, Lord.”
+And Jesus said to her, “Neither do I condemn you; go and sin no more.”"
+
+ 3. Score: -0.997
+    Text: "COMMUNITY NOTES AND ZIONIST PROPAGANDA 
+
+A small number of my posts have been community noted. 
+
+The reason for this? The system is being gamed by Zionists in order to delegitimise people who bring transparency to Zionist propaganda and provide an alternative position to the mainstream media. 
+
+Zionists are the best at the information warfare. I highlighted this issue previously, specifically in reference to the DeSantis camp who at the time were abusing the system for pro-Trump posts. 
+
+As an example, the post below was community noted. 
+
+There is zero inaccuracy in the post. It does not state that the incident occurred now. Yet it was community noted. The note confirms the post is accurate and states it happened in May.  Urinating on anyone’s grave it anytime is unacceptable for me. Whether it happened in May or in the present day. I found myself questioning the relevance of the community note placed on this post. 
+
+My posts which have been community noted, have been done so in this same manner. To  intentionally discredit the salient point being made, and to provide a grey area for doubt. 
+
+Where I feel there has been a legitimate error, I will always provide a clarification and correction immediately upon realisation, often prior to the community note even being placed. In these instances, the community note simply relays my correction. 
+
+There were also posts where what I wrote was accurate and the image or video I included portrayed the overall message. An example of this was when I posted an image of dead children. The content was accurate and the image was meant to show child death in a holistic manner. But even in that case as I now know it can be misconstrued as so I will also take this into consideration when posting. 
+
+In stark contrast, Zionists have partaken in a huge online propaganda campaign in order to support or advocate the genocide of an entire people.  
+
+An example of this being the (now discredited and debunked) 40 beheaded baby story. 
+
+Another example is the horrendous and irresponsible narrative of “Day of Rage” which was propagated to cause fear of an imminent terrorist attack. 
+
+This caused Islamaphobia, fear and hatred against Muslims. None of these people were community noted for this fear mongering. And I believe that this type of fear mongering may have been a factor in the killing of a 6 year old child in Chicago due to Islamophobia.
+
+The reason behind all of this is that Zionist are controlling amd manipulating community notes.  
+
+Zionism is not the same as Judaism. 
+
+Zionists oppress people of Jewish faith. 
+
+Zionism is Anti Semitism 
+
+#Gazagenocide"
+
+ 4. Score: -0.997
+    Text: "COMMUNITY NOTES AND ZIONIST PROPAGANDA 
+
+A small number of my posts have been community noted. 
+
+The reason for this? The system is being gamed by Zionists in order to delegitimise people who bring transparency to Zionist propaganda and provide an alternative position to the mainstream media. 
+
+Zionists are the best at the information warfare. I highlighted this issue previously, specifically in reference to the DeSantis camp who at the time were abusing the system for pro-Trump posts. 
+
+As an example, the post below was community noted. 
+
+There is zero inaccuracy in the post. It does not state that the incident occurred now. Yet it was community noted. The note confirms the post is accurate and states it happened in May.  Urinating on anyone’s grave it anytime is unacceptable for me. Whether it happened in May or in the present day. I found myself questioning the relevance of the community note placed on this post. 
+
+My posts which have been community noted, have been done so in this same manner. To  intentionally discredit the salient point being made, and to provide a grey area for doubt. 
+
+Where I feel there has been a legitimate error, I will always provide a clarification and correction immediately upon realisation, often prior to the community note even being placed. In these instances, the community note simply relays my correction. 
+
+There were also posts where what I wrote was accurate and the image or video I included portrayed the overall message. An example of this was when I posted an image of dead children. The content was accurate and the image was meant to show child death in a holistic manner. But even in that case as I now know it can be misconstrued as so I will also take this into consideration when posting. 
+
+In stark contrast, Zionists have partaken in a huge online propaganda campaign in order to support or advocate the genocide of an entire people.  
+
+An example of this being the (now discredited and debunked) 40 beheaded baby story. 
+
+Another example is the horrendous and irresponsible narrative of “Day of Rage” which was propagated to cause fear of an imminent terrorist attack. 
+
+This caused Islamaphobia, fear and hatred against Muslims. None of these people were community noted for this fear mongering. And I believe that this type of fear mongering may have been a factor in the killing of a 6 year old child in Chicago due to Islamophobia.
+
+The reason behind all of this is that Zionist are controlling amd manipulating community notes.  
+
+Zionism is not the same as Judaism. 
+
+Zionists oppress people of Jewish faith. 
+
+Zionism is Anti Semitism 
+
+#Gazagenocide"
+
+ 5. Score: -0.997
+    Text: "COMMUNITY NOTES AND ZIONIST PROPAGANDA 
+
+A small number of my posts have been community noted. 
+
+The reason for this? The system is being gamed by Zionists in order to delegitimise people who bring transparency to Zionist propaganda and provide an alternative position to the mainstream media. 
+
+Zionists are the best at the information warfare. I highlighted this issue previously, specifically in reference to the DeSantis camp who at the time were abusing the system for pro-Trump posts. 
+
+As an example, the post below was community noted. 
+
+There is zero inaccuracy in the post. It does not state that the incident occurred now. Yet it was community noted. The note confirms the post is accurate and states it happened in May.  Urinating on anyone’s grave it anytime is unacceptable for me. Whether it happened in May or in the present day. I found myself questioning the relevance of the community note placed on this post. 
+
+My posts which have been community noted, have been done so in this same manner. To  intentionally discredit the salient point being made, and to provide a grey area for doubt. 
+
+Where I feel there has been a legitimate error, I will always provide a clarification and correction immediately upon realisation, often prior to the community note even being placed. In these instances, the community note simply relays my correction. 
+
+There were also posts where what I wrote was accurate and the image or video I included portrayed the overall message. An example of this was when I posted an image of dead children. The content was accurate and the image was meant to show child death in a holistic manner. But even in that case as I now know it can be misconstrued as so I will also take this into consideration when posting. 
+
+In stark contrast, Zionists have partaken in a huge online propaganda campaign in order to support or advocate the genocide of an entire people.  
+
+An example of this being the (now discredited and debunked) 40 beheaded baby story. 
+
+Another example is the horrendous and irresponsible narrative of “Day of Rage” which was propagated to cause fear of an imminent terrorist attack. 
+
+This caused Islamaphobia, fear and hatred against Muslims. None of these people were community noted for this fear mongering. And I believe that this type of fear mongering may have been a factor in the killing of a 6 year old child in Chicago due to Islamophobia.
+
+The reason behind all of this is that Zionist are controlling amd manipulating community notes.  
+
+Zionism is not the same as Judaism. 
+
+Zionists oppress people of Jewish faith. 
+
+Zionism is Anti Semitism 
+
+#Gazagenocide"
+
+
+======================================================================
+
+TOPIC: ECONOMICS
+Average Sentiment: 0.054
+Total Tweets: 1,041
+----------------------------------------------------------------------
+
+TOP 5 MOST POSITIVE EXAMPLES:
+----------------------------------------
+ 1. Score: +1.000
+    Text: "$TSLA Q1 earnings call summary:
+
+1) EV market under pressure, others pursuing hybrids, but that is not the right strategy.
+
+2) Storage reached all time high and record profitability.
+
+3) Continue to expand AI training capacity, more than doubling sequentially.
+
+4) Updated future lineup to accelerate launch of new product. More likely early 2025, if not late this year.
+
+5) Will be able to be produced on current manufacturing lines, much more efficiently.
+
+6) We think this could allow us to get more than 3M vehicles of capacity.
+
+7) 300M+ miles with v12.
+
+8) End-to-end neural networks vision approach is clearly the right path.
+
+9) No longer training constrained.
+
+10) Installed (and working) 35k H100 GPUs. Expect that to be 85k roughly by end of year, just for training.
+
+11) Headed for EV/autonomous future. Gasoline cars that aren't autonomous will be like riding a horse and using a flip-phone.
+
+12) Per unit COGS decline sequentially excluding Cybertruck and other items,like Fremond Model 3. Margins improved slightly.
+
+13) Giga Texas margins already close to Fremont.
+
+14) Other OEMs pulling back on EVs, so increased appetite for regulatory credits.
+
+15) At least 75% growth in Energy in 2024 y/y. Note that deployment are lumpy.
+
+16) Primary driver of negative free cash flow was increased inventory. Free cash flow should return to positive in Q2.
+
+17) Headcount reduction of more than 10% (1B saved annualy).
+
+18) Savings will help improve profitability and scale of AI investments.
+
+19) Future is extremely bright.
+
+20) Status of 4680 and current output: 18-20% increase q/q, 1k per wk, 7gwh per year. Expect to stay ahead in Q2, ramping 3rd and 4th lines.
+
+21) Optimus usefulness and mass production? We are able to do factory tasks in the lab. We do think we will have it in useful production (in actual factory) before the end of this year. May be able to sell externally by end of next year, just guesses.
+
+22) Optimus will be more valuable than everything else combined. Sentient humanoid robot removes limit on size of economy. Tesla is best positioned of any humanoid robot maker to make it to volume production with efficient inference.
+
+23) Inference efficiency is significantly ahead of any other company, which will pay dividends in many ways.
+
+24) What is the current assessment of unsupervised FSD approval? Some states already allow. Helps pave way for broad-based regulatory approval.
+
+25) Other companies have been cutting a path through regulatory jungle. If you have a statistically significant amount of data at scale that shows an AV at half the accident rate, it's difficult to ignore. Do not think there will be a significant regulatory barriers if the data is convincing.
+
+Cars will be like elevators, you don't even think about it.
+
+26) Tesla will be operating the fleet. Some combo of AirBnb and Uber. Some cars that Tesla owns and operates, some owned by end-user. End-user can control availability within the fleet.
+
+27) 7M cars to 9M to tens of millions of cars, with constant feedback loop when anything goes wrong that gets added to training data. Very difficult to compete (like Google's feedback loop). Scale is difficult to comprehend.
+
+28) Also some potential for an AWS element down the road. If we have powerful inference (hardware 5 is designed, should be in cars towards the end of next year). Potential for the car to run distributed inference when the cars is not moving.
+
+100 GWs of inference compute distributed throughout vehicles worldwide (potentially).
+
+100 hours per week of downtime to be used for something else.
+
+29) Train hundreds of neural networks per week. Collect critical events to improve net safety. Is there a net improvement when testing? If so, we start shipping to broader user-base. Live dashboard monitoring including criticality. Constant feedback loop, rinse and repeat.
+
+All of this is automatically improving without requiring much engineering interventions. Mostly learning on its own with the data. Updates the probability distribution.
+
+We have advanced models that are more capable than what is in the car, just have some issues that need to be fixed. Step-change improvement, just need to address the quirks.
+
+30) 12.4 and 12.5, could be v13 and v14, pretty close to total re-train of neural networks. Substantially different.
+
+31) $25k vehicle timeline? Will talk more about this on August 8.
+
+32) Cybertruck ramp? 1k per week a couple weeks ago. Still challenges with new tech and suppliers. Will continue to ramp, focusing on cost efficiency and quality.
+
+33) Any legacy OEMS asking about licensing FSD? In conversations with 1 major OEM regarding licensing FSD.
+
+34) Semi timeline? Finalizing engineering to enable super high volume cost efficient production. In parallel, started construnction in Reno. First vehicles in late 2025, external customers in 2026.
+
+35) FSD transfer permanent? No.
+
+36) Megapack run rate? Ramping as planned, second line for 20>40 MWh is commissioned.
+Have order visibility 12-24 months in advance.
+
+37) Elon, you are leading many companies, where is your heart at in your interests? Tesla constitutes the majority of my work time. Gotta make sure Tesla is prosperous and it is and will be in the future.
+
+38) Volume decline y/y? Higher sales this year than last year.
+
+39) Cathie Wood said it best, should be thought of as AI/robotics company. Auto company is the wrong framework. If you ask the wrong question, the right answer isn't possible.
+If you don't think $TSLA will solve autonomy, you should not be an investor.
+
+40) @elonmusk on 25% voting control: no matter what, Tesla will solve autonomy. Not sure if Optimus would win, or future products, but enough momentum for autonomy even if Elon disappeared.
+Would be more reticent with Optimus if not involved.
+Shareholders have opportunity to re-ratify.
+If company generates cash flow, can buy back shares (and grow Elon's percent ownership).
+
+41) Implications for head count reductions? Had a long period of prosperity. 5% wrong per year, accumulates to 25-30% over a few years.
+
+Really need to reorganize when there are new phases of growth.
+
+42) FSD licensing progression? Just need to be obvious that the approach is right. I think it is becoming obvious with 12.3.
+Have them use the same cameras and inference computer, then use our software. All the phones will be like iPhone= all the cars will be like @Tesla 
+Licensing becomes a method of survival. Otherwise, no one will buy your car.
+Other OEMs take a long time in their product development. A deal signed now would end up in the car in three years (at best), because of their timelines.
+I wouldn't be surprised if we sign a deal this year. Good chance. Maybe more than one.
+
+43) Pricing approach? Yes, can be FCF positive, meaningfully.
+
+44) Timing of launching FSD in others regions? China?
+Plan to release as supervised in any market we can get regulatory approval in, which we think includes China.
+
+45) Extent of impact on sales from issues mentioned? We don't expect these things to reoccur, Q2 expected to be a lot better. Q1 was one thing after another. Cars on ships can't be delivered. Excess demand for Model 3 or Y in one market, but the cars aren't there, can't deliver.
+
+Also have over-complicated the sales process. Greatly simplified in the past couple weeks.
+
+46) Additional inference capacity use case? People didn't expect AWS to be the most valuable part of Amazon as a book store.
+
+Seems like a no-brainer to monetize the additional capacity.
+
+100 GW could be more than any other company. Maybe Apple would have more, but can't use it because of battery constraints.
+
+Distributed liquid-cooled high power compute that is already paid for. Can do profit share with owner.
+
+47) 4680 ramp? Making good progress. Don't think it's super important near-term. Think it'll exceed suppliers by end of this year, and then we'll continue to improve. Ramps is relevant to Cybertruck ramp. Won't just randomly build 4680s without somewhere to put them.
+
+4680 was in part, a hedge on availability of supply elsewhere.
+
+48) Opportunity to sell 4680s to others? Orders for batteries seem to have declined. Prices are much more competitive from suppliers.
+
+4680 also helped understand upstream supply chain, and help reduce supplier costs as well.
+
+49) @MartinViecha will be movin on from IR, still will be around for a couple weeks.
+
+if you liked the summary please click the like button and 
+
+share it:)"
+
+ 2. Score: +0.998
+    Text: "In 2011 Steve Jobs died at the age of 56 from pancreatic cancer, leaving a fortune of 7 billion dollars, these are some of his last words...
+
+“At this moment, lying in bed, sick and remembering my whole life, I realize that all the recognition and wealth I have is meaningless in the face of imminent death. I have the money to hire the best at any task, but it is not possible to hire someone to carry my disease. Money can get you all kinds of material things, but there is one thing you can't buy: "LIFE".
+
+As I got older, I realized that a $300 watch and a $3,000,000 watch show the same time. That with a $50,000 car and a $15,000,000 car, we can reach the same destination. That a wine of $150 or one of $1500, generate the same "hangover." That in a house of 300 square meters, or in one of 3000, the loneliness is the same."
+
+"True happiness does not come from material things, it comes from the affection that our loved ones give us."
+
+So, I hope you understand that when you have friends or someone to talk to, that is true happiness!
+
+Five undeniable facts
+- Do not educate your children to be rich. Educate them to be happy — so when they grow up, they will know the value of things, not the price.
+- Eat your food as medicine, otherwise you must eat medicine as food.
+- The one who loves you will never leave you, even if they have 100 reasons to give up. He/She will always find a reason to hold on.
+- There is a big difference between human being and being human.
+- If you want to go fast, go alone! But if you want to go far, go together.
+
+In whatever stage of life you find yourself now, be grateful and enjoy the little things to the fullest and treasure the Love of your partner, your family and your friends, so that when the day comes when the curtain falls, you can carry with you the true wealth of this world.
+
+If you appreciate this, feel free to follow me and share :)"
+
+ 3. Score: +0.994
+    Text: "𝐂𝐀𝐋𝐋𝐈𝐍𝐆 𝐎𝐍 𝐎𝐔𝐑 𝐇𝐔𝐒𝐓𝐋𝐄𝐑𝐒: 𝐑𝐈𝐃𝐄𝐑𝐒 𝐉𝐎𝐁𝐒 𝐈𝐍 𝐃𝐔𝐁𝐀𝐈
+
+Officials from a United Arab Emirates company will be in Kenya next week to interview and hire motorcycle riders.
+
+𝐓𝐇𝐄 𝐉𝐎𝐁:
+
+Motorcycle Riders - 600 positions
+
+𝐐𝐔𝐀𝐋𝐈𝐅𝐈𝐂𝐀𝐓𝐈𝐎𝐍𝐒:
+
+ • A valid Kenyan passport or proof of an eCitizen application in progress.
+ • A current Certificate of Good Conduct or proof of an eCitizen application in progress.
+ • A valid rider’s license.
+ • Experience is not mandatory but is an added advantage. (Bodaboda riders are highly encouraged to apply.) Successful candidates will undergo four months of training in Dubai, during which the company will assist them in obtaining UAE riding licenses.
+
+𝐏𝐀𝐂𝐊𝐀𝐆𝐄:
+
+ • Riders will earn 7.5 dirhams per delivery trip. The minimum daily average is 15 trips, translating to 112.5 dirhams per day. For 26 working days a month, this totals 2,925 dirhams (approximately 104,000 Kenyan shillings, tax-free). Riders with initiative can make upwards of 30 deliveries per day, increasing their earnings.
+ • Free accommodation will be provided.
+ • A work motorcycle will be provided and maintained by the company.
+ • Comprehensive medical care will be provided.
+ • A work visa will be issued.
+
+𝐅𝐈𝐍𝐀𝐍𝐂𝐈𝐀𝐋 𝐑𝐄𝐐𝐔𝐈𝐑𝐄𝐌𝐄𝐍𝐓:
+
+The company does NOT cover pre-arrival costs, which must be borne by the employee. After thorough analysis, here are the estimated charges:
+ 1. Payment to HR provider in Dubai: 2,200 dirhams = Kshs. 81,400
+ 2. Airfare: Kshs. 40,000
+ 3. Medical fee: Kshs. 16,500 (non-refundable, to be paid upfront)
+ 4. Processing fees (visa, paperwork, etc.): Kshs. 30,000
+
+𝐓𝐎𝐓𝐀𝐋: Kshs. 167,900
+
+Banks are aligned to offer loans to cover these costs, allowing employees to repay once they begin working in Dubai. The medical fee is paid first, and the remaining costs can be settled after passing the medicals. This ensures no unnecessary losses.
+
+𝐈𝐍𝐓𝐄𝐑𝐕𝐈𝐄𝐖 𝐒𝐄𝐒𝐒𝐈𝐎𝐍𝐒:
+
+ • 𝐍𝐀𝐈𝐑𝐎𝐁𝐈: December 9th, 10th, and 11th, 2024, at Kamukunji TVC, next to Kamukunji Primary, from 8:00 AM to 5:00 PM.
+
+ • 𝐌𝐀𝐋𝐈𝐍𝐃𝐈: December 13th and 14th, 2024, at Kilifi North TVC, Watamu Town, next to Watamu Primary, from 8:00 AM to 5:00 PM.
+
+Ministry of Labour officials will be present to ensure ethical recruitment practices.
+
+𝐓𝐑𝐀𝐕𝐄𝐋: 
+
+Successful applicants must be ready to travel to Dubai before the end of the year.
+
+I encourage all hustlers, especially bodaboda riders, to seize this opportunity and try their luck.
+
+Mbele iko Sawa.
+
+𝐃𝐫. 𝐀𝐥𝐟𝐫𝐞𝐝 𝐍. 𝐌𝐮𝐭𝐮𝐚, 𝐄𝐆𝐇
+𝐂𝐚𝐛𝐢𝐧𝐞𝐭 𝐒𝐞𝐜𝐫𝐞𝐭𝐚𝐫𝐲."
+
+ 4. Score: +0.994
+    Text: "𝐂𝐀𝐋𝐋𝐈𝐍𝐆 𝐎𝐍 𝐎𝐔𝐑 𝐇𝐔𝐒𝐓𝐋𝐄𝐑𝐒: 𝐑𝐈𝐃𝐄𝐑𝐒 𝐉𝐎𝐁𝐒 𝐈𝐍 𝐃𝐔𝐁𝐀𝐈
+
+Officials from a United Arab Emirates company will be in Kenya next week to interview and hire motorcycle riders.
+
+𝐓𝐇𝐄 𝐉𝐎𝐁:
+
+Motorcycle Riders - 600 positions
+
+𝐐𝐔𝐀𝐋𝐈𝐅𝐈𝐂𝐀𝐓𝐈𝐎𝐍𝐒:
+
+ • A valid Kenyan passport or proof of an eCitizen application in progress.
+ • A current Certificate of Good Conduct or proof of an eCitizen application in progress.
+ • A valid rider’s license.
+ • Experience is not mandatory but is an added advantage. (Bodaboda riders are highly encouraged to apply.) Successful candidates will undergo four months of training in Dubai, during which the company will assist them in obtaining UAE riding licenses.
+
+𝐏𝐀𝐂𝐊𝐀𝐆𝐄:
+
+ • Riders will earn 7.5 dirhams per delivery trip. The minimum daily average is 15 trips, translating to 112.5 dirhams per day. For 26 working days a month, this totals 2,925 dirhams (approximately 104,000 Kenyan shillings, tax-free). Riders with initiative can make upwards of 30 deliveries per day, increasing their earnings.
+ • Free accommodation will be provided.
+ • A work motorcycle will be provided and maintained by the company.
+ • Comprehensive medical care will be provided.
+ • A work visa will be issued.
+
+𝐅𝐈𝐍𝐀𝐍𝐂𝐈𝐀𝐋 𝐑𝐄𝐐𝐔𝐈𝐑𝐄𝐌𝐄𝐍𝐓:
+
+The company does NOT cover pre-arrival costs, which must be borne by the employee. After thorough analysis, here are the estimated charges:
+ 1. Payment to HR provider in Dubai: 2,200 dirhams = Kshs. 81,400
+ 2. Airfare: Kshs. 40,000
+ 3. Medical fee: Kshs. 16,500 (non-refundable, to be paid upfront)
+ 4. Processing fees (visa, paperwork, etc.): Kshs. 30,000
+
+𝐓𝐎𝐓𝐀𝐋: Kshs. 167,900
+
+Banks are aligned to offer loans to cover these costs, allowing employees to repay once they begin working in Dubai. The medical fee is paid first, and the remaining costs can be settled after passing the medicals. This ensures no unnecessary losses.
+
+𝐈𝐍𝐓𝐄𝐑𝐕𝐈𝐄𝐖 𝐒𝐄𝐒𝐒𝐈𝐎𝐍𝐒:
+
+ • 𝐍𝐀𝐈𝐑𝐎𝐁𝐈: December 9th, 10th, and 11th, 2024, at Kamukunji TVC, next to Kamukunji Primary, from 8:00 AM to 5:00 PM.
+
+ • 𝐌𝐀𝐋𝐈𝐍𝐃𝐈: December 13th and 14th, 2024, at Kilifi North TVC, Watamu Town, next to Watamu Primary, from 8:00 AM to 5:00 PM.
+
+Ministry of Labour officials will be present to ensure ethical recruitment practices.
+
+𝐓𝐑𝐀𝐕𝐄𝐋: 
+
+Successful applicants must be ready to travel to Dubai before the end of the year.
+
+I encourage all hustlers, especially bodaboda riders, to seize this opportunity and try their luck.
+
+Mbele iko Sawa.
+
+𝐃𝐫. 𝐀𝐥𝐟𝐫𝐞𝐝 𝐍. 𝐌𝐮𝐭𝐮𝐚, 𝐄𝐆𝐇
+𝐂𝐚𝐛𝐢𝐧𝐞𝐭 𝐒𝐞𝐜𝐫𝐞𝐭𝐚𝐫𝐲."
+
+ 5. Score: +0.993
+    Text: "Breaking: @Fidelity just registered Form 8-A for their FIDELITY WISE ORIGIN BITCOIN FUND 👀 #Fidelity 
+
+8-A means they are now a registered security that can be traded PUBLICALLY!!!!
+
+$FBTC ETF is approved.
+
+Update: Next will be the @CBOE listing of 315948109. Ill update when I get alerts.
+
+What Is SEC Form 8-A?
+SEC Form 8-A is required by the Securities and Exchange Commission (SEC) from companies seeking to register securities. It must be submitted before securities can be offered on an exchange. It is also known as the Registration of Certain Classes of Securities and the short-form registration statement. Form 8-A is one of the primary forms companies use to register securities for listing or quoting on an exchange under the Securities Exchange Act 1934 for offering to the public.
+
+ITEM 1.
+DESCRIPTION OF REGISTRANT’S SECURITIES TO BE REGISTERED
+
+The securities to be registered hereunder are shares of beneficial interest (the “Shares”), of the Fidelity Wise Origin Bitcoin Fund (the “Trust”). An application for listing of the Shares of the Trust has been filed with and approved by Cboe BZX Exchange, Inc. A description of the Shares is contained in the Trust’s preliminary prospectus, which is a part of the Registration Statement on Form S-1 (Registration Nos. 333-254652), filed with the Securities and Exchange Commission on or about December 29, 2023. Such description is incorporated by reference herein.
+
+Relates to SEC file : 333-254652
+
+https://t.co/8AdqjVxkf3"
+
+TOP 5 MOST NEGATIVE EXAMPLES:
+----------------------------------------
+ 1. Score: -0.968
+    Text: "🇩🇪 Thousands of new cars are rusting in a parking lot in Germany, no one is buying them anymore.
+
+In the German city of Essen, about 6,000 new cars have filled a parking lot due to high prices and problems with the infrastructure for electric cars.
+
+Among the abandoned cars are models of German auto brands Volkswagen and Audi. According to the employees of the site, the cars have been idle for more than six months.
+
+“I have never encountered anything like this before, although I have been working here for more than 10 years.
+
+Cars are only brought in, but almost no one drives them. People are not ready to pay such money for an electric car, and the development of charging stations and limited driving range scare off buyers," said one of the workers.
+
+-> The government imposed the green agenda, now the carmaker go bankrupt …"
+
+ 2. Score: -0.946
+    Text: "Rishi Sunak plans to raise the retirement age to 75, does he realise that many people in their 70's would struggle to do many jobs, that their jobs aren't just standing up and lying, and lying, and lying.
+
+No of course he doesn't and he doesn't care."
+
+ 3. Score: -0.944
+    Text: ""Acknowledge that people still have legitimate frustration and anger because the economy is not working for them?" - 39% of Americans are regularly skipping meals in order to pay their rent, Congressman. Millions are selling their blood plasma in order to survive. This is more than "an economy not working for them." The Dems won't win just by acknowledging their pain. We'll win only by proposing what we're going to do about their pain, not by trying to convince or gaslight people into thinking it's not as bad as they think it is."
+
+ 4. Score: -0.936
+    Text: "11m people in the UK, more than 25% of working people are on Zero Hours Contracts.
+
+This means no work, no pay.
+
+No sick pay, no holidays, no maternity pay, no security.
+
+Zero Hours Contracts should be illegal."
+
+ 5. Score: -0.933
+    Text: "While Idaho Farmers Are Having Their Water Shutoff Look What’s Happening In Arizona
+
+“During one of the worst mega droughts of the past 1200 years—Saudi Arabian owned company is allowed to pump unlimited amounts of groundwater to irrigate farm fields”
+
+The crop is sent overseas
+
+“We're out here in the middle of the Arizona desert during one of the worst mega droughts of the past 1200 years. So you might be surprised to know that a Saudi Arabian owned company is being allowed to use these pumps to pump unlimited amounts of groundwater to irrigate farm fields in the desert and grow one of the most water intensive crops there is, alfalfa. 
+
+So what is this company doing with all of this alfalfa? Well, they're putting it on trucks, and they put it on trains, and they put it on ships, and they send it back to the Middle East. 
+
+So why are they growing these crops out here in Arizona instead of back home? Well, it's illegal to grow a crop like alfalfa in Saudi Arabia because it uses too much water. 
+
+The attorney general of Arizona says this is an outrage. She says this is scandalous, and she's trying to get these leases with her on state owned land canceled so this will stop happening. She says that these foreign companies should not be allowed to operate here in Arizona, especially now that water is a depressions”"
+
+
+======================================================================
+
+TOPIC: SPORTS
+Average Sentiment: 0.097
+Total Tweets: 1,259
+----------------------------------------------------------------------
+
+TOP 5 MOST POSITIVE EXAMPLES:
+----------------------------------------
+ 1. Score: +0.989
+    Text: "⮕ Son's best season: 32 goals + assists
+⮕ Bale's best season: 41 G+A 
+⮕ Mané's best season: 29 G+A 
+⮕ Hazard's best season: 38 G+A 
+⮕ Sterling's best season: 37 G+A 
+⮕ Robben's best season: 32 G+A 
+
+What if I told you that Alexis Sanchez's best season was WAY BETTER than all of them? 48 goals + assists in 2016-17 with Arsenal 🤯🤯
+
+STREETS WON'T FORGET HIS GUNNER DAYS 🇨🇱⚡"
+
+ 2. Score: +0.988
+    Text: "Dear Chelsea fans,
+
+The rumors you’re hearing about me wanting a certain player/ striker is not TRUE. I understand the urgency and importance of signing a quality striker to strengthen our team, and I want to assure you that we're working diligently to find the right player who fits our team's vision and philosophy.
+
+We're taking our time to scout and evaluate the best talent, because we want to make sure we bring in a player who will truly make a difference at Chelsea football club. We're committed to building a team that you can be proud of, and we won't settle for anything less.
+
+We appreciate your support and trust in our process and we will introduce to you our new signings when the time is right.
+
+Thank you for your unwavering support.💙"
+
+ 3. Score: +0.987
+    Text: "🎙️ Mason Greenwood statement: "I want to start by saying I understand that people will judge me because of what they have seen and heard on social media, and I know people will think the worst.
+
+I was brought up to know that violence or abuse in any relationship is wrong, I did not do the things I was accused of, and in February I was cleared of all charges. However, I fully accept I made mistakes in my relationship, and I take my share of responsibility for the situations which led to the social media post.
+I am learning to understand my responsibilities to set a good example as a professional footballer, and I’m focused on the big responsibility of being a father, as well as a good partner.
+
+Today’s decision has been part of a collaborative process between Manchester United, my family and me. The best decision for us all, is for me to continue my football career away from Old Trafford, where my presence will not be a distraction for the club. I thank the club for their support since I joined aged seven. There will always be a part of me which is United.
+
+I am enormously grateful to my family and all my loved ones for their support, and it is now for me to repay the trust those around me have shown. I intend to be a better footballer, but most importantly a good father, a better person, and to use my talents in a positive way on and off the pitch.""
+
+ 4. Score: +0.986
+    Text: "Gareth Bale:
+
+"If it wasn't for injuries, my name would be in the same debate with Cristiano Ronaldo and Lionel Messi name."
+
+"At Real Madrid training sessions I was the best free kick taker, the best finisher, but Cristiano was preferred to take them freekicks and all dead balls except for corner kicks, but at training i was always above him in the free kicks scoring rate."
+
+"In Champions League finals I did great, particularly against Atletico Madrid we were two minutes away to defeat, but guess what I saved them, we went on to win 4-1, but my name is forgotten."
+
+"Against Liverpool in the final I scored a sensational goal but no one wants to admit that it was the best goal in Champions League just because my name is Gareth Bale”"
+
+ 5. Score: +0.985
+    Text: "Just watched a press conference with Declan Rice, defending his girlfriend as she took her Instagram down due to trolls stating she's not WAG material and he could do better.
+
+Other footballers have Latinas, glamour models and pop stars.
+
+His girlfriend, then feeling inadequate, went on to delete all her selfies and photos.
+
+He began speaking about her and he said she was real, funny, beautiful and kind and that he loves her more than anything in the world. She has been his safe place when he's felt alone in the world.
+
+They've welcomed a baby together in 2022 and since she's become a mother, he loves her and fancies her even more.
+
+When asked if he ever read comments and wondered if he should upgrade his wag he replied My woman is the love of my life and there is no upgrade that exists for me. 
+
+Declan... you truly are a gentleman. 👏🏻❤️🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+
+TOP 5 MOST NEGATIVE EXAMPLES:
+----------------------------------------
+ 1. Score: -0.968
+    Text: "Not surprisingly, the replies and quotes to this opinion are all over the map.
+
+It may be helpful for some to go back and read the original reporting to separate fact from fiction: https://t.co/G7ZVB5JTIm
+
+There was never any alleged sexual assault. (That hasn't stopped people from calling him a rapist or comparing him to the alleged gang rape that other hockey players are alleged to have participated in.) Fact: Mailloux had a consensual sexual encounter and took a photo without permission, then messaged that photo to teammates. Fact: The photo did not contain any nudity, nor did it reveal the identity of the person he was having the sexual encounter with at the time in Sweden.
+
+It was a horrific violation of privacy and he defamed his victim. Period. Full stop. 
+
+It was criminal. It humiliated a young woman and her family. It's wrong and no one disputes that or condones it.
+
+I was asked about the price paid, so what is it? Mailloux was charged with and paid the fines in Sweden. He was taken off draft lists, then renounced himself from the draft asked all 32 teams not to draft him. The Canadiens (previous regime) ignored that and drafted him anyway against his wishes - and in the first round. He was then not allowed to participate in training camp and development camp as the pick was condemned by Canadian prime minister Justin Trudeau. The OHL suspended Mailloux indefinitely, which ended up lasting four months. He has since reportedly put in the work to learn from his actions and met with the NHL on more than one occasion to ultimately be declared eligible to play.
+
+Whether that is punishment enough for you, only you can personally decide. It's impossible to not feel for the victim here as she watches Mailloux reach the next level. I can't imagine what that must be like. 
+
+This is an uncomfortable societal conversation and one not made for Twitter and a 280-character limit. 
+
+My only point and opinion: Yes, playing in the NHL is a privilege, but people should have a path to earn their way back and earn a living. Mailloux committed a crime. He did the time as prescribed by four governing bodies: Sweden, the OHL, the Canadiens and the NHL. You can't lock him up and throw away the key, that isn't how justice works.
+
+The Canadiens feel he's earned the right to pursue a livelihood in the NHL. Whether you agree or not is up for debate."
+
+ 2. Score: -0.960
+    Text: "🚨✍️| 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 Osasuna statement on Mason Greenwood for being fined after chants of ‘D*e, Greenwood’
+
+“La Liga allows a detainee accused of attempted rape, assault resulting in actual bodily harm and controlling and coercive behaviour to compete in its competition. Once again, economic interests take precedence over the fight for a society without any type of oppression. A rapist will play on Sunday in our house.”"
+
+ 3. Score: -0.937
+    Text: "Update: It’s feared #Lions RB Jahmyr Gibbs has suffered an ACL injury. The young star has had a lingering hamstring issue, which correlates with ACL tears.
+
+Devastating. https://t.co/9IiepWVlcZ"
+
+ 4. Score: -0.927
+    Text: "Trevor Bauer, the pitcher who spent the season in Japan after serving a record suspension for violating baseball’s domestic violence policy, has agreed to settle his legal fight with Lindsey Hill, the woman who first accused him of sexual assault. https://t.co/AgS1IFs4cE"
+
+ 5. Score: -0.920
+    Text: "America is such a racist place that @espn employs the guy who wrote this article even though he was arrested for attacking his wife in front of their six year old kid and attacking a police officer. (He plead it down to six months probation). https://t.co/oSZy49ChrC"
+
+
+======================================================================
+
