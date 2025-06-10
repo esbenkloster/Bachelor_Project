@@ -1,0 +1,1179 @@
+[2025-05-27 23:47:25] 🚀 Starting comprehensive hyperparameter optimization...
+[2025-05-27 23:47:25] 🧠 Generating intelligent hyperparameter combinations...
+[2025-05-27 23:47:25] Generated 64 priority combinations
+[2025-05-27 23:47:25] Generated 264 unique hyperparameter combinations
+[2025-05-27 23:47:25] Target: 264 configurations
+[2025-05-27 23:47:25] Data prepared: 924 train, 125 test samples
+[2025-05-27 23:47:25] Classes: ['economics', 'health', 'lifestyle', 'politics', 'science', 'sports']
+[2025-05-27 23:47:25] 🚀 Starting hyperparameter optimization...
+[2025-05-27 23:47:25] Data prepared: 924 train, 125 test samples
+[2025-05-27 23:47:25] Classes: ['economics', 'health', 'lifestyle', 'politics', 'science', 'sports']
+[2025-05-27 23:47:25] 🧠 Generating intelligent hyperparameter combinations...
+[2025-05-27 23:47:25] Generated 64 priority combinations
+[2025-05-27 23:47:25] Generated 264 unique hyperparameter combinations
+[2025-05-27 23:47:25] 🧪 Testing 264 hyperparameter configurations...
+[2025-05-27 23:47:25] 
+🔬 Testing configuration 1/264
+[2025-05-27 23:47:25] Config: LR=1e-05, BS=4, Epochs=5, WD=0.0
+[2025-05-27 23:55:32] ✅ Config 1: Accuracy=0.8240, Loss=0.8328
+[2025-05-27 23:55:32] 🏆 New best accuracy: 0.8240
+[2025-05-27 23:55:32] 
+🔬 Testing configuration 2/264
+[2025-05-27 23:55:32] Config: LR=1e-05, BS=4, Epochs=5, WD=0.0
+[2025-05-28 00:04:19] ✅ Config 2: Accuracy=0.8560, Loss=0.7343
+[2025-05-28 00:04:20] 🏆 New best accuracy: 0.8560
+[2025-05-28 00:04:20] 
+🔬 Testing configuration 3/264
+[2025-05-28 00:04:20] Config: LR=1e-05, BS=4, Epochs=5, WD=0.01
+[2025-05-28 00:13:00] ✅ Config 3: Accuracy=0.5040, Loss=1.3607
+[2025-05-28 00:13:01] 
+🔬 Testing configuration 4/264
+[2025-05-28 00:13:01] Config: LR=1e-05, BS=4, Epochs=5, WD=0.01
+[2025-05-28 00:22:13] ✅ Config 4: Accuracy=0.8800, Loss=0.4486
+[2025-05-28 00:22:14] 🏆 New best accuracy: 0.8800
+[2025-05-28 00:22:14] 
+🔬 Testing configuration 5/264
+[2025-05-28 00:22:14] Config: LR=1e-05, BS=4, Epochs=7, WD=0.0
+[2025-05-28 00:34:56] ✅ Config 5: Accuracy=0.8960, Loss=0.4398
+[2025-05-28 00:34:56] 🏆 New best accuracy: 0.8960
+[2025-05-28 00:34:56] 
+🔬 Testing configuration 6/264
+[2025-05-28 00:34:56] Config: LR=1e-05, BS=4, Epochs=7, WD=0.0
+[2025-05-28 00:46:58] ✅ Config 6: Accuracy=0.8240, Loss=0.8160
+[2025-05-28 00:46:59] 
+🔬 Testing configuration 7/264
+[2025-05-28 00:46:59] Config: LR=1e-05, BS=4, Epochs=7, WD=0.01
+[2025-05-28 00:58:47] ✅ Config 7: Accuracy=0.7600, Loss=0.7416
+[2025-05-28 00:58:47] 
+🔬 Testing configuration 8/264
+[2025-05-28 00:58:47] Config: LR=1e-05, BS=4, Epochs=7, WD=0.01
+[2025-05-28 01:11:31] ✅ Config 8: Accuracy=0.8560, Loss=0.6874
+[2025-05-28 01:11:32] 
+🔬 Testing configuration 9/264
+[2025-05-28 01:11:32] Config: LR=1e-05, BS=8, Epochs=5, WD=0.0
+[2025-05-28 01:19:00] ✅ Config 9: Accuracy=0.8480, Loss=0.4203
+[2025-05-28 01:19:00] 
+🔬 Testing configuration 10/264
+[2025-05-28 01:19:00] Config: LR=1e-05, BS=8, Epochs=5, WD=0.0
+[2025-05-28 01:26:26] ✅ Config 10: Accuracy=0.8720, Loss=0.7169
+[2025-05-28 01:26:26] 💾 Saved checkpoint at 10 configurations
+[2025-05-28 01:26:26] 
+🔬 Testing configuration 11/264
+[2025-05-28 01:26:26] Config: LR=1e-05, BS=8, Epochs=5, WD=0.01
+[2025-05-28 01:33:54] ✅ Config 11: Accuracy=0.7760, Loss=0.6833
+[2025-05-28 01:33:55] 
+🔬 Testing configuration 12/264
+[2025-05-28 01:33:55] Config: LR=1e-05, BS=8, Epochs=5, WD=0.01
+[2025-05-28 01:41:19] ✅ Config 12: Accuracy=0.8640, Loss=0.4073
+[2025-05-28 01:41:19] 
+🔬 Testing configuration 13/264
+[2025-05-28 01:41:19] Config: LR=1e-05, BS=8, Epochs=7, WD=0.0
+[2025-05-28 01:50:58] ✅ Config 13: Accuracy=0.8400, Loss=0.7873
+[2025-05-28 01:50:58] 
+🔬 Testing configuration 14/264
+[2025-05-28 01:50:58] Config: LR=1e-05, BS=8, Epochs=7, WD=0.0
+[2025-05-28 02:01:10] ✅ Config 14: Accuracy=0.8880, Loss=0.6863
+[2025-05-28 02:01:10] 
+🔬 Testing configuration 15/264
+[2025-05-28 02:01:10] Config: LR=1e-05, BS=8, Epochs=7, WD=0.01
+[2025-05-28 02:11:26] ✅ Config 15: Accuracy=0.8720, Loss=0.4661
+[2025-05-28 02:11:26] 
+🔬 Testing configuration 16/264
+[2025-05-28 02:11:26] Config: LR=1e-05, BS=8, Epochs=7, WD=0.01
+[2025-05-28 02:20:59] ✅ Config 16: Accuracy=0.8800, Loss=0.3552
+[2025-05-28 02:20:59] 
+🔬 Testing configuration 17/264
+[2025-05-28 02:20:59] Config: LR=2e-05, BS=4, Epochs=5, WD=0.0
+[2025-05-28 02:29:33] ✅ Config 17: Accuracy=0.8560, Loss=0.7817
+[2025-05-28 02:29:34] 
+🔬 Testing configuration 18/264
+[2025-05-28 02:29:34] Config: LR=2e-05, BS=4, Epochs=5, WD=0.0
+[2025-05-28 02:38:44] ✅ Config 18: Accuracy=0.9120, Loss=0.5299
+[2025-05-28 02:38:44] 🏆 New best accuracy: 0.9120
+[2025-05-28 02:38:44] 
+🔬 Testing configuration 19/264
+[2025-05-28 02:38:44] Config: LR=2e-05, BS=4, Epochs=5, WD=0.01
+[2025-05-28 02:47:22] ✅ Config 19: Accuracy=0.8880, Loss=0.4285
+[2025-05-28 02:47:22] 
+🔬 Testing configuration 20/264
+[2025-05-28 02:47:22] Config: LR=2e-05, BS=4, Epochs=5, WD=0.01
+[2025-05-28 02:56:22] ✅ Config 20: Accuracy=0.8640, Loss=0.4664
+[2025-05-28 02:56:22] 💾 Saved checkpoint at 20 configurations
+[2025-05-28 02:56:22] 
+🔬 Testing configuration 21/264
+[2025-05-28 02:56:22] Config: LR=2e-05, BS=4, Epochs=7, WD=0.0
+[2025-05-28 03:08:17] ✅ Config 21: Accuracy=0.9040, Loss=0.3640
+[2025-05-28 03:08:17] 
+🔬 Testing configuration 22/264
+[2025-05-28 03:08:17] Config: LR=2e-05, BS=4, Epochs=7, WD=0.0
+[2025-05-28 03:20:01] ✅ Config 22: Accuracy=0.9040, Loss=0.7034
+[2025-05-28 03:20:02] 
+🔬 Testing configuration 23/264
+[2025-05-28 03:20:02] Config: LR=2e-05, BS=4, Epochs=7, WD=0.01
+[2025-05-28 03:32:01] ✅ Config 23: Accuracy=0.8800, Loss=0.7155
+[2025-05-28 03:32:01] 
+🔬 Testing configuration 24/264
+[2025-05-28 03:32:01] Config: LR=2e-05, BS=4, Epochs=7, WD=0.01
+[2025-05-28 03:44:46] ✅ Config 24: Accuracy=0.8640, Loss=0.7440
+[2025-05-28 03:44:47] 
+🔬 Testing configuration 25/264
+[2025-05-28 03:44:47] Config: LR=2e-05, BS=8, Epochs=5, WD=0.0
+[2025-05-28 03:52:06] ✅ Config 25: Accuracy=0.8800, Loss=0.7372
+[2025-05-28 03:52:06] 
+🔬 Testing configuration 26/264
+[2025-05-28 03:52:06] Config: LR=2e-05, BS=8, Epochs=5, WD=0.0
+[2025-05-28 03:59:01] ✅ Config 26: Accuracy=0.8720, Loss=0.5678
+[2025-05-28 03:59:01] 
+🔬 Testing configuration 27/264
+[2025-05-28 03:59:01] Config: LR=2e-05, BS=8, Epochs=5, WD=0.01
+[2025-05-28 04:06:29] ✅ Config 27: Accuracy=0.8800, Loss=0.7108
+[2025-05-28 04:06:29] 
+🔬 Testing configuration 28/264
+[2025-05-28 04:06:29] Config: LR=2e-05, BS=8, Epochs=5, WD=0.01
+[2025-05-28 04:13:30] ✅ Config 28: Accuracy=0.8960, Loss=0.6712
+[2025-05-28 04:13:30] 
+🔬 Testing configuration 29/264
+[2025-05-28 04:13:30] Config: LR=2e-05, BS=8, Epochs=7, WD=0.0
+[2025-05-28 04:23:11] ✅ Config 29: Accuracy=0.8640, Loss=0.5624
+[2025-05-28 04:23:11] 
+🔬 Testing configuration 30/264
+[2025-05-28 04:23:11] Config: LR=2e-05, BS=8, Epochs=7, WD=0.0
+[2025-05-28 04:31:02] ✅ Config 30: Accuracy=0.8800, Loss=0.6983
+[2025-05-28 04:31:03] 💾 Saved checkpoint at 30 configurations
+[2025-05-28 04:31:03] 
+🔬 Testing configuration 31/264
+[2025-05-28 04:31:03] Config: LR=2e-05, BS=8, Epochs=7, WD=0.01
+[2025-05-28 04:42:10] ✅ Config 31: Accuracy=0.9120, Loss=0.6630
+[2025-05-28 04:42:11] 
+🔬 Testing configuration 32/264
+[2025-05-28 04:42:11] Config: LR=2e-05, BS=8, Epochs=7, WD=0.01
+[2025-05-28 04:53:04] ✅ Config 32: Accuracy=0.8720, Loss=0.7577
+[2025-05-28 04:53:04] 
+🔬 Testing configuration 33/264
+[2025-05-28 04:53:04] Config: LR=3e-05, BS=4, Epochs=5, WD=0.0
+[2025-05-28 05:02:02] ✅ Config 33: Accuracy=0.9040, Loss=0.3606
+[2025-05-28 05:02:02] 
+🔬 Testing configuration 34/264
+[2025-05-28 05:02:02] Config: LR=3e-05, BS=4, Epochs=5, WD=0.0
+[2025-05-28 05:11:42] ✅ Config 34: Accuracy=0.8640, Loss=0.7425
+[2025-05-28 05:11:42] 
+🔬 Testing configuration 35/264
+[2025-05-28 05:11:42] Config: LR=3e-05, BS=4, Epochs=5, WD=0.01
+[2025-05-28 05:21:27] ✅ Config 35: Accuracy=0.8320, Loss=0.8592
+[2025-05-28 05:21:27] 
+🔬 Testing configuration 36/264
+[2025-05-28 05:21:27] Config: LR=3e-05, BS=4, Epochs=5, WD=0.01
+[2025-05-28 05:31:55] ✅ Config 36: Accuracy=0.8720, Loss=0.7360
+[2025-05-28 05:31:55] 
+🔬 Testing configuration 37/264
+[2025-05-28 05:31:55] Config: LR=3e-05, BS=4, Epochs=7, WD=0.0
+[2025-05-28 05:45:10] ✅ Config 37: Accuracy=0.8720, Loss=0.7851
+[2025-05-28 05:45:10] 
+🔬 Testing configuration 38/264
+[2025-05-28 05:45:10] Config: LR=3e-05, BS=4, Epochs=7, WD=0.0
+[2025-05-28 05:57:55] ✅ Config 38: Accuracy=0.8720, Loss=0.6680
+[2025-05-28 05:57:56] 
+🔬 Testing configuration 39/264
+[2025-05-28 05:57:56] Config: LR=3e-05, BS=4, Epochs=7, WD=0.01
+[2025-05-28 06:11:03] ✅ Config 39: Accuracy=0.8640, Loss=0.7266
+[2025-05-28 06:11:04] 
+🔬 Testing configuration 40/264
+[2025-05-28 06:11:04] Config: LR=3e-05, BS=4, Epochs=7, WD=0.01
+[2025-05-28 06:22:14] ✅ Config 40: Accuracy=0.8800, Loss=0.7660
+[2025-05-28 06:22:14] 💾 Saved checkpoint at 40 configurations
+[2025-05-28 06:22:14] 
+🔬 Testing configuration 41/264
+[2025-05-28 06:22:14] Config: LR=3e-05, BS=8, Epochs=5, WD=0.0
+[2025-05-28 06:30:16] ✅ Config 41: Accuracy=0.8720, Loss=0.7573
+[2025-05-28 06:30:16] 
+🔬 Testing configuration 42/264
+[2025-05-28 06:30:16] Config: LR=3e-05, BS=8, Epochs=5, WD=0.0
+[2025-05-28 06:38:06] ✅ Config 42: Accuracy=0.8640, Loss=0.8611
+[2025-05-28 06:38:06] 
+🔬 Testing configuration 43/264
+[2025-05-28 06:38:06] Config: LR=3e-05, BS=8, Epochs=5, WD=0.01
+[2025-05-28 06:46:26] ✅ Config 43: Accuracy=0.8720, Loss=0.7781
+[2025-05-28 06:46:26] 
+🔬 Testing configuration 44/264
+[2025-05-28 06:46:26] Config: LR=3e-05, BS=8, Epochs=5, WD=0.01
+[2025-05-28 06:54:20] ✅ Config 44: Accuracy=0.8800, Loss=0.7139
+[2025-05-28 06:54:20] 
+🔬 Testing configuration 45/264
+[2025-05-28 06:54:20] Config: LR=3e-05, BS=8, Epochs=7, WD=0.0
+[2025-05-28 07:04:07] ✅ Config 45: Accuracy=0.8640, Loss=0.7253
+[2025-05-28 07:04:07] 
+🔬 Testing configuration 46/264
+[2025-05-28 07:04:07] Config: LR=3e-05, BS=8, Epochs=7, WD=0.0
+[2025-05-28 07:13:31] ✅ Config 46: Accuracy=0.8640, Loss=0.8690
+[2025-05-28 07:13:32] 
+🔬 Testing configuration 47/264
+[2025-05-28 07:13:32] Config: LR=3e-05, BS=8, Epochs=7, WD=0.01
+[2025-05-28 07:21:47] ✅ Config 47: Accuracy=0.8880, Loss=0.7319
+[2025-05-28 07:21:47] 
+🔬 Testing configuration 48/264
+[2025-05-28 07:21:47] Config: LR=3e-05, BS=8, Epochs=7, WD=0.01
+[2025-05-28 07:29:35] ✅ Config 48: Accuracy=0.8800, Loss=0.3767
+[2025-05-28 07:29:35] 
+🔬 Testing configuration 49/264
+[2025-05-28 07:29:35] Config: LR=5e-05, BS=4, Epochs=5, WD=0.0
+[2025-05-28 07:38:12] ✅ Config 49: Accuracy=0.9040, Loss=0.6849
+[2025-05-28 07:38:12] 
+🔬 Testing configuration 50/264
+[2025-05-28 07:38:12] Config: LR=5e-05, BS=4, Epochs=5, WD=0.0
+[2025-05-28 07:46:30] ✅ Config 50: Accuracy=0.8800, Loss=0.7318
+[2025-05-28 07:46:30] 💾 Saved checkpoint at 50 configurations
+[2025-05-28 07:46:30] 
+🔬 Testing configuration 51/264
+[2025-05-28 07:46:30] Config: LR=5e-05, BS=4, Epochs=5, WD=0.01
+[2025-05-28 07:54:44] ✅ Config 51: Accuracy=0.9040, Loss=0.7047
+[2025-05-28 07:54:44] 
+🔬 Testing configuration 52/264
+[2025-05-28 07:54:44] Config: LR=5e-05, BS=4, Epochs=5, WD=0.01
+[2025-05-28 08:03:20] ✅ Config 52: Accuracy=0.8960, Loss=0.7058
+[2025-05-28 08:03:21] 
+🔬 Testing configuration 53/264
+[2025-05-28 08:03:21] Config: LR=5e-05, BS=4, Epochs=7, WD=0.0
+[2025-05-28 08:14:49] ✅ Config 53: Accuracy=0.8960, Loss=0.7867
+[2025-05-28 08:14:49] 
+🔬 Testing configuration 54/264
+[2025-05-28 08:14:49] Config: LR=5e-05, BS=4, Epochs=7, WD=0.0
+[2025-05-28 08:25:41] ✅ Config 54: Accuracy=0.6880, Loss=1.1725
+[2025-05-28 08:25:41] 
+🔬 Testing configuration 55/264
+[2025-05-28 08:25:41] Config: LR=5e-05, BS=4, Epochs=7, WD=0.01
+[2025-05-28 08:36:27] ✅ Config 55: Accuracy=0.9040, Loss=0.6954
+[2025-05-28 08:36:28] 
+🔬 Testing configuration 56/264
+[2025-05-28 08:36:28] Config: LR=5e-05, BS=4, Epochs=7, WD=0.01
+[2025-05-28 08:47:16] ✅ Config 56: Accuracy=0.8720, Loss=0.6922
+[2025-05-28 08:47:16] 
+🔬 Testing configuration 57/264
+[2025-05-28 08:47:16] Config: LR=5e-05, BS=8, Epochs=5, WD=0.0
+[2025-05-28 08:53:34] ✅ Config 57: Accuracy=0.8720, Loss=0.7028
+[2025-05-28 08:53:34] 
+🔬 Testing configuration 58/264
+[2025-05-28 08:53:34] Config: LR=5e-05, BS=8, Epochs=5, WD=0.0
+[2025-05-28 09:00:09] ✅ Config 58: Accuracy=0.2720, Loss=1.8882
+[2025-05-28 09:00:09] 
+🔬 Testing configuration 59/264
+[2025-05-28 09:00:09] Config: LR=5e-05, BS=8, Epochs=5, WD=0.01
+[2025-05-28 09:06:52] ✅ Config 59: Accuracy=0.8480, Loss=0.8047
+[2025-05-28 09:06:52] 
+🔬 Testing configuration 60/264
+[2025-05-28 09:06:52] Config: LR=5e-05, BS=8, Epochs=5, WD=0.01
+[2025-05-28 09:13:12] ✅ Config 60: Accuracy=0.8560, Loss=0.7855
+[2025-05-28 09:13:12] 💾 Saved checkpoint at 60 configurations
+[2025-05-28 09:13:12] 
+🔬 Testing configuration 61/264
+[2025-05-28 09:13:12] Config: LR=5e-05, BS=8, Epochs=7, WD=0.0
+[2025-05-28 09:22:12] ✅ Config 61: Accuracy=0.8480, Loss=0.8177
+[2025-05-28 09:22:13] 
+🔬 Testing configuration 62/264
+[2025-05-28 09:22:13] Config: LR=5e-05, BS=8, Epochs=7, WD=0.0
+[2025-05-28 09:31:07] ✅ Config 62: Accuracy=0.8320, Loss=0.9443
+[2025-05-28 09:31:08] 
+🔬 Testing configuration 63/264
+[2025-05-28 09:31:08] Config: LR=5e-05, BS=8, Epochs=7, WD=0.01
+[2025-05-28 09:40:08] ✅ Config 63: Accuracy=0.9040, Loss=0.7229
+[2025-05-28 09:40:08] 
+🔬 Testing configuration 64/264
+[2025-05-28 09:40:08] Config: LR=5e-05, BS=8, Epochs=7, WD=0.01
+[2025-05-28 09:49:15] ✅ Config 64: Accuracy=0.8880, Loss=0.7507
+[2025-05-28 09:49:16] 
+🔬 Testing configuration 65/264
+[2025-05-28 09:49:16] Config: LR=2e-05, BS=4, Epochs=7, WD=0.01
+[2025-05-28 09:49:24] ❌ Fatal error with config 65: Adafactor.__init__() got an unexpected keyword argument 'relative_step_size'
+[2025-05-28 09:49:24] 
+🔬 Testing configuration 66/264
+[2025-05-28 09:49:24] Config: LR=5e-05, BS=4, Epochs=5, WD=0.0
+[2025-05-28 09:49:32] ❌ Fatal error with config 66: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: steps
+- Save strategy: epoch
+[2025-05-28 09:49:32] 
+🔬 Testing configuration 67/264
+[2025-05-28 09:49:32] Config: LR=1e-05, BS=2, Epochs=7, WD=0.1
+[2025-05-28 10:04:18] ✅ Config 67: Accuracy=0.2160, Loss=1.7953
+[2025-05-28 10:04:19] 
+🔬 Testing configuration 68/264
+[2025-05-28 10:04:19] Config: LR=3e-05, BS=8, Epochs=10, WD=0.01
+[2025-05-28 10:12:09] ✅ Config 68: Accuracy=0.0800, Loss=1.8778
+[2025-05-28 10:12:09] 
+🔬 Testing configuration 69/264
+[2025-05-28 10:12:09] Config: LR=5e-05, BS=8, Epochs=7, WD=0.01
+[2025-05-28 10:17:31] ✅ Config 69: Accuracy=0.8320, Loss=1.1677
+[2025-05-28 10:17:31] 
+🔬 Testing configuration 70/264
+[2025-05-28 10:17:31] Config: LR=2e-05, BS=2, Epochs=7, WD=0.0
+[2025-05-28 10:17:40] ❌ Fatal error with config 70: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: steps
+- Save strategy: epoch
+[2025-05-28 10:17:40] 
+🔬 Testing configuration 71/264
+[2025-05-28 10:17:40] Config: LR=1e-05, BS=4, Epochs=5, WD=0.01
+[2025-05-28 10:17:48] ❌ Fatal error with config 71: Adafactor.__init__() got an unexpected keyword argument 'relative_step_size'
+[2025-05-28 10:17:48] 
+🔬 Testing configuration 72/264
+[2025-05-28 10:17:48] Config: LR=5e-05, BS=2, Epochs=5, WD=0.0
+[2025-05-28 10:17:56] ❌ Fatal error with config 72: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: steps
+- Save strategy: epoch
+[2025-05-28 10:17:56] 
+🔬 Testing configuration 73/264
+[2025-05-28 10:17:56] Config: LR=5e-05, BS=2, Epochs=10, WD=0.0
+[2025-05-28 10:18:05] ❌ Fatal error with config 73: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: steps
+- Save strategy: epoch
+[2025-05-28 10:18:05] 
+🔬 Testing configuration 74/264
+[2025-05-28 10:18:05] Config: LR=5e-05, BS=8, Epochs=7, WD=0.0
+[2025-05-28 10:18:13] ❌ Fatal error with config 74: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 10:18:13] 
+🔬 Testing configuration 75/264
+[2025-05-28 10:18:13] Config: LR=5e-05, BS=8, Epochs=3, WD=0.0
+[2025-05-28 10:21:20] ✅ Config 75: Accuracy=0.2320, Loss=1.7298
+[2025-05-28 10:21:20] 
+🔬 Testing configuration 76/264
+[2025-05-28 10:21:20] Config: LR=1e-05, BS=2, Epochs=7, WD=0.1
+[2025-05-28 10:21:29] ❌ Fatal error with config 76: Adafactor.__init__() got an unexpected keyword argument 'relative_step_size'
+[2025-05-28 10:21:29] 
+🔬 Testing configuration 77/264
+[2025-05-28 10:21:29] Config: LR=5e-05, BS=8, Epochs=7, WD=0.1
+[2025-05-28 10:21:37] ❌ Fatal error with config 77: Adafactor.__init__() got an unexpected keyword argument 'relative_step_size'
+[2025-05-28 10:21:37] 
+🔬 Testing configuration 78/264
+[2025-05-28 10:21:37] Config: LR=3e-05, BS=8, Epochs=10, WD=0.0
+[2025-05-28 10:21:46] ❌ Fatal error with config 78: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 10:21:46] 
+🔬 Testing configuration 79/264
+[2025-05-28 10:21:46] Config: LR=3e-05, BS=16, Epochs=7, WD=0.0
+[2025-05-28 10:21:54] ❌ Fatal error with config 79: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: steps
+- Save strategy: epoch
+[2025-05-28 10:21:54] 
+🔬 Testing configuration 80/264
+[2025-05-28 10:21:54] Config: LR=3e-05, BS=4, Epochs=3, WD=0.0
+[2025-05-28 10:22:02] ❌ Fatal error with config 80: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: steps
+- Save strategy: epoch
+[2025-05-28 10:22:02] 
+🔬 Testing configuration 81/264
+[2025-05-28 10:22:02] Config: LR=1e-05, BS=4, Epochs=3, WD=0.0
+[2025-05-28 10:22:10] ❌ Fatal error with config 81: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 10:22:10] 
+🔬 Testing configuration 82/264
+[2025-05-28 10:22:10] Config: LR=1e-05, BS=4, Epochs=5, WD=0.1
+[2025-05-28 10:22:19] ❌ Fatal error with config 82: Adafactor.__init__() got an unexpected keyword argument 'relative_step_size'
+[2025-05-28 10:22:19] 
+🔬 Testing configuration 83/264
+[2025-05-28 10:22:19] Config: LR=5e-05, BS=8, Epochs=7, WD=0.01
+[2025-05-28 10:22:27] ❌ Fatal error with config 83: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 10:22:27] 
+🔬 Testing configuration 84/264
+[2025-05-28 10:22:27] Config: LR=2e-05, BS=2, Epochs=3, WD=0.01
+[2025-05-28 10:22:35] ❌ Fatal error with config 84: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 10:22:35] 
+🔬 Testing configuration 85/264
+[2025-05-28 10:22:35] Config: LR=2e-05, BS=8, Epochs=3, WD=0.1
+[2025-05-28 10:22:44] ❌ Fatal error with config 85: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 10:22:44] 
+🔬 Testing configuration 86/264
+[2025-05-28 10:22:44] Config: LR=3e-05, BS=2, Epochs=7, WD=0.1
+[2025-05-28 10:22:52] ❌ Fatal error with config 86: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 10:22:52] 
+🔬 Testing configuration 87/264
+[2025-05-28 10:22:52] Config: LR=2e-05, BS=4, Epochs=7, WD=0.0
+[2025-05-28 10:23:00] ❌ Fatal error with config 87: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: steps
+- Save strategy: epoch
+[2025-05-28 10:23:00] 
+🔬 Testing configuration 88/264
+[2025-05-28 10:23:00] Config: LR=2e-05, BS=4, Epochs=5, WD=0.0
+[2025-05-28 10:23:08] ❌ Fatal error with config 88: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 10:23:08] 
+🔬 Testing configuration 89/264
+[2025-05-28 10:23:08] Config: LR=2e-05, BS=8, Epochs=10, WD=0.1
+[2025-05-28 10:23:17] ❌ Fatal error with config 89: Adafactor.__init__() got an unexpected keyword argument 'relative_step_size'
+[2025-05-28 10:23:17] 
+🔬 Testing configuration 90/264
+[2025-05-28 10:23:17] Config: LR=3e-05, BS=2, Epochs=7, WD=0.01
+[2025-05-28 10:23:25] ❌ Fatal error with config 90: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 10:23:25] 
+🔬 Testing configuration 91/264
+[2025-05-28 10:23:25] Config: LR=3e-05, BS=4, Epochs=3, WD=0.01
+[2025-05-28 10:23:34] ❌ Fatal error with config 91: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 10:23:34] 
+🔬 Testing configuration 92/264
+[2025-05-28 10:23:34] Config: LR=5e-05, BS=2, Epochs=7, WD=0.01
+[2025-05-28 10:23:42] ❌ Fatal error with config 92: Adafactor.__init__() got an unexpected keyword argument 'relative_step_size'
+[2025-05-28 10:23:42] 
+🔬 Testing configuration 93/264
+[2025-05-28 10:23:42] Config: LR=3e-05, BS=8, Epochs=7, WD=0.0
+[2025-05-28 10:23:50] ❌ Fatal error with config 93: Adafactor.__init__() got an unexpected keyword argument 'relative_step_size'
+[2025-05-28 10:23:50] 
+🔬 Testing configuration 94/264
+[2025-05-28 10:23:50] Config: LR=2e-05, BS=8, Epochs=5, WD=0.1
+[2025-05-28 10:23:59] ❌ Fatal error with config 94: Adafactor.__init__() got an unexpected keyword argument 'relative_step_size'
+[2025-05-28 10:23:59] 
+🔬 Testing configuration 95/264
+[2025-05-28 10:23:59] Config: LR=2e-05, BS=8, Epochs=3, WD=0.1
+[2025-05-28 10:24:07] ❌ Fatal error with config 95: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 10:24:07] 
+🔬 Testing configuration 96/264
+[2025-05-28 10:24:07] Config: LR=1e-05, BS=8, Epochs=5, WD=0.1
+[2025-05-28 10:24:16] ❌ Fatal error with config 96: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 10:24:16] 
+🔬 Testing configuration 97/264
+[2025-05-28 10:24:16] Config: LR=2e-05, BS=4, Epochs=5, WD=0.0
+[2025-05-28 10:28:29] ✅ Config 97: Accuracy=0.8640, Loss=0.4699
+[2025-05-28 10:28:29] 
+🔬 Testing configuration 98/264
+[2025-05-28 10:28:29] Config: LR=1e-05, BS=16, Epochs=7, WD=0.01
+[2025-05-28 10:28:38] ❌ Fatal error with config 98: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: steps
+- Save strategy: epoch
+[2025-05-28 10:28:38] 
+🔬 Testing configuration 99/264
+[2025-05-28 10:28:38] Config: LR=5e-05, BS=16, Epochs=7, WD=0.01
+[2025-05-28 10:35:25] ✅ Config 99: Accuracy=0.2960, Loss=1.8044
+[2025-05-28 10:35:25] 
+🔬 Testing configuration 100/264
+[2025-05-28 10:35:25] Config: LR=3e-05, BS=16, Epochs=3, WD=0.0
+[2025-05-28 10:35:34] ❌ Fatal error with config 100: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: steps
+- Save strategy: epoch
+[2025-05-28 10:35:34] 
+🔬 Testing configuration 101/264
+[2025-05-28 10:35:34] Config: LR=2e-05, BS=8, Epochs=10, WD=0.0
+[2025-05-28 10:44:04] ✅ Config 101: Accuracy=0.8000, Loss=1.1069
+[2025-05-28 10:44:04] 
+🔬 Testing configuration 102/264
+[2025-05-28 10:44:04] Config: LR=1e-05, BS=4, Epochs=5, WD=0.0
+[2025-05-28 10:44:13] ❌ Fatal error with config 102: Adafactor.__init__() got an unexpected keyword argument 'relative_step_size'
+[2025-05-28 10:44:13] 
+🔬 Testing configuration 103/264
+[2025-05-28 10:44:13] Config: LR=2e-05, BS=8, Epochs=5, WD=0.0
+[2025-05-28 10:47:01] ✅ Config 103: Accuracy=0.8560, Loss=0.7070
+[2025-05-28 10:47:01] 
+🔬 Testing configuration 104/264
+[2025-05-28 10:47:01] Config: LR=2e-05, BS=4, Epochs=7, WD=0.1
+[2025-05-28 10:47:10] ❌ Fatal error with config 104: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 10:47:10] 
+🔬 Testing configuration 105/264
+[2025-05-28 10:47:10] Config: LR=2e-05, BS=2, Epochs=7, WD=0.01
+[2025-05-28 10:47:18] ❌ Fatal error with config 105: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: steps
+- Save strategy: epoch
+[2025-05-28 10:47:18] 
+🔬 Testing configuration 106/264
+[2025-05-28 10:47:18] Config: LR=3e-05, BS=8, Epochs=5, WD=0.1
+[2025-05-28 10:47:26] ❌ Fatal error with config 106: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 10:47:26] 
+🔬 Testing configuration 107/264
+[2025-05-28 10:47:26] Config: LR=1e-05, BS=4, Epochs=10, WD=0.01
+[2025-05-28 10:47:35] ❌ Fatal error with config 107: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 10:47:35] 
+🔬 Testing configuration 108/264
+[2025-05-28 10:47:35] Config: LR=1e-05, BS=8, Epochs=7, WD=0.01
+[2025-05-28 10:47:43] ❌ Fatal error with config 108: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 10:47:43] 
+🔬 Testing configuration 109/264
+[2025-05-28 10:47:43] Config: LR=5e-05, BS=2, Epochs=7, WD=0.1
+[2025-05-28 10:47:52] ❌ Fatal error with config 109: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: steps
+- Save strategy: epoch
+[2025-05-28 10:47:52] 
+🔬 Testing configuration 110/264
+[2025-05-28 10:47:52] Config: LR=1e-05, BS=8, Epochs=7, WD=0.1
+[2025-05-28 10:48:00] ❌ Fatal error with config 110: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 10:48:00] 
+🔬 Testing configuration 111/264
+[2025-05-28 10:48:00] Config: LR=1e-05, BS=16, Epochs=3, WD=0.01
+[2025-05-28 10:48:09] ❌ Fatal error with config 111: Adafactor.__init__() got an unexpected keyword argument 'relative_step_size'
+[2025-05-28 10:48:09] 
+🔬 Testing configuration 112/264
+[2025-05-28 10:48:09] Config: LR=1e-05, BS=2, Epochs=7, WD=0.0
+[2025-05-28 10:48:17] ❌ Fatal error with config 112: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: steps
+- Save strategy: epoch
+[2025-05-28 10:48:17] 
+🔬 Testing configuration 113/264
+[2025-05-28 10:48:17] Config: LR=3e-05, BS=16, Epochs=3, WD=0.01
+[2025-05-28 10:48:25] ❌ Fatal error with config 113: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 10:48:25] 
+🔬 Testing configuration 114/264
+[2025-05-28 10:48:25] Config: LR=1e-05, BS=8, Epochs=7, WD=0.1
+[2025-05-28 10:48:34] ❌ Fatal error with config 114: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 10:48:34] 
+🔬 Testing configuration 115/264
+[2025-05-28 10:48:34] Config: LR=3e-05, BS=4, Epochs=3, WD=0.01
+[2025-05-28 10:51:18] ✅ Config 115: Accuracy=0.8320, Loss=0.7687
+[2025-05-28 10:51:18] 
+🔬 Testing configuration 116/264
+[2025-05-28 10:51:18] Config: LR=3e-05, BS=8, Epochs=5, WD=0.1
+[2025-05-28 10:51:26] ❌ Fatal error with config 116: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 10:51:26] 
+🔬 Testing configuration 117/264
+[2025-05-28 10:51:26] Config: LR=5e-05, BS=2, Epochs=7, WD=0.1
+[2025-05-28 10:51:35] ❌ Fatal error with config 117: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: steps
+- Save strategy: epoch
+[2025-05-28 10:51:35] 
+🔬 Testing configuration 118/264
+[2025-05-28 10:51:35] Config: LR=5e-05, BS=16, Epochs=7, WD=0.1
+[2025-05-28 10:51:43] ❌ Fatal error with config 118: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 10:51:43] 
+🔬 Testing configuration 119/264
+[2025-05-28 10:51:43] Config: LR=1e-05, BS=2, Epochs=10, WD=0.01
+[2025-05-28 11:08:37] ✅ Config 119: Accuracy=0.7600, Loss=0.6973
+[2025-05-28 11:08:37] 
+🔬 Testing configuration 120/264
+[2025-05-28 11:08:37] Config: LR=3e-05, BS=8, Epochs=7, WD=0.01
+[2025-05-28 11:08:46] ❌ Fatal error with config 120: Adafactor.__init__() got an unexpected keyword argument 'relative_step_size'
+[2025-05-28 11:08:46] 
+🔬 Testing configuration 121/264
+[2025-05-28 11:08:46] Config: LR=1e-05, BS=4, Epochs=10, WD=0.1
+[2025-05-28 11:08:54] ❌ Fatal error with config 121: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: steps
+- Save strategy: epoch
+[2025-05-28 11:08:54] 
+🔬 Testing configuration 122/264
+[2025-05-28 11:08:54] Config: LR=5e-05, BS=4, Epochs=7, WD=0.1
+[2025-05-28 11:17:52] ✅ Config 122: Accuracy=0.2720, Loss=1.8306
+[2025-05-28 11:17:52] 
+🔬 Testing configuration 123/264
+[2025-05-28 11:17:52] Config: LR=2e-05, BS=8, Epochs=10, WD=0.1
+[2025-05-28 11:18:01] ❌ Fatal error with config 123: Adafactor.__init__() got an unexpected keyword argument 'relative_step_size'
+[2025-05-28 11:18:01] 
+🔬 Testing configuration 124/264
+[2025-05-28 11:18:01] Config: LR=5e-05, BS=8, Epochs=3, WD=0.1
+[2025-05-28 11:18:09] ❌ Fatal error with config 124: Adafactor.__init__() got an unexpected keyword argument 'relative_step_size'
+[2025-05-28 11:18:09] 
+🔬 Testing configuration 125/264
+[2025-05-28 11:18:09] Config: LR=3e-05, BS=2, Epochs=10, WD=0.01
+[2025-05-28 11:18:17] ❌ Fatal error with config 125: Adafactor.__init__() got an unexpected keyword argument 'relative_step_size'
+[2025-05-28 11:18:17] 
+🔬 Testing configuration 126/264
+[2025-05-28 11:18:17] Config: LR=3e-05, BS=2, Epochs=7, WD=0.01
+[2025-05-28 11:18:25] ❌ Fatal error with config 126: Adafactor.__init__() got an unexpected keyword argument 'relative_step_size'
+[2025-05-28 11:18:25] 
+🔬 Testing configuration 127/264
+[2025-05-28 11:18:25] Config: LR=3e-05, BS=4, Epochs=7, WD=0.1
+[2025-05-28 11:18:34] ❌ Fatal error with config 127: Adafactor.__init__() got an unexpected keyword argument 'relative_step_size'
+[2025-05-28 11:18:34] 
+🔬 Testing configuration 128/264
+[2025-05-28 11:18:34] Config: LR=3e-05, BS=2, Epochs=7, WD=0.0
+[2025-05-28 11:18:42] ❌ Fatal error with config 128: Adafactor.__init__() got an unexpected keyword argument 'relative_step_size'
+[2025-05-28 11:18:42] 
+🔬 Testing configuration 129/264
+[2025-05-28 11:18:42] Config: LR=3e-05, BS=16, Epochs=10, WD=0.1
+[2025-05-28 11:18:50] ❌ Fatal error with config 129: Adafactor.__init__() got an unexpected keyword argument 'relative_step_size'
+[2025-05-28 11:18:50] 
+🔬 Testing configuration 130/264
+[2025-05-28 11:18:50] Config: LR=2e-05, BS=4, Epochs=7, WD=0.1
+[2025-05-28 11:18:59] ❌ Fatal error with config 130: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: steps
+- Save strategy: epoch
+[2025-05-28 11:18:59] 
+🔬 Testing configuration 131/264
+[2025-05-28 11:18:59] Config: LR=2e-05, BS=2, Epochs=3, WD=0.1
+[2025-05-28 11:26:00] ✅ Config 131: Accuracy=0.8720, Loss=0.7531
+[2025-05-28 11:26:01] 
+🔬 Testing configuration 132/264
+[2025-05-28 11:26:01] Config: LR=5e-05, BS=2, Epochs=10, WD=0.01
+[2025-05-28 11:26:15] ❌ Fatal error with config 132: Adafactor.__init__() got an unexpected keyword argument 'relative_step_size'
+[2025-05-28 11:26:15] 
+🔬 Testing configuration 133/264
+[2025-05-28 11:26:15] Config: LR=2e-05, BS=16, Epochs=5, WD=0.1
+[2025-05-28 11:31:16] ✅ Config 133: Accuracy=0.8400, Loss=0.7919
+[2025-05-28 11:31:16] 
+🔬 Testing configuration 134/264
+[2025-05-28 11:31:16] Config: LR=5e-05, BS=4, Epochs=3, WD=0.0
+[2025-05-28 11:31:25] ❌ Fatal error with config 134: Adafactor.__init__() got an unexpected keyword argument 'relative_step_size'
+[2025-05-28 11:31:25] 
+🔬 Testing configuration 135/264
+[2025-05-28 11:31:25] Config: LR=1e-05, BS=8, Epochs=10, WD=0.0
+[2025-05-28 11:31:34] ❌ Fatal error with config 135: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 11:31:34] 
+🔬 Testing configuration 136/264
+[2025-05-28 11:31:34] Config: LR=1e-05, BS=8, Epochs=5, WD=0.01
+[2025-05-28 11:31:42] ❌ Fatal error with config 136: Adafactor.__init__() got an unexpected keyword argument 'relative_step_size'
+[2025-05-28 11:31:42] 
+🔬 Testing configuration 137/264
+[2025-05-28 11:31:42] Config: LR=5e-05, BS=8, Epochs=3, WD=0.1
+[2025-05-28 11:31:51] ❌ Fatal error with config 137: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: steps
+- Save strategy: epoch
+[2025-05-28 11:31:51] 
+🔬 Testing configuration 138/264
+[2025-05-28 11:31:51] Config: LR=2e-05, BS=2, Epochs=3, WD=0.1
+[2025-05-28 11:40:21] ✅ Config 138: Accuracy=0.2720, Loss=2.0461
+[2025-05-28 11:40:21] 
+🔬 Testing configuration 139/264
+[2025-05-28 11:40:21] Config: LR=1e-05, BS=2, Epochs=3, WD=0.01
+[2025-05-28 11:40:30] ❌ Fatal error with config 139: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: steps
+- Save strategy: epoch
+[2025-05-28 11:40:30] 
+🔬 Testing configuration 140/264
+[2025-05-28 11:40:30] Config: LR=1e-05, BS=2, Epochs=7, WD=0.0
+[2025-05-28 11:40:38] ❌ Fatal error with config 140: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: steps
+- Save strategy: epoch
+[2025-05-28 11:40:38] 
+🔬 Testing configuration 141/264
+[2025-05-28 11:40:38] Config: LR=1e-05, BS=2, Epochs=5, WD=0.0
+[2025-05-28 11:50:22] ✅ Config 141: Accuracy=0.9040, Loss=0.6697
+[2025-05-28 11:50:23] 
+🔬 Testing configuration 142/264
+[2025-05-28 11:50:23] Config: LR=5e-05, BS=2, Epochs=7, WD=0.01
+[2025-05-28 11:50:31] ❌ Fatal error with config 142: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: steps
+- Save strategy: epoch
+[2025-05-28 11:50:31] 
+🔬 Testing configuration 143/264
+[2025-05-28 11:50:31] Config: LR=2e-05, BS=2, Epochs=5, WD=0.1
+[2025-05-28 11:55:39] ✅ Config 143: Accuracy=0.2960, Loss=1.8301
+[2025-05-28 11:55:39] 
+🔬 Testing configuration 144/264
+[2025-05-28 11:55:39] Config: LR=1e-05, BS=4, Epochs=5, WD=0.0
+[2025-05-28 11:55:48] ❌ Fatal error with config 144: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 11:55:48] 
+🔬 Testing configuration 145/264
+[2025-05-28 11:55:48] Config: LR=2e-05, BS=16, Epochs=5, WD=0.01
+[2025-05-28 11:55:56] ❌ Fatal error with config 145: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: steps
+- Save strategy: epoch
+[2025-05-28 11:55:56] 
+🔬 Testing configuration 146/264
+[2025-05-28 11:55:56] Config: LR=3e-05, BS=8, Epochs=5, WD=0.01
+[2025-05-28 11:56:04] ❌ Fatal error with config 146: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: steps
+- Save strategy: epoch
+[2025-05-28 11:56:04] 
+🔬 Testing configuration 147/264
+[2025-05-28 11:56:04] Config: LR=2e-05, BS=2, Epochs=10, WD=0.1
+[2025-05-28 11:56:12] ❌ Fatal error with config 147: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: steps
+- Save strategy: epoch
+[2025-05-28 11:56:12] 
+🔬 Testing configuration 148/264
+[2025-05-28 11:56:12] Config: LR=5e-05, BS=2, Epochs=3, WD=0.01
+[2025-05-28 11:56:20] ❌ Fatal error with config 148: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: steps
+- Save strategy: epoch
+[2025-05-28 11:56:20] 
+🔬 Testing configuration 149/264
+[2025-05-28 11:56:20] Config: LR=2e-05, BS=2, Epochs=3, WD=0.01
+[2025-05-28 11:56:28] ❌ Fatal error with config 149: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: steps
+- Save strategy: epoch
+[2025-05-28 11:56:28] 
+🔬 Testing configuration 150/264
+[2025-05-28 11:56:28] Config: LR=5e-05, BS=8, Epochs=3, WD=0.01
+[2025-05-28 11:56:35] ❌ Fatal error with config 150: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 11:56:35] 
+🔬 Testing configuration 151/264
+[2025-05-28 11:56:35] Config: LR=1e-05, BS=8, Epochs=7, WD=0.0
+[2025-05-28 11:56:43] ❌ Fatal error with config 151: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 11:56:43] 
+🔬 Testing configuration 152/264
+[2025-05-28 11:56:43] Config: LR=3e-05, BS=8, Epochs=7, WD=0.0
+[2025-05-28 12:02:02] ✅ Config 152: Accuracy=0.1760, Loss=1.7931
+[2025-05-28 12:02:02] 
+🔬 Testing configuration 153/264
+[2025-05-28 12:02:02] Config: LR=5e-05, BS=2, Epochs=3, WD=0.01
+[2025-05-28 12:02:10] ❌ Fatal error with config 153: Adafactor.__init__() got an unexpected keyword argument 'relative_step_size'
+[2025-05-28 12:02:10] 
+🔬 Testing configuration 154/264
+[2025-05-28 12:02:10] Config: LR=3e-05, BS=16, Epochs=10, WD=0.1
+[2025-05-28 12:05:50] ✅ Config 154: Accuracy=0.2320, Loss=1.7675
+[2025-05-28 12:05:50] 
+🔬 Testing configuration 155/264
+[2025-05-28 12:05:50] Config: LR=2e-05, BS=8, Epochs=5, WD=0.01
+[2025-05-28 12:05:59] ❌ Fatal error with config 155: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: steps
+- Save strategy: epoch
+[2025-05-28 12:05:59] 
+🔬 Testing configuration 156/264
+[2025-05-28 12:05:59] Config: LR=2e-05, BS=2, Epochs=3, WD=0.01
+[2025-05-28 12:10:33] ✅ Config 156: Accuracy=0.1360, Loss=1.9056
+[2025-05-28 12:10:34] 
+🔬 Testing configuration 157/264
+[2025-05-28 12:10:34] Config: LR=3e-05, BS=2, Epochs=3, WD=0.01
+[2025-05-28 12:10:42] ❌ Fatal error with config 157: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 12:10:42] 
+🔬 Testing configuration 158/264
+[2025-05-28 12:10:42] Config: LR=5e-05, BS=2, Epochs=5, WD=0.1
+[2025-05-28 12:23:18] ✅ Config 158: Accuracy=0.8400, Loss=0.9527
+[2025-05-28 12:23:19] 
+🔬 Testing configuration 159/264
+[2025-05-28 12:23:19] Config: LR=5e-05, BS=2, Epochs=10, WD=0.0
+[2025-05-28 12:40:14] ✅ Config 159: Accuracy=0.8720, Loss=1.0051
+[2025-05-28 12:40:14] 
+🔬 Testing configuration 160/264
+[2025-05-28 12:40:14] Config: LR=3e-05, BS=8, Epochs=10, WD=0.1
+[2025-05-28 12:40:23] ❌ Fatal error with config 160: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 12:40:23] 
+🔬 Testing configuration 161/264
+[2025-05-28 12:40:23] Config: LR=3e-05, BS=8, Epochs=7, WD=0.0
+[2025-05-28 12:40:32] ❌ Fatal error with config 161: Adafactor.__init__() got an unexpected keyword argument 'relative_step_size'
+[2025-05-28 12:40:32] 
+🔬 Testing configuration 162/264
+[2025-05-28 12:40:32] Config: LR=1e-05, BS=8, Epochs=7, WD=0.01
+[2025-05-28 12:40:41] ❌ Fatal error with config 162: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: steps
+- Save strategy: epoch
+[2025-05-28 12:40:41] 
+🔬 Testing configuration 163/264
+[2025-05-28 12:40:41] Config: LR=1e-05, BS=2, Epochs=7, WD=0.01
+[2025-05-28 12:40:49] ❌ Fatal error with config 163: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: steps
+- Save strategy: epoch
+[2025-05-28 12:40:49] 
+🔬 Testing configuration 164/264
+[2025-05-28 12:40:49] Config: LR=1e-05, BS=4, Epochs=7, WD=0.01
+[2025-05-28 12:40:57] ❌ Fatal error with config 164: Adafactor.__init__() got an unexpected keyword argument 'relative_step_size'
+[2025-05-28 12:40:57] 
+🔬 Testing configuration 165/264
+[2025-05-28 12:40:57] Config: LR=1e-05, BS=4, Epochs=7, WD=0.01
+[2025-05-28 12:41:05] ❌ Fatal error with config 165: Adafactor.__init__() got an unexpected keyword argument 'relative_step_size'
+[2025-05-28 12:41:05] 
+🔬 Testing configuration 166/264
+[2025-05-28 12:41:05] Config: LR=5e-05, BS=8, Epochs=5, WD=0.0
+[2025-05-28 12:41:13] ❌ Fatal error with config 166: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: steps
+- Save strategy: epoch
+[2025-05-28 12:41:13] 
+🔬 Testing configuration 167/264
+[2025-05-28 12:41:13] Config: LR=5e-05, BS=8, Epochs=5, WD=0.1
+[2025-05-28 12:47:25] ✅ Config 167: Accuracy=0.2720, Loss=1.7861
+[2025-05-28 12:47:25] 
+🔬 Testing configuration 168/264
+[2025-05-28 12:47:25] Config: LR=1e-05, BS=16, Epochs=10, WD=0.0
+[2025-05-28 12:47:33] ❌ Fatal error with config 168: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 12:47:33] 
+🔬 Testing configuration 169/264
+[2025-05-28 12:47:33] Config: LR=2e-05, BS=8, Epochs=3, WD=0.0
+[2025-05-28 12:51:59] ✅ Config 169: Accuracy=0.2160, Loss=1.7936
+[2025-05-28 12:51:59] 
+🔬 Testing configuration 170/264
+[2025-05-28 12:51:59] Config: LR=1e-05, BS=2, Epochs=5, WD=0.1
+[2025-05-28 12:59:22] ✅ Config 170: Accuracy=0.2720, Loss=1.7855
+[2025-05-28 12:59:22] 💾 Saved checkpoint at 170 configurations
+[2025-05-28 12:59:22] 
+🔬 Testing configuration 171/264
+[2025-05-28 12:59:22] Config: LR=3e-05, BS=2, Epochs=10, WD=0.0
+[2025-05-28 12:59:30] ❌ Fatal error with config 171: Adafactor.__init__() got an unexpected keyword argument 'relative_step_size'
+[2025-05-28 12:59:30] 
+🔬 Testing configuration 172/264
+[2025-05-28 12:59:30] Config: LR=5e-05, BS=8, Epochs=10, WD=0.0
+[2025-05-28 13:08:47] ✅ Config 172: Accuracy=0.2720, Loss=2.0496
+[2025-05-28 13:08:47] 
+🔬 Testing configuration 173/264
+[2025-05-28 13:08:47] Config: LR=2e-05, BS=2, Epochs=7, WD=0.0
+[2025-05-28 13:19:47] ✅ Config 173: Accuracy=0.2720, Loss=1.7765
+[2025-05-28 13:19:48] 
+🔬 Testing configuration 174/264
+[2025-05-28 13:19:48] Config: LR=3e-05, BS=4, Epochs=10, WD=0.0
+[2025-05-28 13:19:56] ❌ Fatal error with config 174: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 13:19:56] 
+🔬 Testing configuration 175/264
+[2025-05-28 13:19:56] Config: LR=3e-05, BS=2, Epochs=3, WD=0.1
+[2025-05-28 13:20:04] ❌ Fatal error with config 175: Adafactor.__init__() got an unexpected keyword argument 'relative_step_size'
+[2025-05-28 13:20:04] 
+🔬 Testing configuration 176/264
+[2025-05-28 13:20:04] Config: LR=3e-05, BS=16, Epochs=10, WD=0.01
+[2025-05-28 13:20:12] ❌ Fatal error with config 176: Adafactor.__init__() got an unexpected keyword argument 'relative_step_size'
+[2025-05-28 13:20:12] 
+🔬 Testing configuration 177/264
+[2025-05-28 13:20:12] Config: LR=2e-05, BS=2, Epochs=10, WD=0.01
+[2025-05-28 13:20:20] ❌ Fatal error with config 177: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: steps
+- Save strategy: epoch
+[2025-05-28 13:20:20] 
+🔬 Testing configuration 178/264
+[2025-05-28 13:20:20] Config: LR=1e-05, BS=8, Epochs=7, WD=0.01
+[2025-05-28 13:20:27] ❌ Fatal error with config 178: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: steps
+- Save strategy: epoch
+[2025-05-28 13:20:27] 
+🔬 Testing configuration 179/264
+[2025-05-28 13:20:27] Config: LR=3e-05, BS=2, Epochs=10, WD=0.1
+[2025-05-28 13:20:35] ❌ Fatal error with config 179: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 13:20:35] 
+🔬 Testing configuration 180/264
+[2025-05-28 13:20:35] Config: LR=5e-05, BS=8, Epochs=5, WD=0.1
+[2025-05-28 13:20:43] ❌ Fatal error with config 180: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 13:20:43] 
+🔬 Testing configuration 181/264
+[2025-05-28 13:20:43] Config: LR=3e-05, BS=2, Epochs=10, WD=0.01
+[2025-05-28 13:20:50] ❌ Fatal error with config 181: Adafactor.__init__() got an unexpected keyword argument 'relative_step_size'
+[2025-05-28 13:20:50] 
+🔬 Testing configuration 182/264
+[2025-05-28 13:20:50] Config: LR=2e-05, BS=8, Epochs=5, WD=0.1
+[2025-05-28 13:20:58] ❌ Fatal error with config 182: Adafactor.__init__() got an unexpected keyword argument 'relative_step_size'
+[2025-05-28 13:20:58] 
+🔬 Testing configuration 183/264
+[2025-05-28 13:20:58] Config: LR=3e-05, BS=2, Epochs=5, WD=0.01
+[2025-05-28 13:32:05] ✅ Config 183: Accuracy=0.8480, Loss=0.8149
+[2025-05-28 13:32:05] 
+🔬 Testing configuration 184/264
+[2025-05-28 13:32:05] Config: LR=5e-05, BS=2, Epochs=5, WD=0.0
+[2025-05-28 13:32:13] ❌ Fatal error with config 184: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: steps
+- Save strategy: epoch
+[2025-05-28 13:32:13] 
+🔬 Testing configuration 185/264
+[2025-05-28 13:32:13] Config: LR=3e-05, BS=2, Epochs=10, WD=0.1
+[2025-05-28 13:32:21] ❌ Fatal error with config 185: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: steps
+- Save strategy: epoch
+[2025-05-28 13:32:21] 
+🔬 Testing configuration 186/264
+[2025-05-28 13:32:21] Config: LR=2e-05, BS=4, Epochs=3, WD=0.0
+[2025-05-28 13:37:09] ✅ Config 186: Accuracy=0.2640, Loss=1.8894
+[2025-05-28 13:37:09] 
+🔬 Testing configuration 187/264
+[2025-05-28 13:37:09] Config: LR=3e-05, BS=16, Epochs=7, WD=0.01
+[2025-05-28 13:37:17] ❌ Fatal error with config 187: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 13:37:17] 
+🔬 Testing configuration 188/264
+[2025-05-28 13:37:17] Config: LR=1e-05, BS=16, Epochs=7, WD=0.01
+[2025-05-28 13:37:25] ❌ Fatal error with config 188: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: steps
+- Save strategy: epoch
+[2025-05-28 13:37:25] 
+🔬 Testing configuration 189/264
+[2025-05-28 13:37:25] Config: LR=1e-05, BS=4, Epochs=7, WD=0.1
+[2025-05-28 13:37:32] ❌ Fatal error with config 189: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: steps
+- Save strategy: epoch
+[2025-05-28 13:37:32] 
+🔬 Testing configuration 190/264
+[2025-05-28 13:37:32] Config: LR=2e-05, BS=8, Epochs=7, WD=0.1
+[2025-05-28 13:37:40] ❌ Fatal error with config 190: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: steps
+- Save strategy: epoch
+[2025-05-28 13:37:40] 
+🔬 Testing configuration 191/264
+[2025-05-28 13:37:40] Config: LR=1e-05, BS=8, Epochs=7, WD=0.0
+[2025-05-28 13:47:46] ✅ Config 191: Accuracy=0.8160, Loss=0.5862
+[2025-05-28 13:47:46] 
+🔬 Testing configuration 192/264
+[2025-05-28 13:47:46] Config: LR=1e-05, BS=8, Epochs=5, WD=0.1
+[2025-05-28 13:47:59] ❌ Fatal error with config 192: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: steps
+- Save strategy: epoch
+[2025-05-28 13:47:59] 
+🔬 Testing configuration 193/264
+[2025-05-28 13:47:59] Config: LR=5e-05, BS=4, Epochs=5, WD=0.01
+[2025-05-28 13:48:07] ❌ Fatal error with config 193: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 13:48:07] 
+🔬 Testing configuration 194/264
+[2025-05-28 13:48:07] Config: LR=5e-05, BS=4, Epochs=7, WD=0.1
+[2025-05-28 13:48:15] ❌ Fatal error with config 194: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: steps
+- Save strategy: epoch
+[2025-05-28 13:48:15] 
+🔬 Testing configuration 195/264
+[2025-05-28 13:48:15] Config: LR=1e-05, BS=8, Epochs=10, WD=0.01
+[2025-05-28 13:48:22] ❌ Fatal error with config 195: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 13:48:22] 
+🔬 Testing configuration 196/264
+[2025-05-28 13:48:22] Config: LR=3e-05, BS=2, Epochs=7, WD=0.0
+[2025-05-28 13:48:30] ❌ Fatal error with config 196: Adafactor.__init__() got an unexpected keyword argument 'relative_step_size'
+[2025-05-28 13:48:30] 
+🔬 Testing configuration 197/264
+[2025-05-28 13:48:30] Config: LR=5e-05, BS=2, Epochs=5, WD=0.0
+[2025-05-28 13:48:38] ❌ Fatal error with config 197: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 13:48:38] 
+🔬 Testing configuration 198/264
+[2025-05-28 13:48:38] Config: LR=5e-05, BS=2, Epochs=5, WD=0.0
+[2025-05-28 14:02:15] ✅ Config 198: Accuracy=0.2800, Loss=1.7662
+[2025-05-28 14:02:15] 
+🔬 Testing configuration 199/264
+[2025-05-28 14:02:15] Config: LR=1e-05, BS=8, Epochs=3, WD=0.01
+[2025-05-28 14:04:05] ✅ Config 199: Accuracy=0.7280, Loss=1.1383
+[2025-05-28 14:04:06] 
+🔬 Testing configuration 200/264
+[2025-05-28 14:04:06] Config: LR=1e-05, BS=16, Epochs=7, WD=0.1
+[2025-05-28 14:04:14] ❌ Fatal error with config 200: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 14:04:14] 
+🔬 Testing configuration 201/264
+[2025-05-28 14:04:14] Config: LR=5e-05, BS=2, Epochs=3, WD=0.0
+[2025-05-28 14:04:23] ❌ Fatal error with config 201: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 14:04:23] 
+🔬 Testing configuration 202/264
+[2025-05-28 14:04:23] Config: LR=5e-05, BS=8, Epochs=10, WD=0.01
+[2025-05-28 14:14:51] ✅ Config 202: Accuracy=0.2880, Loss=1.7632
+[2025-05-28 14:14:52] 
+🔬 Testing configuration 203/264
+[2025-05-28 14:14:52] Config: LR=1e-05, BS=8, Epochs=10, WD=0.01
+[2025-05-28 14:15:00] ❌ Fatal error with config 203: Adafactor.__init__() got an unexpected keyword argument 'relative_step_size'
+[2025-05-28 14:15:00] 
+🔬 Testing configuration 204/264
+[2025-05-28 14:15:00] Config: LR=1e-05, BS=16, Epochs=7, WD=0.01
+[2025-05-28 14:15:09] ❌ Fatal error with config 204: Adafactor.__init__() got an unexpected keyword argument 'relative_step_size'
+[2025-05-28 14:15:09] 
+🔬 Testing configuration 205/264
+[2025-05-28 14:15:09] Config: LR=3e-05, BS=4, Epochs=5, WD=0.0
+[2025-05-28 14:23:20] ✅ Config 205: Accuracy=0.8240, Loss=0.8458
+[2025-05-28 14:23:21] 
+🔬 Testing configuration 206/264
+[2025-05-28 14:23:21] Config: LR=3e-05, BS=16, Epochs=7, WD=0.0
+[2025-05-28 14:30:53] ✅ Config 206: Accuracy=0.7920, Loss=0.6599
+[2025-05-28 14:30:54] 
+🔬 Testing configuration 207/264
+[2025-05-28 14:30:54] Config: LR=5e-05, BS=4, Epochs=10, WD=0.01
+[2025-05-28 14:31:03] ❌ Fatal error with config 207: Adafactor.__init__() got an unexpected keyword argument 'relative_step_size'
+[2025-05-28 14:31:03] 
+🔬 Testing configuration 208/264
+[2025-05-28 14:31:03] Config: LR=1e-05, BS=2, Epochs=10, WD=0.01
+[2025-05-28 14:31:11] ❌ Fatal error with config 208: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: steps
+- Save strategy: epoch
+[2025-05-28 14:31:11] 
+🔬 Testing configuration 209/264
+[2025-05-28 14:31:11] Config: LR=5e-05, BS=8, Epochs=3, WD=0.01
+[2025-05-28 14:33:51] ✅ Config 209: Accuracy=0.8320, Loss=0.7762
+[2025-05-28 14:33:51] 
+🔬 Testing configuration 210/264
+[2025-05-28 14:33:51] Config: LR=2e-05, BS=8, Epochs=10, WD=0.01
+[2025-05-28 14:34:00] ❌ Fatal error with config 210: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 14:34:00] 
+🔬 Testing configuration 211/264
+[2025-05-28 14:34:00] Config: LR=1e-05, BS=16, Epochs=10, WD=0.01
+[2025-05-28 14:34:09] ❌ Fatal error with config 211: Adafactor.__init__() got an unexpected keyword argument 'relative_step_size'
+[2025-05-28 14:34:09] 
+🔬 Testing configuration 212/264
+[2025-05-28 14:34:09] Config: LR=1e-05, BS=4, Epochs=10, WD=0.01
+[2025-05-28 14:52:34] ✅ Config 212: Accuracy=0.3440, Loss=1.7174
+[2025-05-28 14:52:34] 
+🔬 Testing configuration 213/264
+[2025-05-28 14:52:34] Config: LR=2e-05, BS=2, Epochs=5, WD=0.01
+[2025-05-28 14:52:44] ❌ Fatal error with config 213: Adafactor.__init__() got an unexpected keyword argument 'relative_step_size'
+[2025-05-28 14:52:44] 
+🔬 Testing configuration 214/264
+[2025-05-28 14:52:44] Config: LR=2e-05, BS=16, Epochs=7, WD=0.01
+[2025-05-28 14:52:52] ❌ Fatal error with config 214: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 14:52:52] 
+🔬 Testing configuration 215/264
+[2025-05-28 14:52:52] Config: LR=5e-05, BS=8, Epochs=3, WD=0.01
+[2025-05-28 14:53:01] ❌ Fatal error with config 215: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: steps
+- Save strategy: epoch
+[2025-05-28 14:53:01] 
+🔬 Testing configuration 216/264
+[2025-05-28 14:53:01] Config: LR=5e-05, BS=8, Epochs=7, WD=0.1
+[2025-05-28 14:58:34] ✅ Config 216: Accuracy=0.8640, Loss=0.7315
+[2025-05-28 14:58:34] 
+🔬 Testing configuration 217/264
+[2025-05-28 14:58:34] Config: LR=1e-05, BS=2, Epochs=7, WD=0.01
+[2025-05-28 14:58:43] ❌ Fatal error with config 217: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 14:58:43] 
+🔬 Testing configuration 218/264
+[2025-05-28 14:58:43] Config: LR=3e-05, BS=8, Epochs=3, WD=0.1
+[2025-05-28 14:58:52] ❌ Fatal error with config 218: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 14:58:52] 
+🔬 Testing configuration 219/264
+[2025-05-28 14:58:52] Config: LR=3e-05, BS=8, Epochs=7, WD=0.1
+[2025-05-28 15:04:00] ✅ Config 219: Accuracy=0.8640, Loss=0.9688
+[2025-05-28 15:04:00] 
+🔬 Testing configuration 220/264
+[2025-05-28 15:04:00] Config: LR=1e-05, BS=2, Epochs=3, WD=0.01
+[2025-05-28 15:04:09] ❌ Fatal error with config 220: Adafactor.__init__() got an unexpected keyword argument 'relative_step_size'
+[2025-05-28 15:04:09] 
+🔬 Testing configuration 221/264
+[2025-05-28 15:04:09] Config: LR=5e-05, BS=4, Epochs=5, WD=0.1
+[2025-05-28 15:04:18] ❌ Fatal error with config 221: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: steps
+- Save strategy: epoch
+[2025-05-28 15:04:18] 
+🔬 Testing configuration 222/264
+[2025-05-28 15:04:18] Config: LR=3e-05, BS=8, Epochs=3, WD=0.1
+[2025-05-28 15:04:27] ❌ Fatal error with config 222: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 15:04:27] 
+🔬 Testing configuration 223/264
+[2025-05-28 15:04:27] Config: LR=5e-05, BS=2, Epochs=3, WD=0.1
+[2025-05-28 15:04:35] ❌ Fatal error with config 223: Adafactor.__init__() got an unexpected keyword argument 'relative_step_size'
+[2025-05-28 15:04:35] 
+🔬 Testing configuration 224/264
+[2025-05-28 15:04:35] Config: LR=2e-05, BS=8, Epochs=3, WD=0.1
+[2025-05-28 15:04:44] ❌ Fatal error with config 224: Adafactor.__init__() got an unexpected keyword argument 'relative_step_size'
+[2025-05-28 15:04:44] 
+🔬 Testing configuration 225/264
+[2025-05-28 15:04:44] Config: LR=1e-05, BS=4, Epochs=3, WD=0.1
+[2025-05-28 15:04:52] ❌ Fatal error with config 225: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 15:04:52] 
+🔬 Testing configuration 226/264
+[2025-05-28 15:04:52] Config: LR=5e-05, BS=2, Epochs=7, WD=0.01
+[2025-05-28 15:05:01] ❌ Fatal error with config 226: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: steps
+- Save strategy: epoch
+[2025-05-28 15:05:01] 
+🔬 Testing configuration 227/264
+[2025-05-28 15:05:01] Config: LR=2e-05, BS=8, Epochs=10, WD=0.1
+[2025-05-28 15:05:10] ❌ Fatal error with config 227: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: steps
+- Save strategy: epoch
+[2025-05-28 15:05:10] 
+🔬 Testing configuration 228/264
+[2025-05-28 15:05:10] Config: LR=1e-05, BS=4, Epochs=5, WD=0.1
+[2025-05-28 15:05:19] ❌ Fatal error with config 228: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 15:05:19] 
+🔬 Testing configuration 229/264
+[2025-05-28 15:05:19] Config: LR=1e-05, BS=8, Epochs=3, WD=0.0
+[2025-05-28 15:05:27] ❌ Fatal error with config 229: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 15:05:27] 
+🔬 Testing configuration 230/264
+[2025-05-28 15:05:27] Config: LR=1e-05, BS=16, Epochs=7, WD=0.1
+[2025-05-28 15:05:37] ❌ Fatal error with config 230: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 15:05:37] 
+🔬 Testing configuration 231/264
+[2025-05-28 15:05:37] Config: LR=5e-05, BS=2, Epochs=5, WD=0.1
+[2025-05-28 15:05:46] ❌ Fatal error with config 231: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 15:05:46] 
+🔬 Testing configuration 232/264
+[2025-05-28 15:05:46] Config: LR=5e-05, BS=8, Epochs=3, WD=0.1
+[2025-05-28 15:07:26] ✅ Config 232: Accuracy=0.8640, Loss=0.3826
+[2025-05-28 15:07:27] 
+🔬 Testing configuration 233/264
+[2025-05-28 15:07:27] Config: LR=5e-05, BS=2, Epochs=7, WD=0.01
+[2025-05-28 15:26:19] ✅ Config 233: Accuracy=0.8720, Loss=1.0375
+[2025-05-28 15:26:20] 
+🔬 Testing configuration 234/264
+[2025-05-28 15:26:20] Config: LR=2e-05, BS=2, Epochs=7, WD=0.1
+[2025-05-28 15:26:29] ❌ Fatal error with config 234: Adafactor.__init__() got an unexpected keyword argument 'relative_step_size'
+[2025-05-28 15:26:29] 
+🔬 Testing configuration 235/264
+[2025-05-28 15:26:29] Config: LR=5e-05, BS=4, Epochs=5, WD=0.1
+[2025-05-28 15:26:38] ❌ Fatal error with config 235: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 15:26:38] 
+🔬 Testing configuration 236/264
+[2025-05-28 15:26:38] Config: LR=1e-05, BS=8, Epochs=3, WD=0.01
+[2025-05-28 15:26:46] ❌ Fatal error with config 236: Adafactor.__init__() got an unexpected keyword argument 'relative_step_size'
+[2025-05-28 15:26:46] 
+🔬 Testing configuration 237/264
+[2025-05-28 15:26:46] Config: LR=1e-05, BS=16, Epochs=5, WD=0.01
+[2025-05-28 15:26:55] ❌ Fatal error with config 237: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 15:26:55] 
+🔬 Testing configuration 238/264
+[2025-05-28 15:26:55] Config: LR=5e-05, BS=2, Epochs=7, WD=0.01
+[2025-05-28 15:27:03] ❌ Fatal error with config 238: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: epoch
+- Save strategy: steps
+[2025-05-28 15:27:03] 
+🔬 Testing configuration 239/264
+[2025-05-28 15:27:03] Config: LR=1e-05, BS=2, Epochs=10, WD=0.01
+[2025-05-28 15:44:00] ✅ Config 239: Accuracy=0.2400, Loss=1.8000
+[2025-05-28 15:44:01] 
+🔬 Testing configuration 240/264
+[2025-05-28 15:44:01] Config: LR=5e-05, BS=2, Epochs=10, WD=0.0
+[2025-05-28 15:44:10] ❌ Fatal error with config 240: Adafactor.__init__() got an unexpected keyword argument 'relative_step_size'
+[2025-05-28 15:44:10] 
+🔬 Testing configuration 241/264
+[2025-05-28 15:44:10] Config: LR=1e-05, BS=2, Epochs=5, WD=0.1
+[2025-05-28 15:44:19] ❌ Fatal error with config 241: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: steps
+- Save strategy: epoch
+[2025-05-28 15:44:19] 
+🔬 Testing configuration 242/264
+[2025-05-28 15:44:19] Config: LR=2e-05, BS=4, Epochs=10, WD=0.01

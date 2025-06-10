@@ -1,0 +1,27 @@
+BSC Dataset Labeling Summary Report
+==================================================
+Generated: 2025-05-29 14:18:45
+Model: Combined BART (tweet + note), without 'other' class
+Confidence threshold: 0.9
+
+Dataset Statistics:
+  Total samples: 25,728
+  Confident predictions: 23,264
+  Coverage: 90.4%
+  Manual review required: 2,464 (9.6%)
+
+Confidence Score Statistics:
+  Mean: 0.967
+  Median: 0.999
+  Standard deviation: 0.096
+  Minimum: 0.271
+  Maximum: 1.000
+
+Class Distribution:
+  politics: 9,082 (35.3%)
+  lifestyle: 7,615 (29.6%)
+  low_confidence: 2,464 (9.6%)
+  science: 2,314 (9.0%)
+  health: 1,788 (6.9%)
+  sports: 1,339 (5.2%)
+  economics: 1,126 (4.4%)
