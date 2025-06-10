@@ -1,0 +1,868 @@
+[2025-06-05 20:10:44] 🚀 Starting fresh validation...
+[2025-06-05 20:10:44] ================================================================================
+[2025-06-05 20:10:44] STARTING FRESH VALIDATION OF BEST MODEL
+[2025-06-05 20:10:44] ================================================================================
+[2025-06-05 20:10:44] Loading validation data from val_set.xlsx
+[2025-06-05 20:10:44] Loaded 100 validation samples
+[2025-06-05 20:10:44] After cleaning: 100 valid samples
+[2025-06-05 20:10:44] Label distribution in validation set:
+[2025-06-05 20:10:44]   politics: 30 (30.0%)
+[2025-06-05 20:10:44]   lifestyle: 22 (22.0%)
+[2025-06-05 20:10:44]   other: 14 (14.0%)
+[2025-06-05 20:10:44]   science: 13 (13.0%)
+[2025-06-05 20:10:44]   health: 10 (10.0%)
+[2025-06-05 20:10:44]   sports: 7 (7.0%)
+[2025-06-05 20:10:44]   economics: 4 (4.0%)
+[2025-06-05 20:10:44] Training classes: ['economics', 'health', 'lifestyle', 'politics', 'science', 'sports']
+[2025-06-05 20:10:44] Validation set analysis:
+[2025-06-05 20:10:44]   Known classes: 86 (86.0%)
+[2025-06-05 20:10:44]   Unknown/Other: 14 (14.0%)
+[2025-06-05 20:10:44]   Unknown labels found: ['other']
+[2025-06-05 20:10:44] Loading trained model from trained_models/final_without_other_combined
+[2025-06-05 20:10:46] Model loaded successfully
+[2025-06-05 20:10:46] Model has 6 output classes
+[2025-06-05 20:10:46] Creating validation dataset...
+[2025-06-05 20:10:47] Validation dataset created with 100 samples
+[2025-06-05 20:10:47] Testing multiple confidence thresholds...
+[2025-06-05 20:10:47] Evaluating with confidence threshold 0.5
+[2025-06-05 20:10:55] Threshold 0.5: Accuracy=0.859, Coverage=98.8%, Unknown Detection=0.0%
+[2025-06-05 20:10:55] Evaluating with confidence threshold 0.6
+[2025-06-05 20:11:00] Threshold 0.6: Accuracy=0.859, Coverage=98.8%, Unknown Detection=0.0%
+[2025-06-05 20:11:00] Evaluating with confidence threshold 0.7
+[2025-06-05 20:11:05] Threshold 0.7: Accuracy=0.859, Coverage=98.8%, Unknown Detection=14.3%
+[2025-06-05 20:11:05] Evaluating with confidence threshold 0.8
+[2025-06-05 20:11:11] Threshold 0.8: Accuracy=0.857, Coverage=97.7%, Unknown Detection=14.3%
+[2025-06-05 20:11:11] Evaluating with confidence threshold 0.85
+[2025-06-05 20:11:16] Threshold 0.85: Accuracy=0.878, Coverage=95.3%, Unknown Detection=14.3%
+[2025-06-05 20:11:16] Evaluating with confidence threshold 0.9
+[2025-06-05 20:11:21] Threshold 0.9: Accuracy=0.878, Coverage=95.3%, Unknown Detection=21.4%
+[2025-06-05 20:11:21] Evaluating with confidence threshold 0.95
+[2025-06-05 20:11:27] Threshold 0.95: Accuracy=0.889, Coverage=94.2%, Unknown Detection=28.6%
+[2025-06-05 20:11:27] Evaluating with confidence threshold 0.99
+[2025-06-05 20:11:32] Threshold 0.99: Accuracy=0.892, Coverage=86.0%, Unknown Detection=35.7%
+[2025-06-05 20:11:32] Validation results saved!
+[2025-06-05 20:11:32] Creating validation plots...
+[2025-06-05 20:11:34] Performance plots saved!
+[2025-06-05 20:11:34] Creating detailed analysis...
+[2025-06-05 20:11:34] Detailed analysis completed!
+[2025-06-05 20:11:34] Generating validation report...
+[2025-06-05 20:11:34] Validation report generated!
+[2025-06-05 20:11:34] 🎉 Fresh validation completed successfully!
+[2025-06-05 20:19:06] 🚀 Starting fresh validation...
+[2025-06-05 20:19:06] ================================================================================
+[2025-06-05 20:19:06] STARTING FRESH VALIDATION OF BEST MODEL
+[2025-06-05 20:19:06] ================================================================================
+[2025-06-05 20:19:06] Loading validation data from val_set.xlsx
+[2025-06-05 20:19:07] Loaded 100 validation samples
+[2025-06-05 20:19:07] After cleaning: 100 valid samples
+[2025-06-05 20:19:07] Label distribution in validation set:
+[2025-06-05 20:19:07]   politics: 30 (30.0%)
+[2025-06-05 20:19:07]   lifestyle: 22 (22.0%)
+[2025-06-05 20:19:07]   other: 14 (14.0%)
+[2025-06-05 20:19:07]   science: 13 (13.0%)
+[2025-06-05 20:19:07]   health: 10 (10.0%)
+[2025-06-05 20:19:07]   sports: 7 (7.0%)
+[2025-06-05 20:19:07]   economics: 4 (4.0%)
+[2025-06-05 20:19:07] Training classes: ['economics', 'health', 'lifestyle', 'politics', 'science', 'sports']
+[2025-06-05 20:19:07] Validation set analysis:
+[2025-06-05 20:19:07]   Known classes: 86 (86.0%)
+[2025-06-05 20:19:07]   Unknown/Other: 14 (14.0%)
+[2025-06-05 20:19:07]   Unknown labels found: ['other']
+[2025-06-05 20:19:07] Loading trained model from trained_models/final_without_other_combined
+[2025-06-05 20:19:08] Model loaded successfully
+[2025-06-05 20:19:08] Model has 6 output classes
+[2025-06-05 20:19:08] Creating validation dataset...
+[2025-06-05 20:19:09] Validation dataset created with 100 samples
+[2025-06-05 20:19:09] Testing multiple confidence thresholds...
+[2025-06-05 20:19:09] Evaluating with confidence threshold 0.5
+[2025-06-05 20:19:16] Threshold 0.5: Accuracy=0.859, Coverage=98.8%, Unknown Detection=0.0%
+[2025-06-05 20:19:16] Evaluating with confidence threshold 0.6
+[2025-06-05 20:19:21] Threshold 0.6: Accuracy=0.859, Coverage=98.8%, Unknown Detection=0.0%
+[2025-06-05 20:19:21] Evaluating with confidence threshold 0.7
+[2025-06-05 20:19:27] Threshold 0.7: Accuracy=0.859, Coverage=98.8%, Unknown Detection=14.3%
+[2025-06-05 20:19:27] Evaluating with confidence threshold 0.8
+[2025-06-05 20:19:32] Threshold 0.8: Accuracy=0.857, Coverage=97.7%, Unknown Detection=14.3%
+[2025-06-05 20:19:32] Evaluating with confidence threshold 0.85
+[2025-06-05 20:19:38] Threshold 0.85: Accuracy=0.878, Coverage=95.3%, Unknown Detection=14.3%
+[2025-06-05 20:19:38] Evaluating with confidence threshold 0.9
+[2025-06-05 20:19:43] Threshold 0.9: Accuracy=0.878, Coverage=95.3%, Unknown Detection=21.4%
+[2025-06-05 20:19:43] Evaluating with confidence threshold 0.95
+[2025-06-05 20:19:48] Threshold 0.95: Accuracy=0.889, Coverage=94.2%, Unknown Detection=28.6%
+[2025-06-05 20:19:48] Evaluating with confidence threshold 0.99
+[2025-06-05 20:19:54] Threshold 0.99: Accuracy=0.892, Coverage=86.0%, Unknown Detection=35.7%
+[2025-06-05 20:19:54] Validation results saved!
+[2025-06-05 20:19:54] Creating validation plots...
+[2025-06-05 20:19:55] Performance plots saved!
+[2025-06-05 20:19:55] Creating detailed analysis...
+[2025-06-05 20:19:56] Detailed analysis completed!
+[2025-06-05 20:19:56] Generating validation report...
+[2025-06-05 20:19:56] Validation report generated!
+[2025-06-05 20:19:56] 🎉 Fresh validation completed successfully!
+[2025-06-05 20:23:09] 🚀 Starting fresh validation...
+[2025-06-05 20:23:09] ================================================================================
+[2025-06-05 20:23:09] STARTING FRESH VALIDATION OF BEST MODEL
+[2025-06-05 20:23:09] ================================================================================
+[2025-06-05 20:23:09] Loading validation data from val_set.xlsx
+[2025-06-05 20:23:10] Loaded 100 validation samples
+[2025-06-05 20:23:10] After cleaning: 100 valid samples
+[2025-06-05 20:23:10] Label distribution in validation set:
+[2025-06-05 20:23:10]   politics: 30 (30.0%)
+[2025-06-05 20:23:10]   lifestyle: 22 (22.0%)
+[2025-06-05 20:23:10]   other: 14 (14.0%)
+[2025-06-05 20:23:10]   science: 13 (13.0%)
+[2025-06-05 20:23:10]   health: 10 (10.0%)
+[2025-06-05 20:23:10]   sports: 7 (7.0%)
+[2025-06-05 20:23:10]   economics: 4 (4.0%)
+[2025-06-05 20:23:10] Training classes: ['economics', 'health', 'lifestyle', 'politics', 'science', 'sports']
+[2025-06-05 20:23:10] All validation classes: ['economics', 'health', 'lifestyle', 'other', 'politics', 'science', 'sports']
+[2025-06-05 20:23:10] Validation set analysis:
+[2025-06-05 20:23:10]   Known classes: 86 (86.0%)
+[2025-06-05 20:23:10]   Unknown/Other: 14 (14.0%)
+[2025-06-05 20:23:10]   Unknown labels found: ['other']
+[2025-06-05 20:23:10] Loading trained model from trained_models/final_without_other_combined
+[2025-06-05 20:23:11] Model loaded successfully
+[2025-06-05 20:23:11] Model has 6 output classes
+[2025-06-05 20:23:11] Creating validation dataset...
+[2025-06-05 20:23:12] Validation dataset created with 100 samples
+[2025-06-05 20:23:12] Testing multiple confidence thresholds...
+[2025-06-05 20:23:12] Evaluating with confidence threshold 0.5
+[2025-06-05 20:23:19] Threshold 0.5: Accuracy=0.859, Coverage=98.8%, Unknown Detection=0.0%
+[2025-06-05 20:23:19] Evaluating with confidence threshold 0.6
+[2025-06-05 20:23:25] Threshold 0.6: Accuracy=0.859, Coverage=98.8%, Unknown Detection=0.0%
+[2025-06-05 20:23:25] Evaluating with confidence threshold 0.7
+[2025-06-05 20:23:30] Threshold 0.7: Accuracy=0.859, Coverage=98.8%, Unknown Detection=14.3%
+[2025-06-05 20:23:30] Evaluating with confidence threshold 0.8
+[2025-06-05 20:23:35] Threshold 0.8: Accuracy=0.857, Coverage=97.7%, Unknown Detection=14.3%
+[2025-06-05 20:23:35] Evaluating with confidence threshold 0.85
+[2025-06-05 20:23:41] Threshold 0.85: Accuracy=0.878, Coverage=95.3%, Unknown Detection=14.3%
+[2025-06-05 20:23:41] Evaluating with confidence threshold 0.9
+[2025-06-05 20:23:46] Threshold 0.9: Accuracy=0.878, Coverage=95.3%, Unknown Detection=21.4%
+[2025-06-05 20:23:46] Evaluating with confidence threshold 0.95
+[2025-06-05 20:23:51] Threshold 0.95: Accuracy=0.889, Coverage=94.2%, Unknown Detection=28.6%
+[2025-06-05 20:23:51] Evaluating with confidence threshold 0.99
+[2025-06-05 20:23:57] Threshold 0.99: Accuracy=0.892, Coverage=86.0%, Unknown Detection=35.7%
+[2025-06-05 20:23:57] Validation results saved!
+[2025-06-05 20:23:57] Creating validation plots...
+[2025-06-05 20:24:00] Performance plots saved!
+[2025-06-05 20:24:00] Creating detailed analysis...
+[2025-06-05 20:24:00] Creating enhanced confusion matrix...
+[2025-06-05 20:24:02] Detailed analysis completed!
+[2025-06-05 20:24:02] Generating validation report...
+[2025-06-05 20:24:02] Validation report generated!
+[2025-06-05 20:24:02] 🎉 Fresh validation completed successfully!
+[2025-06-05 20:31:39] 🚀 Starting fresh validation...
+[2025-06-05 20:31:39] ================================================================================
+[2025-06-05 20:31:39] STARTING FRESH VALIDATION OF BEST MODEL
+[2025-06-05 20:31:39] ================================================================================
+[2025-06-05 20:31:39] Loading validation data from val_set.xlsx
+[2025-06-05 20:31:40] Loaded 100 validation samples
+[2025-06-05 20:31:40] After cleaning: 100 valid samples
+[2025-06-05 20:31:40] Label distribution in validation set:
+[2025-06-05 20:31:40]   politics: 30 (30.0%)
+[2025-06-05 20:31:40]   lifestyle: 22 (22.0%)
+[2025-06-05 20:31:40]   other: 14 (14.0%)
+[2025-06-05 20:31:40]   science: 13 (13.0%)
+[2025-06-05 20:31:40]   health: 10 (10.0%)
+[2025-06-05 20:31:40]   sports: 7 (7.0%)
+[2025-06-05 20:31:40]   economics: 4 (4.0%)
+[2025-06-05 20:31:40] Training classes: ['economics', 'health', 'lifestyle', 'politics', 'science', 'sports']
+[2025-06-05 20:31:40] All validation classes: ['economics', 'health', 'lifestyle', 'other', 'politics', 'science', 'sports']
+[2025-06-05 20:31:40] Validation set analysis:
+[2025-06-05 20:31:40]   Known classes: 86 (86.0%)
+[2025-06-05 20:31:40]   Unknown/Other: 14 (14.0%)
+[2025-06-05 20:31:40]   Unknown labels found: ['other']
+[2025-06-05 20:31:40] Loading trained model from trained_models/final_without_other_combined
+[2025-06-05 20:31:41] Model loaded successfully
+[2025-06-05 20:31:41] Model has 6 output classes
+[2025-06-05 20:31:41] Creating validation dataset...
+[2025-06-05 20:31:42] Validation dataset created with 100 samples
+[2025-06-05 20:31:42] Testing multiple confidence thresholds...
+[2025-06-05 20:31:42] Evaluating with confidence threshold 0.5
+[2025-06-05 20:31:49] Threshold 0.5: Accuracy=0.859, Coverage=98.8%, Unknown Detection=0.0%
+[2025-06-05 20:31:49] Evaluating with confidence threshold 0.6
+[2025-06-05 20:31:54] Threshold 0.6: Accuracy=0.859, Coverage=98.8%, Unknown Detection=0.0%
+[2025-06-05 20:31:54] Evaluating with confidence threshold 0.7
+[2025-06-05 20:32:00] Threshold 0.7: Accuracy=0.859, Coverage=98.8%, Unknown Detection=14.3%
+[2025-06-05 20:32:00] Evaluating with confidence threshold 0.8
+[2025-06-05 20:32:05] Threshold 0.8: Accuracy=0.857, Coverage=97.7%, Unknown Detection=14.3%
+[2025-06-05 20:32:05] Evaluating with confidence threshold 0.85
+[2025-06-05 20:32:10] Threshold 0.85: Accuracy=0.878, Coverage=95.3%, Unknown Detection=14.3%
+[2025-06-05 20:32:10] Evaluating with confidence threshold 0.9
+[2025-06-05 20:32:16] Threshold 0.9: Accuracy=0.878, Coverage=95.3%, Unknown Detection=21.4%
+[2025-06-05 20:32:16] Evaluating with confidence threshold 0.95
+[2025-06-05 20:32:21] Threshold 0.95: Accuracy=0.889, Coverage=94.2%, Unknown Detection=28.6%
+[2025-06-05 20:32:21] Evaluating with confidence threshold 0.99
+[2025-06-05 20:32:27] Threshold 0.99: Accuracy=0.892, Coverage=86.0%, Unknown Detection=35.7%
+[2025-06-05 20:32:27] Validation results saved!
+[2025-06-05 20:32:27] Creating validation plots...
+[2025-06-05 20:32:30] Performance plots saved!
+[2025-06-05 20:32:30] Creating detailed analysis...
+[2025-06-05 20:32:30] Creating enhanced confusion matrix...
+[2025-06-05 20:32:32] Detailed analysis completed!
+[2025-06-05 20:32:32] Generating validation report...
+[2025-06-05 20:32:32] Validation report generated!
+[2025-06-05 20:32:32] 🎉 Fresh validation completed successfully!
+[2025-06-05 20:44:52] 🚀 Starting fresh validation...
+[2025-06-05 20:45:09] ================================================================================
+[2025-06-05 20:45:09] STARTING FRESH VALIDATION OF BEST MODEL
+[2025-06-05 20:45:09] ================================================================================
+[2025-06-05 20:45:09] Loading validation data from val_set.xlsx
+[2025-06-05 20:45:09] Loaded 100 validation samples
+[2025-06-05 20:45:09] After cleaning: 100 valid samples
+[2025-06-05 20:45:09] Label distribution in validation set:
+[2025-06-05 20:45:09]   politics: 30 (30.0%)
+[2025-06-05 20:45:09]   lifestyle: 22 (22.0%)
+[2025-06-05 20:45:09]   other: 14 (14.0%)
+[2025-06-05 20:45:09]   science: 13 (13.0%)
+[2025-06-05 20:45:09]   health: 10 (10.0%)
+[2025-06-05 20:45:09]   sports: 7 (7.0%)
+[2025-06-05 20:45:09]   economics: 4 (4.0%)
+[2025-06-05 20:45:09] Training classes: ['economics', 'health', 'lifestyle', 'politics', 'science', 'sports']
+[2025-06-05 20:45:09] All validation classes: ['economics', 'health', 'lifestyle', 'other', 'politics', 'science', 'sports']
+[2025-06-05 20:45:09] Validation set analysis:
+[2025-06-05 20:45:09]   Known classes: 86 (86.0%)
+[2025-06-05 20:45:09]   Unknown/Other: 14 (14.0%)
+[2025-06-05 20:45:09]   Unknown labels found: ['other']
+[2025-06-05 20:45:09] Loading trained model from trained_models/final_without_other_combined
+[2025-06-05 20:45:12] Model loaded successfully
+[2025-06-05 20:45:12] Model has 6 output classes
+[2025-06-05 20:45:12] Creating validation dataset...
+[2025-06-05 20:45:13] Validation dataset created with 100 samples
+[2025-06-05 20:45:13] Testing multiple confidence thresholds...
+[2025-06-05 20:45:13] Evaluating with confidence threshold 0.5
+[2025-06-05 20:45:20] Threshold 0.5: Accuracy=0.859, Coverage=98.8%, Unknown Detection=0.0%
+[2025-06-05 20:45:20] Evaluating with confidence threshold 0.6
+[2025-06-05 20:45:25] Threshold 0.6: Accuracy=0.859, Coverage=98.8%, Unknown Detection=0.0%
+[2025-06-05 20:45:25] Evaluating with confidence threshold 0.7
+[2025-06-05 20:45:30] Threshold 0.7: Accuracy=0.859, Coverage=98.8%, Unknown Detection=14.3%
+[2025-06-05 20:45:30] Evaluating with confidence threshold 0.8
+[2025-06-05 20:45:36] Threshold 0.8: Accuracy=0.857, Coverage=97.7%, Unknown Detection=14.3%
+[2025-06-05 20:45:36] Evaluating with confidence threshold 0.85
+[2025-06-05 20:45:41] Threshold 0.85: Accuracy=0.878, Coverage=95.3%, Unknown Detection=14.3%
+[2025-06-05 20:45:41] Evaluating with confidence threshold 0.9
+[2025-06-05 20:45:46] Threshold 0.9: Accuracy=0.878, Coverage=95.3%, Unknown Detection=21.4%
+[2025-06-05 20:45:46] Evaluating with confidence threshold 0.95
+[2025-06-05 20:45:51] Threshold 0.95: Accuracy=0.889, Coverage=94.2%, Unknown Detection=28.6%
+[2025-06-05 20:45:51] Evaluating with confidence threshold 0.99
+[2025-06-05 20:45:56] Threshold 0.99: Accuracy=0.892, Coverage=86.0%, Unknown Detection=35.7%
+[2025-06-05 20:45:56] Validation results saved!
+[2025-06-05 20:45:56] Creating validation plots...
+[2025-06-05 20:46:00] Performance plots saved!
+[2025-06-05 20:46:00] Creating detailed analysis...
+[2025-06-05 20:46:00] Creating enhanced confusion matrix...
+[2025-06-05 20:46:02] Detailed analysis completed!
+[2025-06-05 20:46:02] Generating validation report...
+[2025-06-05 20:46:02] Validation report generated!
+[2025-06-05 20:46:02] 🎉 Fresh validation completed successfully!
+[2025-06-05 20:55:56] 🚀 Starting fresh validation...
+[2025-06-05 20:55:56] ================================================================================
+[2025-06-05 20:55:56] STARTING FRESH VALIDATION OF BEST MODEL
+[2025-06-05 20:55:56] ================================================================================
+[2025-06-05 20:55:56] Loading validation data from val_set.xlsx
+[2025-06-05 20:55:57] Loaded 100 validation samples
+[2025-06-05 20:55:57] After cleaning: 100 valid samples
+[2025-06-05 20:55:57] Label distribution in validation set:
+[2025-06-05 20:55:57]   politics: 30 (30.0%)
+[2025-06-05 20:55:57]   lifestyle: 22 (22.0%)
+[2025-06-05 20:55:57]   other: 14 (14.0%)
+[2025-06-05 20:55:57]   science: 13 (13.0%)
+[2025-06-05 20:55:57]   health: 10 (10.0%)
+[2025-06-05 20:55:57]   sports: 7 (7.0%)
+[2025-06-05 20:55:57]   economics: 4 (4.0%)
+[2025-06-05 20:55:57] Training classes: ['economics', 'health', 'lifestyle', 'politics', 'science', 'sports']
+[2025-06-05 20:55:57] All validation classes: ['economics', 'health', 'lifestyle', 'other', 'politics', 'science', 'sports']
+[2025-06-05 20:55:57] Validation set analysis:
+[2025-06-05 20:55:57]   Known classes: 86 (86.0%)
+[2025-06-05 20:55:57]   Unknown/Other: 14 (14.0%)
+[2025-06-05 20:55:57]   Unknown labels found: ['other']
+[2025-06-05 20:55:57] Loading trained model from trained_models/final_without_other_combined
+[2025-06-05 20:56:00] Model loaded successfully
+[2025-06-05 20:56:00] Model has 6 output classes
+[2025-06-05 20:56:00] Creating validation dataset...
+[2025-06-05 20:56:01] Validation dataset created with 100 samples
+[2025-06-05 20:56:01] Testing multiple confidence thresholds...
+[2025-06-05 20:56:01] Evaluating with confidence threshold 0.5
+[2025-06-05 20:56:09] Threshold 0.5: Accuracy=0.859, Coverage=98.8%, Unknown Detection=0.0%
+[2025-06-05 20:56:09] Evaluating with confidence threshold 0.6
+[2025-06-05 20:56:14] Threshold 0.6: Accuracy=0.859, Coverage=98.8%, Unknown Detection=0.0%
+[2025-06-05 20:56:14] Evaluating with confidence threshold 0.7
+[2025-06-05 20:56:20] Threshold 0.7: Accuracy=0.859, Coverage=98.8%, Unknown Detection=14.3%
+[2025-06-05 20:56:20] Evaluating with confidence threshold 0.8
+[2025-06-05 20:56:25] Threshold 0.8: Accuracy=0.857, Coverage=97.7%, Unknown Detection=14.3%
+[2025-06-05 20:56:25] Evaluating with confidence threshold 0.85
+[2025-06-05 20:56:30] Threshold 0.85: Accuracy=0.878, Coverage=95.3%, Unknown Detection=14.3%
+[2025-06-05 20:56:30] Evaluating with confidence threshold 0.9
+[2025-06-05 20:56:35] Threshold 0.9: Accuracy=0.878, Coverage=95.3%, Unknown Detection=21.4%
+[2025-06-05 20:56:35] Evaluating with confidence threshold 0.95
+[2025-06-05 20:56:41] Threshold 0.95: Accuracy=0.889, Coverage=94.2%, Unknown Detection=28.6%
+[2025-06-05 20:56:41] Evaluating with confidence threshold 0.99
+[2025-06-05 20:56:46] Threshold 0.99: Accuracy=0.892, Coverage=86.0%, Unknown Detection=35.7%
+[2025-06-05 20:56:46] Validation results saved!
+[2025-06-05 20:56:46] Creating validation plots...
+[2025-06-05 20:56:51] Performance plots saved!
+[2025-06-05 20:56:51] Creating detailed analysis...
+[2025-06-05 20:56:51] Creating enhanced confusion matrix...
+[2025-06-05 20:56:53] Detailed analysis completed!
+[2025-06-05 20:56:53] Generating validation report...
+[2025-06-05 20:56:53] Validation report generated!
+[2025-06-05 20:56:53] 🎉 Fresh validation completed successfully!
+[2025-06-05 21:02:51] 🚀 Starting fresh validation...
+[2025-06-05 21:02:51] ================================================================================
+[2025-06-05 21:02:51] STARTING FRESH VALIDATION OF BEST MODEL
+[2025-06-05 21:02:51] ================================================================================
+[2025-06-05 21:02:51] Loading validation data from val_set.xlsx
+[2025-06-05 21:02:52] Loaded 100 validation samples
+[2025-06-05 21:02:52] After cleaning: 100 valid samples
+[2025-06-05 21:02:52] Label distribution in validation set:
+[2025-06-05 21:02:52]   politics: 30 (30.0%)
+[2025-06-05 21:02:52]   lifestyle: 22 (22.0%)
+[2025-06-05 21:02:52]   other: 14 (14.0%)
+[2025-06-05 21:02:52]   science: 13 (13.0%)
+[2025-06-05 21:02:52]   health: 10 (10.0%)
+[2025-06-05 21:02:52]   sports: 7 (7.0%)
+[2025-06-05 21:02:52]   economics: 4 (4.0%)
+[2025-06-05 21:02:52] Training classes: ['economics', 'health', 'lifestyle', 'politics', 'science', 'sports']
+[2025-06-05 21:02:52] All validation classes: ['economics', 'health', 'lifestyle', 'other', 'politics', 'science', 'sports']
+[2025-06-05 21:02:52] Validation set analysis:
+[2025-06-05 21:02:52]   Known classes: 86 (86.0%)
+[2025-06-05 21:02:52]   Unknown/Other: 14 (14.0%)
+[2025-06-05 21:02:52]   Unknown labels found: ['other']
+[2025-06-05 21:02:52] Loading trained model from trained_models/final_without_other_combined
+[2025-06-05 21:02:55] Model loaded successfully
+[2025-06-05 21:02:55] Model has 6 output classes
+[2025-06-05 21:02:55] Creating validation dataset...
+[2025-06-05 21:02:56] Validation dataset created with 100 samples
+[2025-06-05 21:02:56] Testing multiple confidence thresholds...
+[2025-06-05 21:02:56] Evaluating with confidence threshold 0.5
+[2025-06-05 21:03:03] Threshold 0.5: Accuracy=0.859, Coverage=98.8%, Unknown Detection=0.0%
+[2025-06-05 21:03:03] Evaluating with confidence threshold 0.6
+[2025-06-05 21:03:08] Threshold 0.6: Accuracy=0.859, Coverage=98.8%, Unknown Detection=0.0%
+[2025-06-05 21:03:08] Evaluating with confidence threshold 0.7
+[2025-06-05 21:03:14] Threshold 0.7: Accuracy=0.859, Coverage=98.8%, Unknown Detection=14.3%
+[2025-06-05 21:03:14] Evaluating with confidence threshold 0.8
+[2025-06-05 21:03:19] Threshold 0.8: Accuracy=0.857, Coverage=97.7%, Unknown Detection=14.3%
+[2025-06-05 21:03:19] Evaluating with confidence threshold 0.85
+[2025-06-05 21:03:24] Threshold 0.85: Accuracy=0.878, Coverage=95.3%, Unknown Detection=14.3%
+[2025-06-05 21:03:24] Evaluating with confidence threshold 0.9
+[2025-06-05 21:03:29] Threshold 0.9: Accuracy=0.878, Coverage=95.3%, Unknown Detection=21.4%
+[2025-06-05 21:03:29] Evaluating with confidence threshold 0.95
+[2025-06-05 21:03:35] Threshold 0.95: Accuracy=0.889, Coverage=94.2%, Unknown Detection=28.6%
+[2025-06-05 21:03:35] Evaluating with confidence threshold 0.99
+[2025-06-05 21:03:40] Threshold 0.99: Accuracy=0.892, Coverage=86.0%, Unknown Detection=35.7%
+[2025-06-05 21:03:40] Validation results saved!
+[2025-06-05 21:03:40] Creating validation plots...
+[2025-06-05 21:03:45] Performance plots saved!
+[2025-06-05 21:03:45] Creating detailed analysis...
+[2025-06-05 21:03:45] Creating enhanced confusion matrix...
+[2025-06-05 21:03:47] Detailed analysis completed!
+[2025-06-05 21:03:47] Generating validation report...
+[2025-06-05 21:03:47] Validation report generated!
+[2025-06-05 21:03:47] 🎉 Fresh validation completed successfully!
+[2025-06-05 21:15:02] 🚀 Starting fresh validation...
+[2025-06-05 21:15:02] ================================================================================
+[2025-06-05 21:15:02] STARTING FRESH VALIDATION OF BEST MODEL
+[2025-06-05 21:15:02] ================================================================================
+[2025-06-05 21:15:02] Loading validation data from val_set.xlsx
+[2025-06-05 21:15:03] Loaded 100 validation samples
+[2025-06-05 21:15:03] After cleaning: 100 valid samples
+[2025-06-05 21:15:03] Label distribution in validation set:
+[2025-06-05 21:15:03]   politics: 30 (30.0%)
+[2025-06-05 21:15:03]   lifestyle: 22 (22.0%)
+[2025-06-05 21:15:03]   other: 14 (14.0%)
+[2025-06-05 21:15:03]   science: 13 (13.0%)
+[2025-06-05 21:15:03]   health: 10 (10.0%)
+[2025-06-05 21:15:03]   sports: 7 (7.0%)
+[2025-06-05 21:15:03]   economics: 4 (4.0%)
+[2025-06-05 21:15:03] Training classes: ['economics', 'health', 'lifestyle', 'politics', 'science', 'sports']
+[2025-06-05 21:15:03] All validation classes: ['economics', 'health', 'lifestyle', 'other', 'politics', 'science', 'sports']
+[2025-06-05 21:15:03] Validation set analysis:
+[2025-06-05 21:15:03]   Known classes: 86 (86.0%)
+[2025-06-05 21:15:03]   Unknown/Other: 14 (14.0%)
+[2025-06-05 21:15:03]   Unknown labels found: ['other']
+[2025-06-05 21:15:03] Loading trained model from trained_models/final_without_other_combined
+[2025-06-05 21:15:06] Model loaded successfully
+[2025-06-05 21:15:06] Model has 6 output classes
+[2025-06-05 21:15:06] Creating validation dataset...
+[2025-06-05 21:15:07] Validation dataset created with 100 samples
+[2025-06-05 21:15:07] Testing multiple confidence thresholds...
+[2025-06-05 21:15:07] Evaluating with confidence threshold 0.5
+[2025-06-05 21:15:15] Threshold 0.5: Accuracy=0.859, Coverage=98.8%, Unknown Detection=0.0%
+[2025-06-05 21:15:15] Evaluating with confidence threshold 0.6
+[2025-06-05 21:15:20] Threshold 0.6: Accuracy=0.859, Coverage=98.8%, Unknown Detection=0.0%
+[2025-06-05 21:15:20] Evaluating with confidence threshold 0.7
+[2025-06-05 21:15:26] Threshold 0.7: Accuracy=0.859, Coverage=98.8%, Unknown Detection=14.3%
+[2025-06-05 21:15:26] Evaluating with confidence threshold 0.8
+[2025-06-05 21:15:31] Threshold 0.8: Accuracy=0.857, Coverage=97.7%, Unknown Detection=14.3%
+[2025-06-05 21:15:31] Evaluating with confidence threshold 0.85
+[2025-06-05 21:15:36] Threshold 0.85: Accuracy=0.878, Coverage=95.3%, Unknown Detection=14.3%
+[2025-06-05 21:15:36] Evaluating with confidence threshold 0.9
+[2025-06-05 21:15:42] Threshold 0.9: Accuracy=0.878, Coverage=95.3%, Unknown Detection=21.4%
+[2025-06-05 21:15:42] Evaluating with confidence threshold 0.95
+[2025-06-05 21:15:47] Threshold 0.95: Accuracy=0.889, Coverage=94.2%, Unknown Detection=28.6%
+[2025-06-05 21:15:47] Evaluating with confidence threshold 0.99
+[2025-06-05 21:15:52] Threshold 0.99: Accuracy=0.892, Coverage=86.0%, Unknown Detection=35.7%
+[2025-06-05 21:15:52] Validation results saved!
+[2025-06-05 21:15:52] Creating validation plots...
+[2025-06-05 21:15:57] Performance plots saved!
+[2025-06-05 21:15:57] Creating detailed analysis...
+[2025-06-05 21:15:57] Creating enhanced confusion matrix...
+[2025-06-05 21:15:59] Detailed analysis completed!
+[2025-06-05 21:15:59] Generating validation report...
+[2025-06-05 21:15:59] Validation report generated!
+[2025-06-05 21:15:59] 🎉 Fresh validation completed successfully!
+[2025-06-05 21:15:59] Creating threshold-focused visualizations...
+[2025-06-05 21:16:03] Threshold visualizations completed!
+[2025-06-06 10:00:21] 🚀 Starting fresh validation...
+[2025-06-06 10:00:21] ================================================================================
+[2025-06-06 10:00:21] STARTING FRESH VALIDATION OF BEST MODEL
+[2025-06-06 10:00:21] ================================================================================
+[2025-06-06 10:00:21] Loading validation data from val_set.xlsx
+[2025-06-06 10:00:22] Loaded 100 validation samples
+[2025-06-06 10:00:22] After cleaning: 100 valid samples
+[2025-06-06 10:00:22] Label distribution in validation set:
+[2025-06-06 10:00:22]   politics: 30 (30.0%)
+[2025-06-06 10:00:22]   lifestyle: 22 (22.0%)
+[2025-06-06 10:00:22]   other: 14 (14.0%)
+[2025-06-06 10:00:22]   science: 13 (13.0%)
+[2025-06-06 10:00:22]   health: 10 (10.0%)
+[2025-06-06 10:00:22]   sports: 7 (7.0%)
+[2025-06-06 10:00:22]   economics: 4 (4.0%)
+[2025-06-06 10:00:22] Training classes: ['economics', 'health', 'lifestyle', 'politics', 'science', 'sports']
+[2025-06-06 10:00:22] All validation classes: ['economics', 'health', 'lifestyle', 'other', 'politics', 'science', 'sports']
+[2025-06-06 10:00:22] Validation set analysis:
+[2025-06-06 10:00:22]   Known classes: 86 (86.0%)
+[2025-06-06 10:00:22]   Unknown/Other: 14 (14.0%)
+[2025-06-06 10:00:22]   Unknown labels found: ['other']
+[2025-06-06 10:00:22] Loading trained model from trained_models/final_without_other_combined
+[2025-06-06 10:00:24] Model loaded successfully
+[2025-06-06 10:00:25] Model has 6 output classes
+[2025-06-06 10:00:25] Creating validation dataset...
+[2025-06-06 10:00:26] Validation dataset created with 100 samples
+[2025-06-06 10:00:26] Testing multiple confidence thresholds...
+[2025-06-06 10:00:26] Evaluating with confidence threshold 0.5
+[2025-06-06 10:00:34] Threshold 0.5: Accuracy=0.859, Coverage=98.8%, Unknown Detection=0.0%
+[2025-06-06 10:00:34] Evaluating with confidence threshold 0.6
+[2025-06-06 10:00:39] Threshold 0.6: Accuracy=0.859, Coverage=98.8%, Unknown Detection=0.0%
+[2025-06-06 10:00:39] Evaluating with confidence threshold 0.7
+[2025-06-06 10:00:45] Threshold 0.7: Accuracy=0.859, Coverage=98.8%, Unknown Detection=14.3%
+[2025-06-06 10:00:45] Evaluating with confidence threshold 0.8
+[2025-06-06 10:00:50] Threshold 0.8: Accuracy=0.857, Coverage=97.7%, Unknown Detection=14.3%
+[2025-06-06 10:00:50] Evaluating with confidence threshold 0.85
+[2025-06-06 10:00:55] Threshold 0.85: Accuracy=0.878, Coverage=95.3%, Unknown Detection=14.3%
+[2025-06-06 10:00:55] Evaluating with confidence threshold 0.9
+[2025-06-06 10:01:01] Threshold 0.9: Accuracy=0.878, Coverage=95.3%, Unknown Detection=21.4%
+[2025-06-06 10:01:01] Evaluating with confidence threshold 0.95
+[2025-06-06 10:01:06] Threshold 0.95: Accuracy=0.889, Coverage=94.2%, Unknown Detection=28.6%
+[2025-06-06 10:01:06] Evaluating with confidence threshold 0.99
+[2025-06-06 10:01:11] Threshold 0.99: Accuracy=0.892, Coverage=86.0%, Unknown Detection=35.7%
+[2025-06-06 10:01:11] Validation results saved!
+[2025-06-06 10:01:11] Creating validation plots...
+[2025-06-06 10:01:15] Performance plots saved!
+[2025-06-06 10:01:15] Creating detailed analysis...
+[2025-06-06 10:01:15] Creating enhanced confusion matrix...
+[2025-06-06 10:01:16] Detailed analysis completed!
+[2025-06-06 10:01:16] Generating validation report...
+[2025-06-06 10:01:16] Validation report generated!
+[2025-06-06 10:01:16] 🎉 Fresh validation completed successfully!
+[2025-06-06 10:01:16] Creating threshold-focused visualizations...
+[2025-06-06 10:01:19] Threshold visualizations completed!
+[2025-06-06 10:17:27] 🚀 Starting fresh validation...
+[2025-06-06 10:17:27] ================================================================================
+[2025-06-06 10:17:27] STARTING FRESH VALIDATION OF BEST MODEL
+[2025-06-06 10:17:27] ================================================================================
+[2025-06-06 10:17:27] Loading validation data from val_set.xlsx
+[2025-06-06 10:17:28] Loaded 100 validation samples
+[2025-06-06 10:17:28] After cleaning: 100 valid samples
+[2025-06-06 10:17:28] Label distribution in validation set:
+[2025-06-06 10:17:28]   politics: 30 (30.0%)
+[2025-06-06 10:17:28]   lifestyle: 22 (22.0%)
+[2025-06-06 10:17:28]   other: 14 (14.0%)
+[2025-06-06 10:17:28]   science: 13 (13.0%)
+[2025-06-06 10:17:28]   health: 10 (10.0%)
+[2025-06-06 10:17:28]   sports: 7 (7.0%)
+[2025-06-06 10:17:28]   economics: 4 (4.0%)
+[2025-06-06 10:17:28] Training classes: ['economics', 'health', 'lifestyle', 'politics', 'science', 'sports']
+[2025-06-06 10:17:28] All validation classes: ['economics', 'health', 'lifestyle', 'other', 'politics', 'science', 'sports']
+[2025-06-06 10:17:28] Validation set analysis:
+[2025-06-06 10:17:28]   Known classes: 86 (86.0%)
+[2025-06-06 10:17:28]   Unknown/Other: 14 (14.0%)
+[2025-06-06 10:17:28]   Unknown labels found: ['other']
+[2025-06-06 10:17:28] Loading trained model from trained_models/final_without_other_combined
+[2025-06-06 10:17:31] Model loaded successfully
+[2025-06-06 10:17:31] Model has 6 output classes
+[2025-06-06 10:17:31] Creating validation dataset...
+[2025-06-06 10:17:32] Validation dataset created with 100 samples
+[2025-06-06 10:17:32] Testing multiple confidence thresholds...
+[2025-06-06 10:17:32] Evaluating with confidence threshold 0.5
+[2025-06-06 10:17:41] Threshold 0.5: Accuracy=0.859, Coverage=98.8%, Unknown Detection=0.0%
+[2025-06-06 10:17:41] Evaluating with confidence threshold 0.6
+[2025-06-06 10:17:47] Threshold 0.6: Accuracy=0.859, Coverage=98.8%, Unknown Detection=0.0%
+[2025-06-06 10:17:47] Evaluating with confidence threshold 0.7
+[2025-06-06 10:17:53] Threshold 0.7: Accuracy=0.859, Coverage=98.8%, Unknown Detection=14.3%
+[2025-06-06 10:17:53] Evaluating with confidence threshold 0.8
+[2025-06-06 10:17:59] Threshold 0.8: Accuracy=0.857, Coverage=97.7%, Unknown Detection=14.3%
+[2025-06-06 10:17:59] Evaluating with confidence threshold 0.85
+[2025-06-06 10:18:04] Threshold 0.85: Accuracy=0.878, Coverage=95.3%, Unknown Detection=14.3%
+[2025-06-06 10:18:04] Evaluating with confidence threshold 0.9
+[2025-06-06 10:18:10] Threshold 0.9: Accuracy=0.878, Coverage=95.3%, Unknown Detection=21.4%
+[2025-06-06 10:18:10] Evaluating with confidence threshold 0.95
+[2025-06-06 10:18:16] Threshold 0.95: Accuracy=0.889, Coverage=94.2%, Unknown Detection=28.6%
+[2025-06-06 10:18:16] Evaluating with confidence threshold 0.99
+[2025-06-06 10:18:22] Threshold 0.99: Accuracy=0.892, Coverage=86.0%, Unknown Detection=35.7%
+[2025-06-06 10:18:24] Validation results saved!
+[2025-06-06 10:18:24] Creating validation plots...
+[2025-06-06 10:18:29] Performance plots saved!
+[2025-06-06 10:18:29] Creating detailed analysis...
+[2025-06-06 10:18:29] Creating enhanced confusion matrix...
+[2025-06-06 10:18:32] Detailed analysis completed!
+[2025-06-06 10:18:32] Generating validation report...
+[2025-06-06 10:18:32] Validation report generated!
+[2025-06-06 10:18:32] 🎉 Fresh validation completed successfully!
+[2025-06-06 10:18:32] Creating threshold-focused visualizations...
+[2025-06-06 10:18:36] Threshold visualizations completed!
+[2025-06-06 10:29:50] 🚀 Starting fresh validation...
+[2025-06-06 10:29:50] ================================================================================
+[2025-06-06 10:29:50] STARTING FRESH VALIDATION OF BEST MODEL
+[2025-06-06 10:29:50] ================================================================================
+[2025-06-06 10:29:50] Loading validation data from val_set.xlsx
+[2025-06-06 10:29:50] Loaded 100 validation samples
+[2025-06-06 10:29:50] After cleaning: 100 valid samples
+[2025-06-06 10:29:50] Label distribution in validation set:
+[2025-06-06 10:29:50]   politics: 30 (30.0%)
+[2025-06-06 10:29:50]   lifestyle: 22 (22.0%)
+[2025-06-06 10:29:50]   other: 14 (14.0%)
+[2025-06-06 10:29:50]   science: 13 (13.0%)
+[2025-06-06 10:29:50]   health: 10 (10.0%)
+[2025-06-06 10:29:50]   sports: 7 (7.0%)
+[2025-06-06 10:29:50]   economics: 4 (4.0%)
+[2025-06-06 10:29:50] Training classes: ['economics', 'health', 'lifestyle', 'politics', 'science', 'sports']
+[2025-06-06 10:29:50] All validation classes: ['economics', 'health', 'lifestyle', 'other', 'politics', 'science', 'sports']
+[2025-06-06 10:29:50] Validation set analysis:
+[2025-06-06 10:29:50]   Known classes: 86 (86.0%)
+[2025-06-06 10:29:50]   Unknown/Other: 14 (14.0%)
+[2025-06-06 10:29:50]   Unknown labels found: ['other']
+[2025-06-06 10:29:50] Loading trained model from trained_models/final_without_other_combined
+[2025-06-06 10:29:52] Model loaded successfully
+[2025-06-06 10:29:52] Model has 6 output classes
+[2025-06-06 10:29:52] Creating validation dataset...
+[2025-06-06 10:29:53] Validation dataset created with 100 samples
+[2025-06-06 10:29:53] Testing multiple confidence thresholds...
+[2025-06-06 10:29:53] Evaluating with confidence threshold 0.5
+[2025-06-06 10:30:01] Threshold 0.5: Accuracy=0.859, Coverage=98.8%, Unknown Detection=0.0%
+[2025-06-06 10:30:01] Evaluating with confidence threshold 0.6
+[2025-06-06 10:30:06] Threshold 0.6: Accuracy=0.859, Coverage=98.8%, Unknown Detection=0.0%
+[2025-06-06 10:30:06] Evaluating with confidence threshold 0.7
+[2025-06-06 10:30:12] Threshold 0.7: Accuracy=0.859, Coverage=98.8%, Unknown Detection=14.3%
+[2025-06-06 10:30:12] Evaluating with confidence threshold 0.8
+[2025-06-06 10:30:17] Threshold 0.8: Accuracy=0.857, Coverage=97.7%, Unknown Detection=14.3%
+[2025-06-06 10:30:17] Evaluating with confidence threshold 0.85
+[2025-06-06 10:30:22] Threshold 0.85: Accuracy=0.878, Coverage=95.3%, Unknown Detection=14.3%
+[2025-06-06 10:30:22] Evaluating with confidence threshold 0.9
+[2025-06-06 10:30:28] Threshold 0.9: Accuracy=0.878, Coverage=95.3%, Unknown Detection=21.4%
+[2025-06-06 10:30:32] Evaluating with confidence threshold 0.95
+[2025-06-06 10:30:37] Threshold 0.95: Accuracy=0.889, Coverage=94.2%, Unknown Detection=28.6%
+[2025-06-06 10:30:37] Evaluating with confidence threshold 0.99
+[2025-06-06 10:30:42] Threshold 0.99: Accuracy=0.892, Coverage=86.0%, Unknown Detection=35.7%
+[2025-06-06 10:30:42] Validation results saved!
+[2025-06-06 10:30:42] Creating validation plots...
+[2025-06-06 10:30:46] Performance plots saved!
+[2025-06-06 10:30:46] Creating detailed analysis...
+[2025-06-06 10:30:46] Creating enhanced confusion matrix...
+[2025-06-06 10:30:47] Detailed analysis completed!
+[2025-06-06 10:30:47] Generating validation report...
+[2025-06-06 10:30:47] Validation report generated!
+[2025-06-06 10:30:47] 🎉 Fresh validation completed successfully!
+[2025-06-06 10:30:47] Creating threshold-focused visualizations...
+[2025-06-06 10:30:50] Threshold visualizations completed!
+[2025-06-06 11:05:08] 🚀 Starting fresh validation...
+[2025-06-06 11:05:08] ================================================================================
+[2025-06-06 11:05:08] STARTING FRESH VALIDATION OF BEST MODEL
+[2025-06-06 11:05:08] ================================================================================
+[2025-06-06 11:05:08] Loading validation data from val_set.xlsx
+[2025-06-06 11:05:09] Loaded 100 validation samples
+[2025-06-06 11:05:09] After cleaning: 100 valid samples
+[2025-06-06 11:05:09] Label distribution in validation set:
+[2025-06-06 11:05:09]   politics: 30 (30.0%)
+[2025-06-06 11:05:09]   lifestyle: 22 (22.0%)
+[2025-06-06 11:05:09]   other: 14 (14.0%)
+[2025-06-06 11:05:09]   science: 13 (13.0%)
+[2025-06-06 11:05:09]   health: 10 (10.0%)
+[2025-06-06 11:05:09]   sports: 7 (7.0%)
+[2025-06-06 11:05:09]   economics: 4 (4.0%)
+[2025-06-06 11:05:09] Training classes: ['economics', 'health', 'lifestyle', 'politics', 'science', 'sports']
+[2025-06-06 11:05:09] All validation classes: ['economics', 'health', 'lifestyle', 'other', 'politics', 'science', 'sports']
+[2025-06-06 11:05:09] Validation set analysis:
+[2025-06-06 11:05:09]   Known classes: 86 (86.0%)
+[2025-06-06 11:05:09]   Unknown/Other: 14 (14.0%)
+[2025-06-06 11:05:09]   Unknown labels found: ['other']
+[2025-06-06 11:05:09] Loading trained model from trained_models/final_without_other_combined
+[2025-06-06 11:05:12] Model loaded successfully
+[2025-06-06 11:05:12] Model has 6 output classes
+[2025-06-06 11:05:12] Creating validation dataset...
+[2025-06-06 11:05:13] Validation dataset created with 100 samples
+[2025-06-06 11:05:13] Testing multiple confidence thresholds...
+[2025-06-06 11:05:13] Evaluating with confidence threshold 0.5
+[2025-06-06 11:05:22] Threshold 0.5: Accuracy=0.859, Coverage=98.8%, Unknown Detection=0.0%
+[2025-06-06 11:05:22] Evaluating with confidence threshold 0.6
+[2025-06-06 11:05:28] Threshold 0.6: Accuracy=0.859, Coverage=98.8%, Unknown Detection=0.0%
+[2025-06-06 11:05:28] Evaluating with confidence threshold 0.7
+[2025-06-06 11:05:34] Threshold 0.7: Accuracy=0.859, Coverage=98.8%, Unknown Detection=14.3%
+[2025-06-06 11:05:34] Evaluating with confidence threshold 0.8
+[2025-06-06 11:05:40] Threshold 0.8: Accuracy=0.857, Coverage=97.7%, Unknown Detection=14.3%
+[2025-06-06 11:05:49] Evaluating with confidence threshold 0.85
+[2025-06-06 11:05:55] Threshold 0.85: Accuracy=0.878, Coverage=95.3%, Unknown Detection=14.3%
+[2025-06-06 11:05:55] Evaluating with confidence threshold 0.9
+[2025-06-06 11:06:01] Threshold 0.9: Accuracy=0.878, Coverage=95.3%, Unknown Detection=21.4%
+[2025-06-06 11:06:01] Evaluating with confidence threshold 0.95
+[2025-06-06 11:06:07] Threshold 0.95: Accuracy=0.889, Coverage=94.2%, Unknown Detection=28.6%
+[2025-06-06 11:06:07] Evaluating with confidence threshold 0.99
+[2025-06-06 11:06:12] Threshold 0.99: Accuracy=0.892, Coverage=86.0%, Unknown Detection=35.7%
+[2025-06-06 11:06:12] Validation results saved!
+[2025-06-06 11:06:12] Creating validation plots...
+[2025-06-06 11:06:24] Performance plots saved!
+[2025-06-06 11:06:24] Creating detailed analysis...
+[2025-06-06 11:06:24] Creating enhanced confusion matrix...
+[2025-06-06 11:06:26] Detailed analysis completed!
+[2025-06-06 11:06:26] Generating validation report...
+[2025-06-06 11:06:26] Validation report generated!
+[2025-06-06 11:06:26] 🎉 Fresh validation completed successfully!
+[2025-06-06 11:06:26] Creating threshold-focused visualizations...
+[2025-06-06 11:06:30] Threshold visualizations completed!
+[2025-06-06 11:47:32] 🚀 Starting fresh validation...
+[2025-06-06 11:47:32] ================================================================================
+[2025-06-06 11:47:32] STARTING FRESH VALIDATION OF BEST MODEL
+[2025-06-06 11:47:32] ================================================================================
+[2025-06-06 11:47:32] Loading validation data from val_set.xlsx
+[2025-06-06 11:47:33] Loaded 100 validation samples
+[2025-06-06 11:47:33] After cleaning: 100 valid samples
+[2025-06-06 11:47:33] Label distribution in validation set:
+[2025-06-06 11:47:33]   politics: 30 (30.0%)
+[2025-06-06 11:47:33]   lifestyle: 22 (22.0%)
+[2025-06-06 11:47:33]   other: 14 (14.0%)
+[2025-06-06 11:47:33]   science: 13 (13.0%)
+[2025-06-06 11:47:33]   health: 10 (10.0%)
+[2025-06-06 11:47:33]   sports: 7 (7.0%)
+[2025-06-06 11:47:33]   economics: 4 (4.0%)
+[2025-06-06 11:47:33] Training classes: ['economics', 'health', 'lifestyle', 'politics', 'science', 'sports']
+[2025-06-06 11:47:33] All validation classes: ['economics', 'health', 'lifestyle', 'other', 'politics', 'science', 'sports']
+[2025-06-06 11:47:33] Validation set analysis:
+[2025-06-06 11:47:33]   Known classes: 86 (86.0%)
+[2025-06-06 11:47:33]   Unknown/Other: 14 (14.0%)
+[2025-06-06 11:47:33]   Unknown labels found: ['other']
+[2025-06-06 11:47:33] Loading trained model from trained_models/final_without_other_combined
+[2025-06-06 11:47:35] Model loaded successfully
+[2025-06-06 11:47:35] Model has 6 output classes
+[2025-06-06 11:47:35] Creating validation dataset...
+[2025-06-06 11:47:36] Validation dataset created with 100 samples
+[2025-06-06 11:47:36] Testing multiple confidence thresholds...
+[2025-06-06 11:47:36] Evaluating with confidence threshold 0.5
+[2025-06-06 11:47:44] Threshold 0.5: Accuracy=0.859, Coverage=98.8%, Unknown Detection=0.0%
+[2025-06-06 11:47:44] Evaluating with confidence threshold 0.6
+[2025-06-06 11:47:49] Threshold 0.6: Accuracy=0.859, Coverage=98.8%, Unknown Detection=0.0%
+[2025-06-06 11:47:49] Evaluating with confidence threshold 0.7
+[2025-06-06 11:47:54] Threshold 0.7: Accuracy=0.859, Coverage=98.8%, Unknown Detection=14.3%
+[2025-06-06 11:47:54] Evaluating with confidence threshold 0.8
+[2025-06-06 11:48:00] Threshold 0.8: Accuracy=0.857, Coverage=97.7%, Unknown Detection=14.3%
+[2025-06-06 11:48:00] Evaluating with confidence threshold 0.85
+[2025-06-06 11:48:05] Threshold 0.85: Accuracy=0.878, Coverage=95.3%, Unknown Detection=14.3%
+[2025-06-06 11:48:05] Evaluating with confidence threshold 0.9
+[2025-06-06 11:48:10] Threshold 0.9: Accuracy=0.878, Coverage=95.3%, Unknown Detection=21.4%
+[2025-06-06 11:48:10] Evaluating with confidence threshold 0.95
+[2025-06-06 11:48:16] Threshold 0.95: Accuracy=0.889, Coverage=94.2%, Unknown Detection=28.6%
+[2025-06-06 11:48:16] Evaluating with confidence threshold 0.99
+[2025-06-06 11:48:21] Threshold 0.99: Accuracy=0.892, Coverage=86.0%, Unknown Detection=35.7%
+[2025-06-06 11:48:21] Validation results saved!
+[2025-06-06 11:48:21] Creating threshold-focused visualizations...
+[2025-06-06 11:48:23] Threshold visualizations completed!
+[2025-06-06 11:48:23] Creating detailed analysis...
+[2025-06-06 11:48:23] Creating enhanced confusion matrix...
+[2025-06-06 11:48:24] Detailed analysis completed!
+[2025-06-06 11:48:24] Generating validation report...
+[2025-06-06 11:48:24] Validation report generated!
+[2025-06-06 11:48:24] 🎉 Fresh validation completed successfully!
+[2025-06-06 16:33:35] 🚀 Starting fresh validation...
+[2025-06-06 16:33:35] ================================================================================
+[2025-06-06 16:33:35] STARTING FRESH VALIDATION OF BEST MODEL
+[2025-06-06 16:33:35] ================================================================================
+[2025-06-06 16:33:35] Loading validation data from val_set.xlsx
+[2025-06-06 16:33:36] Loaded 100 validation samples
+[2025-06-06 16:33:36] After cleaning: 100 valid samples
+[2025-06-06 16:33:36] Label distribution in validation set:
+[2025-06-06 16:33:36]   politics: 30 (30.0%)
+[2025-06-06 16:33:36]   lifestyle: 22 (22.0%)
+[2025-06-06 16:33:36]   other: 14 (14.0%)
+[2025-06-06 16:33:36]   science: 13 (13.0%)
+[2025-06-06 16:33:36]   health: 10 (10.0%)
+[2025-06-06 16:33:36]   sports: 7 (7.0%)
+[2025-06-06 16:33:36]   economics: 4 (4.0%)
+[2025-06-06 16:33:36] Training classes: ['economics', 'health', 'lifestyle', 'politics', 'science', 'sports']
+[2025-06-06 16:33:36] All validation classes: ['economics', 'health', 'lifestyle', 'other', 'politics', 'science', 'sports']
+[2025-06-06 16:33:36] Validation set analysis:
+[2025-06-06 16:33:36]   Known classes: 86 (86.0%)
+[2025-06-06 16:33:36]   Unknown/Other: 14 (14.0%)
+[2025-06-06 16:33:36]   Unknown labels found: ['other']
+[2025-06-06 16:33:36] Loading trained model from trained_models/final_without_other_combined
+[2025-06-06 16:33:39] Model loaded successfully
+[2025-06-06 16:33:39] Model has 6 output classes
+[2025-06-06 16:33:39] Creating validation dataset...
+[2025-06-06 16:33:40] Validation dataset created with 100 samples
+[2025-06-06 16:33:40] Testing multiple confidence thresholds...
+[2025-06-06 16:33:40] Evaluating with confidence threshold 0.5
+[2025-06-06 17:18:52] 🚀 Starting fresh validation...
+[2025-06-06 17:18:52] ================================================================================
+[2025-06-06 17:18:52] STARTING FRESH VALIDATION OF BEST MODEL
+[2025-06-06 17:18:52] ================================================================================
+[2025-06-06 17:18:52] Loading validation data from val_set.xlsx
+[2025-06-06 17:18:52] Loaded 100 validation samples
+[2025-06-06 17:18:52] After cleaning: 100 valid samples
+[2025-06-06 17:18:52] Label distribution in validation set:
+[2025-06-06 17:18:52]   politics: 30 (30.0%)
+[2025-06-06 17:18:52]   lifestyle: 22 (22.0%)
+[2025-06-06 17:18:52]   other: 14 (14.0%)
+[2025-06-06 17:18:52]   science: 13 (13.0%)
+[2025-06-06 17:18:52]   health: 10 (10.0%)
+[2025-06-06 17:18:52]   sports: 7 (7.0%)
+[2025-06-06 17:18:52]   economics: 4 (4.0%)
+[2025-06-06 17:18:52] Training classes: ['economics', 'health', 'lifestyle', 'politics', 'science', 'sports']
+[2025-06-06 17:18:52] All validation classes: ['economics', 'health', 'lifestyle', 'other', 'politics', 'science', 'sports']
+[2025-06-06 17:18:52] Validation set analysis:
+[2025-06-06 17:18:52]   Known classes: 86 (86.0%)
+[2025-06-06 17:18:52]   Unknown/Other: 14 (14.0%)
+[2025-06-06 17:18:52]   Unknown labels found: ['other']
+[2025-06-06 17:18:52] Loading trained model from trained_models/final_without_other_combined
+[2025-06-06 17:18:55] Model loaded successfully
+[2025-06-06 17:18:55] Model has 6 output classes
+[2025-06-06 17:18:55] Creating validation dataset...
+[2025-06-06 17:18:57] Validation dataset created with 100 samples
+[2025-06-06 17:18:57] Testing multiple confidence thresholds...
+[2025-06-06 17:18:57] Evaluating with confidence threshold 0.5
+[2025-06-06 17:19:05] Threshold 0.5: Accuracy=0.859, Coverage=98.8%, Unknown Detection=0.0%
+[2025-06-06 17:19:05] Evaluating with confidence threshold 0.6
+[2025-06-06 17:19:10] Threshold 0.6: Accuracy=0.859, Coverage=98.8%, Unknown Detection=0.0%
+[2025-06-06 17:19:10] Evaluating with confidence threshold 0.7
+[2025-06-06 17:19:16] Threshold 0.7: Accuracy=0.859, Coverage=98.8%, Unknown Detection=14.3%
+[2025-06-06 17:19:16] Evaluating with confidence threshold 0.8
+[2025-06-06 17:19:21] Threshold 0.8: Accuracy=0.857, Coverage=97.7%, Unknown Detection=14.3%
+[2025-06-06 17:19:21] Evaluating with confidence threshold 0.85
+[2025-06-06 17:19:27] Threshold 0.85: Accuracy=0.878, Coverage=95.3%, Unknown Detection=14.3%
+[2025-06-06 17:19:27] Evaluating with confidence threshold 0.9
+[2025-06-06 17:19:33] Threshold 0.9: Accuracy=0.878, Coverage=95.3%, Unknown Detection=21.4%
+[2025-06-06 17:19:33] Evaluating with confidence threshold 0.95
+[2025-06-06 17:19:38] Threshold 0.95: Accuracy=0.889, Coverage=94.2%, Unknown Detection=28.6%
+[2025-06-06 17:19:38] Evaluating with confidence threshold 0.99
+[2025-06-06 17:19:44] Threshold 0.99: Accuracy=0.892, Coverage=86.0%, Unknown Detection=35.7%
+[2025-06-06 17:19:44] Validation results saved!
+[2025-06-06 17:19:44] Creating threshold-focused visualizations...
+[2025-06-06 17:19:46] Threshold visualizations completed!
+[2025-06-06 17:19:46] Creating detailed analysis...
+[2025-06-06 17:19:46] Creating enhanced confusion matrix...
+[2025-06-06 17:19:49] Detailed analysis completed!
+[2025-06-06 17:19:49] Generating validation report...
+[2025-06-06 17:19:49] Validation report generated!
+[2025-06-06 17:19:49] 🎉 Fresh validation completed successfully!
+[2025-06-06 17:30:23] 🚀 Starting fresh validation...
+[2025-06-06 17:30:23] ================================================================================
+[2025-06-06 17:30:23] STARTING FRESH VALIDATION OF BEST MODEL
+[2025-06-06 17:30:23] ================================================================================
+[2025-06-06 17:30:23] Loading validation data from val_set.xlsx
+[2025-06-06 17:30:24] Loaded 100 validation samples
+[2025-06-06 17:30:24] After cleaning: 100 valid samples
+[2025-06-06 17:30:24] Label distribution in validation set:
+[2025-06-06 17:30:24]   politics: 30 (30.0%)
+[2025-06-06 17:30:24]   lifestyle: 22 (22.0%)
+[2025-06-06 17:30:24]   other: 14 (14.0%)
+[2025-06-06 17:30:24]   science: 13 (13.0%)
+[2025-06-06 17:30:24]   health: 10 (10.0%)
+[2025-06-06 17:30:24]   sports: 7 (7.0%)
+[2025-06-06 17:30:24]   economics: 4 (4.0%)
+[2025-06-06 17:30:24] Training classes: ['economics', 'health', 'lifestyle', 'politics', 'science', 'sports']
+[2025-06-06 17:30:24] All validation classes: ['economics', 'health', 'lifestyle', 'other', 'politics', 'science', 'sports']
+[2025-06-06 17:30:24] Validation set analysis:
+[2025-06-06 17:30:24]   Known classes: 86 (86.0%)
+[2025-06-06 17:30:24]   Unknown/Other: 14 (14.0%)
+[2025-06-06 17:30:24]   Unknown labels found: ['other']
+[2025-06-06 17:30:24] Loading trained model from trained_models/final_without_other_combined
+[2025-06-06 17:30:27] Model loaded successfully
+[2025-06-06 17:30:27] Model has 6 output classes
+[2025-06-06 17:30:27] Creating validation dataset...
+[2025-06-06 17:30:28] Validation dataset created with 100 samples
+[2025-06-06 17:30:28] Testing multiple confidence thresholds...
+[2025-06-06 17:30:28] Evaluating with confidence threshold 0.5
+[2025-06-06 17:30:37] Threshold 0.5: Accuracy=0.859, Coverage=98.8%, Unknown Detection=0.0%
+[2025-06-06 17:30:37] Evaluating with confidence threshold 0.6
+[2025-06-06 17:30:43] Threshold 0.6: Accuracy=0.859, Coverage=98.8%, Unknown Detection=0.0%
+[2025-06-06 17:30:43] Evaluating with confidence threshold 0.7
+[2025-06-06 17:30:49] Threshold 0.7: Accuracy=0.859, Coverage=98.8%, Unknown Detection=14.3%
+[2025-06-06 17:30:49] Evaluating with confidence threshold 0.8
+[2025-06-06 17:30:54] Threshold 0.8: Accuracy=0.857, Coverage=97.7%, Unknown Detection=14.3%
+[2025-06-06 17:30:54] Evaluating with confidence threshold 0.85
+[2025-06-06 17:31:00] Threshold 0.85: Accuracy=0.878, Coverage=95.3%, Unknown Detection=14.3%
+[2025-06-06 17:31:00] Evaluating with confidence threshold 0.9
+[2025-06-06 17:31:06] Threshold 0.9: Accuracy=0.878, Coverage=95.3%, Unknown Detection=21.4%
+[2025-06-06 17:31:06] Evaluating with confidence threshold 0.95
+[2025-06-06 17:31:12] Threshold 0.95: Accuracy=0.889, Coverage=94.2%, Unknown Detection=28.6%
+[2025-06-06 17:31:12] Evaluating with confidence threshold 0.99
+[2025-06-06 17:31:18] Threshold 0.99: Accuracy=0.892, Coverage=86.0%, Unknown Detection=35.7%
+[2025-06-06 17:31:18] Validation results saved!
+[2025-06-06 17:31:18] Creating threshold-focused visualizations...
+[2025-06-06 17:31:20] Threshold visualizations completed!
+[2025-06-06 17:31:20] Creating detailed analysis...
+[2025-06-06 17:31:20] Creating enhanced confusion matrix...
+[2025-06-06 17:31:22] Detailed analysis completed!
+[2025-06-06 17:31:22] Generating validation report...
+[2025-06-06 17:31:22] Validation report generated!
+[2025-06-06 17:31:22] 🎉 Fresh validation completed successfully!
+[2025-06-06 17:31:23] Interesting prediction examples extracted and saved.
+[2025-06-06 19:35:08] 🚀 Starting fresh validation...
+[2025-06-06 19:35:08] ================================================================================
+[2025-06-06 19:35:08] STARTING FRESH VALIDATION OF BEST MODEL
+[2025-06-06 19:35:08] ================================================================================
+[2025-06-06 19:35:08] Loading validation data from val_set.xlsx
+[2025-06-06 19:35:08] Loaded 100 validation samples
+[2025-06-06 19:35:08] After cleaning: 100 valid samples
+[2025-06-06 19:35:08] Label distribution in validation set:
+[2025-06-06 19:35:08]   politics: 30 (30.0%)
+[2025-06-06 19:35:08]   lifestyle: 22 (22.0%)
+[2025-06-06 19:35:08]   other: 14 (14.0%)
+[2025-06-06 19:35:08]   science: 13 (13.0%)
+[2025-06-06 19:35:08]   health: 10 (10.0%)
+[2025-06-06 19:35:08]   sports: 7 (7.0%)
+[2025-06-06 19:35:08]   economics: 4 (4.0%)
+[2025-06-06 19:35:08] Training classes: ['economics', 'health', 'lifestyle', 'politics', 'science', 'sports']
+[2025-06-06 19:35:08] All validation classes: ['economics', 'health', 'lifestyle', 'other', 'politics', 'science', 'sports']
+[2025-06-06 19:35:08] Validation set analysis:
+[2025-06-06 19:35:08]   Known classes: 86 (86.0%)
+[2025-06-06 19:35:08]   Unknown/Other: 14 (14.0%)
+[2025-06-06 19:35:08]   Unknown labels found: ['other']
+[2025-06-06 19:35:08] Loading trained model from trained_models/final_without_other_combined
+[2025-06-06 19:35:11] Model loaded successfully
+[2025-06-06 19:35:11] Model has 6 output classes
+[2025-06-06 19:35:11] Creating validation dataset...
+[2025-06-06 19:35:12] Validation dataset created with 100 samples
+[2025-06-06 19:35:12] Testing multiple confidence thresholds...
+[2025-06-06 19:35:12] Evaluating with confidence threshold 0.5
+[2025-06-06 19:35:20] Threshold 0.5: Accuracy=0.859, Coverage=98.8%, Unknown Detection=0.0%
+[2025-06-06 19:35:20] Evaluating with confidence threshold 0.6
+[2025-06-06 19:35:26] Threshold 0.6: Accuracy=0.859, Coverage=98.8%, Unknown Detection=0.0%
+[2025-06-06 19:35:26] Evaluating with confidence threshold 0.7
+[2025-06-06 19:35:32] Threshold 0.7: Accuracy=0.859, Coverage=98.8%, Unknown Detection=14.3%
+[2025-06-06 19:35:32] Evaluating with confidence threshold 0.8
+[2025-06-06 19:35:38] Threshold 0.8: Accuracy=0.857, Coverage=97.7%, Unknown Detection=14.3%
+[2025-06-06 19:35:38] Evaluating with confidence threshold 0.85
+[2025-06-06 19:35:44] Threshold 0.85: Accuracy=0.878, Coverage=95.3%, Unknown Detection=14.3%
+[2025-06-06 19:35:44] Evaluating with confidence threshold 0.9
+[2025-06-06 19:35:49] Threshold 0.9: Accuracy=0.878, Coverage=95.3%, Unknown Detection=21.4%
+[2025-06-06 19:35:49] Evaluating with confidence threshold 0.95
+[2025-06-06 19:35:55] Threshold 0.95: Accuracy=0.889, Coverage=94.2%, Unknown Detection=28.6%
+[2025-06-06 19:35:55] Evaluating with confidence threshold 0.99
+[2025-06-06 19:36:01] Threshold 0.99: Accuracy=0.892, Coverage=86.0%, Unknown Detection=35.7%
+[2025-06-06 19:36:01] Validation results saved!
+[2025-06-06 19:36:01] Creating threshold-focused visualizations...
+[2025-06-06 19:36:03] Threshold visualizations completed!
+[2025-06-06 19:36:03] Creating detailed analysis...
+[2025-06-06 19:36:03] Creating enhanced confusion matrix...
+[2025-06-06 19:36:05] Detailed analysis completed!
+[2025-06-06 19:36:05] Generating validation report...
+[2025-06-06 19:36:05] Validation report generated!
+[2025-06-06 19:36:05] 🎉 Fresh validation completed successfully!
+[2025-06-06 19:36:05] Interesting prediction examples extracted and saved.

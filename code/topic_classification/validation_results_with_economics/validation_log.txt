@@ -1,0 +1,62 @@
+[2025-06-06 19:36:26] 🚀 Starting fresh validation...
+[2025-06-06 19:36:26] ================================================================================
+[2025-06-06 19:36:26] STARTING FRESH VALIDATION OF BEST MODEL
+[2025-06-06 19:36:26] ================================================================================
+[2025-06-06 19:36:26] Loading validation data from val_set_more_eco.xlsx
+[2025-06-06 19:36:26] Loaded 110 validation samples
+[2025-06-06 19:36:26] Missing required columns: ['label']
+[2025-06-06 19:36:26] Available columns: ['sample_id', 'tweet_text', 'note_text', 'predicted_classification']
+[2025-06-06 19:36:26] ❌ Error during validation: Missing required columns: ['label']
+[2025-06-07 00:53:40] 🚀 Starting fresh validation...
+[2025-06-07 00:53:40] ================================================================================
+[2025-06-07 00:53:40] STARTING FRESH VALIDATION OF BEST MODEL
+[2025-06-07 00:53:40] ================================================================================
+[2025-06-07 00:53:40] Loading validation data from val_set_more_eco.xlsx
+[2025-06-07 00:53:40] Loaded 110 validation samples
+[2025-06-07 00:53:40] After cleaning: 110 valid samples
+[2025-06-07 00:53:40] Label distribution in validation set:
+[2025-06-07 00:53:40]   politics: 30 (27.3%)
+[2025-06-07 00:53:40]   lifestyle: 22 (20.0%)
+[2025-06-07 00:53:40]   other: 14 (12.7%)
+[2025-06-07 00:53:40]   economics: 14 (12.7%)
+[2025-06-07 00:53:40]   science: 13 (11.8%)
+[2025-06-07 00:53:40]   health: 10 (9.1%)
+[2025-06-07 00:53:40]   sports: 7 (6.4%)
+[2025-06-07 00:53:40] Training classes: ['economics', 'health', 'lifestyle', 'politics', 'science', 'sports']
+[2025-06-07 00:53:40] All validation classes: ['economics', 'health', 'lifestyle', 'other', 'politics', 'science', 'sports']
+[2025-06-07 00:53:40] Validation set analysis:
+[2025-06-07 00:53:40]   Known classes: 96 (87.3%)
+[2025-06-07 00:53:40]   Unknown/Other: 14 (12.7%)
+[2025-06-07 00:53:40]   Unknown labels found: ['other']
+[2025-06-07 00:53:40] Loading trained model from trained_models/final_without_other_combined
+[2025-06-07 00:53:44] Model loaded successfully
+[2025-06-07 00:53:44] Model has 6 output classes
+[2025-06-07 00:53:44] Creating validation dataset...
+[2025-06-07 00:53:45] Validation dataset created with 110 samples
+[2025-06-07 00:53:45] Testing multiple confidence thresholds...
+[2025-06-07 00:53:45] Evaluating with confidence threshold 0.5
+[2025-06-07 00:53:55] Threshold 0.5: Accuracy=0.874, Coverage=99.0%, Unknown Detection=0.0%
+[2025-06-07 00:53:55] Evaluating with confidence threshold 0.6
+[2025-06-07 00:54:01] Threshold 0.6: Accuracy=0.874, Coverage=99.0%, Unknown Detection=0.0%
+[2025-06-07 00:54:01] Evaluating with confidence threshold 0.7
+[2025-06-07 00:54:07] Threshold 0.7: Accuracy=0.874, Coverage=99.0%, Unknown Detection=14.3%
+[2025-06-07 00:54:07] Evaluating with confidence threshold 0.8
+[2025-06-07 00:54:13] Threshold 0.8: Accuracy=0.872, Coverage=97.9%, Unknown Detection=14.3%
+[2025-06-07 00:54:13] Evaluating with confidence threshold 0.85
+[2025-06-07 00:54:20] Threshold 0.85: Accuracy=0.891, Coverage=95.8%, Unknown Detection=14.3%
+[2025-06-07 00:54:20] Evaluating with confidence threshold 0.9
+[2025-06-07 00:54:26] Threshold 0.9: Accuracy=0.891, Coverage=95.8%, Unknown Detection=21.4%
+[2025-06-07 00:54:26] Evaluating with confidence threshold 0.95
+[2025-06-07 00:54:32] Threshold 0.95: Accuracy=0.900, Coverage=93.8%, Unknown Detection=28.6%
+[2025-06-07 00:54:32] Evaluating with confidence threshold 0.99
+[2025-06-07 00:54:39] Threshold 0.99: Accuracy=0.901, Coverage=84.4%, Unknown Detection=35.7%
+[2025-06-07 00:54:39] Validation results saved!
+[2025-06-07 00:54:39] Creating threshold-focused visualizations...
+[2025-06-07 00:54:41] Threshold visualizations completed!
+[2025-06-07 00:54:41] Creating detailed analysis...
+[2025-06-07 00:54:41] Creating enhanced confusion matrix...
+[2025-06-07 00:54:43] Detailed analysis completed!
+[2025-06-07 00:54:43] Generating validation report...
+[2025-06-07 00:54:43] Validation report generated!
+[2025-06-07 00:54:43] 🎉 Fresh validation completed successfully!
+[2025-06-07 00:54:43] Interesting prediction examples extracted and saved.
