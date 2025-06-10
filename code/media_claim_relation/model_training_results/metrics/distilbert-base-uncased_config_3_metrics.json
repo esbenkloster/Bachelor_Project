@@ -1,0 +1,26 @@
+{
+  "model_name": "distilbert-base-uncased",
+  "run_name": "distilbert-base-uncased_config_3",
+  "config_id": 3,
+  "hyperparameters": {
+    "config_id": 3,
+    "learning_rate": 3e-05,
+    "batch_size": 1,
+    "epochs": 2,
+    "max_length": 512,
+    "weight_decay": 0.01,
+    "gradient_accumulation_steps": 4
+  },
+  "accuracy": 0.34328358208955223,
+  "f1_macro": 0.27125632987701953,
+  "f1_weighted": 0.320814543151136,
+  "precision_macro": 0.27261904761904765,
+  "recall_macro": 0.2878571428571428,
+  "train_time": 27.9381,
+  "train_loss": 1.4667301512601083,
+  "f1_decorative": 0.27586206896551724,
+  "f1_false": 0.5,
+  "f1_repurposed": 0.3076923076923077,
+  "f1_slanted": 0.2727272727272727,
+  "f1_unreliable source": 0.0
+}

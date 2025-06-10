@@ -1,0 +1,26 @@
+{
+  "model_name": "meta-llama/Llama-3.2-1B-Instruct",
+  "run_name": "Llama-3.2-1B-Instruct_config_3",
+  "config_id": 3,
+  "hyperparameters": {
+    "config_id": 3,
+    "learning_rate": 3e-05,
+    "batch_size": 1,
+    "epochs": 2,
+    "max_length": 256,
+    "weight_decay": 0.01,
+    "gradient_accumulation_steps": 4
+  },
+  "accuracy": 0.2835820895522388,
+  "f1_macro": 0.18901010101010102,
+  "f1_weighted": 0.22729383386099802,
+  "precision_macro": 0.2887121212121212,
+  "recall_macro": 0.22646825396825396,
+  "train_time": 184.9435,
+  "train_loss": 1.6067348112139785,
+  "f1_decorative": 0.2,
+  "f1_false": 0.1111111111111111,
+  "f1_repurposed": 0.3939393939393939,
+  "f1_slanted": 0.24,
+  "f1_unreliable source": 0.0
+}

@@ -1,0 +1,18 @@
+{
+  "model_name": "google/electra-base-discriminator",
+  "run_name": "electra-base-discriminator_config_3",
+  "config_id": 3,
+  "hyperparameters": {
+    "config_id": 3,
+    "learning_rate": 2e-05,
+    "batch_size": 2,
+    "epochs": 2,
+    "max_length": 128,
+    "weight_decay": 0.01,
+    "gradient_accumulation_steps": 2
+  },
+  "error": "You are trying to save a non contiguous tensor: `electra.encoder.layer.0.attention.self.query.weight` which is not allowed. It either means you are trying to save tensors which are reference of each other in which case it's recommended to save only the full tensors, and reslice at load time, or simply call `.contiguous()` on your tensor to pack it before saving.",
+  "error_type": "ValueError",
+  "accuracy": null,
+  "f1_macro": null
+}

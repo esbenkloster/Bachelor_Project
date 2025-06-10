@@ -1,0 +1,18 @@
+{
+  "model_name": "distilbert-base-uncased",
+  "run_name": "distilbert-base-uncased_config_1",
+  "config_id": 1,
+  "hyperparameters": {
+    "config_id": 1,
+    "learning_rate": 0.0001,
+    "batch_size": 2,
+    "epochs": 2,
+    "max_length": 1024,
+    "weight_decay": 0.01,
+    "gradient_accumulation_steps": 2
+  },
+  "error": "The size of tensor a (1024) must match the size of tensor b (512) at non-singleton dimension 1",
+  "error_type": "RuntimeError",
+  "accuracy": null,
+  "f1_macro": null
+}

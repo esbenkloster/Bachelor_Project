@@ -1,0 +1,26 @@
+{
+  "model_name": "roberta-large",
+  "run_name": "roberta-large_config_1",
+  "config_id": 1,
+  "hyperparameters": {
+    "config_id": 1,
+    "learning_rate": 0.0001,
+    "batch_size": 2,
+    "epochs": 2,
+    "max_length": 512,
+    "weight_decay": 0.01,
+    "gradient_accumulation_steps": 2
+  },
+  "accuracy": 0.23880597014925373,
+  "f1_macro": 0.07710843373493977,
+  "f1_weighted": 0.09206977162380867,
+  "precision_macro": 0.04776119402985075,
+  "recall_macro": 0.2,
+  "train_time": 90.4413,
+  "train_loss": 1.6460909679018219,
+  "f1_decorative": 0.0,
+  "f1_false": 0.3855421686746988,
+  "f1_repurposed": 0.0,
+  "f1_slanted": 0.0,
+  "f1_unreliable source": 0.0
+}

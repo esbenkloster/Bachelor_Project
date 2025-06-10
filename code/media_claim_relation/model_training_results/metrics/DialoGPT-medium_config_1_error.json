@@ -1,0 +1,17 @@
+{
+  "model_name": "microsoft/DialoGPT-medium",
+  "run_name": "DialoGPT-medium_config_1",
+  "config_id": 1,
+  "hyperparameters": {
+    "config_id": 1,
+    "learning_rate": 3e-05,
+    "batch_size": 4,
+    "epochs": 2,
+    "max_length": 256,
+    "weight_decay": 0.01,
+    "gradient_accumulation_steps": 2
+  },
+  "error": "Attempting to unscale FP16 gradients.",
+  "accuracy": null,
+  "f1_macro": null
+}

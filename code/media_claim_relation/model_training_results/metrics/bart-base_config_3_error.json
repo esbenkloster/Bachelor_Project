@@ -1,0 +1,18 @@
+{
+  "model_name": "facebook/bart-base",
+  "run_name": "bart-base_config_3",
+  "config_id": 3,
+  "hyperparameters": {
+    "config_id": 3,
+    "learning_rate": 1e-05,
+    "batch_size": 1,
+    "epochs": 2,
+    "max_length": 128,
+    "weight_decay": 0.01,
+    "gradient_accumulation_steps": 4
+  },
+  "error": "setting an array element with a sequence. The requested array has an inhomogeneous shape after 2 dimensions. The detected shape was (2, 33) + inhomogeneous part.",
+  "error_type": "ValueError",
+  "accuracy": null,
+  "f1_macro": null
+}

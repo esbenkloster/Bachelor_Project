@@ -1,0 +1,26 @@
+{
+  "model_name": "bert-base-uncased",
+  "run_name": "bert-base-uncased_config_2",
+  "config_id": 2,
+  "hyperparameters": {
+    "config_id": 2,
+    "learning_rate": 3e-05,
+    "batch_size": 1,
+    "epochs": 3,
+    "max_length": 256,
+    "weight_decay": 0.01,
+    "gradient_accumulation_steps": 4
+  },
+  "accuracy": 0.373134328358209,
+  "f1_macro": 0.2824403832355548,
+  "f1_weighted": 0.33918841196877214,
+  "precision_macro": 0.27395670995670995,
+  "recall_macro": 0.30817460317460316,
+  "train_time": 59.4569,
+  "train_loss": 1.3088545618001481,
+  "f1_decorative": 0.41379310344827586,
+  "f1_false": 0.5263157894736842,
+  "f1_repurposed": 0.37209302325581395,
+  "f1_slanted": 0.1,
+  "f1_unreliable source": 0.0
+}

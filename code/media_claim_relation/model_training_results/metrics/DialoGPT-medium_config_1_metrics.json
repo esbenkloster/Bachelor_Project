@@ -1,0 +1,26 @@
+{
+  "model_name": "microsoft/DialoGPT-medium",
+  "run_name": "DialoGPT-medium_config_1",
+  "config_id": 1,
+  "hyperparameters": {
+    "config_id": 1,
+    "learning_rate": 1e-05,
+    "batch_size": 2,
+    "epochs": 2,
+    "max_length": 384,
+    "weight_decay": 0.01,
+    "gradient_accumulation_steps": 2
+  },
+  "accuracy": 0.26865671641791045,
+  "f1_macro": 0.22873266379722618,
+  "f1_weighted": 0.26070508290684313,
+  "precision_macro": 0.2355,
+  "recall_macro": 0.23531746031746031,
+  "train_time": 96.7481,
+  "train_loss": 1.5590106289962242,
+  "f1_decorative": 0.4,
+  "f1_false": 0.2926829268292683,
+  "f1_repurposed": 0.11764705882352941,
+  "f1_slanted": 0.3333333333333333,
+  "f1_unreliable source": 0.0
+}

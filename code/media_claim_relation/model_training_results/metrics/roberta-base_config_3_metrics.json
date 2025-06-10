@@ -1,0 +1,26 @@
+{
+  "model_name": "roberta-base",
+  "run_name": "roberta-base_config_3",
+  "config_id": 3,
+  "hyperparameters": {
+    "config_id": 3,
+    "learning_rate": 3e-05,
+    "batch_size": 1,
+    "epochs": 2,
+    "max_length": 512,
+    "weight_decay": 0.01,
+    "gradient_accumulation_steps": 4
+  },
+  "accuracy": 0.26865671641791045,
+  "f1_macro": 0.11836007130124777,
+  "f1_weighted": 0.1449437305451353,
+  "precision_macro": 0.0882051282051282,
+  "recall_macro": 0.22222222222222224,
+  "train_time": 48.0094,
+  "train_loss": 1.5067282475923236,
+  "f1_decorative": 0.0,
+  "f1_false": 0.47058823529411764,
+  "f1_repurposed": 0.12121212121212122,
+  "f1_slanted": 0.0,
+  "f1_unreliable source": 0.0
+}

@@ -1,0 +1,18 @@
+{
+  "model_name": "roberta-base",
+  "run_name": "roberta-base_config_1",
+  "config_id": 1,
+  "hyperparameters": {
+    "config_id": 1,
+    "learning_rate": 0.0001,
+    "batch_size": 2,
+    "epochs": 2,
+    "max_length": 1024,
+    "weight_decay": 0.01,
+    "gradient_accumulation_steps": 2
+  },
+  "error": "The expanded size of the tensor (1024) must match the existing size (514) at non-singleton dimension 1.  Target sizes: [2, 1024].  Tensor sizes: [1, 514]",
+  "error_type": "RuntimeError",
+  "accuracy": null,
+  "f1_macro": null
+}

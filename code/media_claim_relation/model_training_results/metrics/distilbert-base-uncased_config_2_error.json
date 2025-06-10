@@ -1,0 +1,18 @@
+{
+  "model_name": "distilbert-base-uncased",
+  "run_name": "distilbert-base-uncased_config_2",
+  "config_id": 2,
+  "hyperparameters": {
+    "config_id": 2,
+    "learning_rate": 3e-05,
+    "batch_size": 1,
+    "epochs": 3,
+    "max_length": 256,
+    "weight_decay": 0.01,
+    "gradient_accumulation_steps": 4
+  },
+  "error": "name 'label_encoder' is not defined",
+  "error_type": "NameError",
+  "accuracy": null,
+  "f1_macro": null
+}

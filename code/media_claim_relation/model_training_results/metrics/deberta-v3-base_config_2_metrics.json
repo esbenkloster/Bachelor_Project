@@ -1,0 +1,26 @@
+{
+  "model_name": "microsoft/deberta-v3-base",
+  "run_name": "deberta-v3-base_config_2",
+  "config_id": 2,
+  "hyperparameters": {
+    "config_id": 2,
+    "learning_rate": 1e-05,
+    "batch_size": 1,
+    "epochs": 3,
+    "max_length": 256,
+    "weight_decay": 0.01,
+    "gradient_accumulation_steps": 4
+  },
+  "accuracy": 0.22388059701492538,
+  "f1_macro": 0.11883372734436563,
+  "f1_weighted": 0.15073568328569914,
+  "precision_macro": 0.08960573476702509,
+  "recall_macro": 0.17638888888888887,
+  "train_time": 106.3093,
+  "train_loss": 1.5327639830739874,
+  "f1_decorative": 0.0,
+  "f1_false": 0.2978723404255319,
+  "f1_repurposed": 0.2962962962962963,
+  "f1_slanted": 0.0,
+  "f1_unreliable source": 0.0
+}
