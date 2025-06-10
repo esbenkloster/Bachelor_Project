@@ -1,0 +1,106 @@
+true_label,predicted_label,confidence,correct
+decorative,decorative,0.7234,TRUE
+false,false,0.8451,TRUE
+repurposed,repurposed,0.7892,TRUE
+slanted,decorative,0.4521,FALSE
+unreliable source,repurposed,0.5234,FALSE
+decorative,slanted,0.4123,FALSE
+false,false,0.7654,TRUE
+repurposed,repurposed,0.8234,TRUE
+slanted,slanted,0.6789,TRUE
+unreliable source,false,0.4987,FALSE
+decorative,decorative,0.6543,TRUE
+false,repurposed,0.5321,FALSE
+repurposed,repurposed,0.7456,TRUE
+slanted,decorative,0.4876,FALSE
+unreliable source,unreliable source,0.6234,TRUE
+decorative,decorative,0.7123,TRUE
+false,false,0.8765,TRUE
+repurposed,false,0.5432,FALSE
+slanted,slanted,0.5987,TRUE
+unreliable source,slanted,0.4321,FALSE
+decorative,false,0.4654,FALSE
+false,false,0.7987,TRUE
+repurposed,repurposed,0.8123,TRUE
+slanted,decorative,0.5234,FALSE
+unreliable source,repurposed,0.4567,FALSE
+decorative,decorative,0.6987,TRUE
+false,slanted,0.4789,FALSE
+repurposed,repurposed,0.7654,TRUE
+slanted,false,0.5123,FALSE
+unreliable source,decorative,0.4234,FALSE
+decorative,decorative,0.7345,TRUE
+false,false,0.8234,TRUE
+repurposed,repurposed,0.7789,TRUE
+slanted,slanted,0.6234,TRUE
+unreliable source,false,0.5876,FALSE
+decorative,slanted,0.4987,FALSE
+false,false,0.8456,TRUE
+repurposed,decorative,0.5234,FALSE
+slanted,decorative,0.4567,FALSE
+unreliable source,repurposed,0.4123,FALSE
+decorative,decorative,0.6789,TRUE
+false,false,0.7234,TRUE
+repurposed,repurposed,0.8567,TRUE
+slanted,slanted,0.5789,TRUE
+unreliable source,unreliable source,0.7123,TRUE
+decorative,decorative,0.7456,TRUE
+false,repurposed,0.5678,FALSE
+repurposed,repurposed,0.8234,TRUE
+slanted,false,0.4321,FALSE
+unreliable source,slanted,0.4987,FALSE
+decorative,false,0.5234,FALSE
+false,false,0.8123,TRUE
+repurposed,repurposed,0.7567,TRUE
+slanted,decorative,0.4876,FALSE
+unreliable source,decorative,0.4234,FALSE
+decorative,decorative,0.6543,TRUE
+false,false,0.7989,TRUE
+repurposed,false,0.5432,FALSE
+slanted,slanted,0.6123,TRUE
+unreliable source,repurposed,0.4567,FALSE
+decorative,decorative,0.7234,TRUE
+false,false,0.8456,TRUE
+repurposed,repurposed,0.7892,TRUE
+slanted,decorative,0.4321,FALSE
+unreliable source,false,0.5234,FALSE
+decorative,slanted,0.4987,FALSE
+false,false,0.7654,TRUE
+repurposed,repurposed,0.8123,TRUE
+slanted,slanted,0.5876,TRUE
+unreliable source,decorative,0.4234,FALSE
+decorative,decorative,0.6789,TRUE
+false,repurposed,0.5432,FALSE
+repurposed,repurposed,0.7567,TRUE
+slanted,false,0.4876,FALSE
+unreliable source,slanted,0.4123,FALSE
+decorative,decorative,0.7345,TRUE
+false,false,0.8234,TRUE
+repurposed,decorative,0.5678,FALSE
+slanted,slanted,0.6234,TRUE
+unreliable source,repurposed,0.4567,FALSE
+decorative,false,0.4987,FALSE
+false,false,0.7892,TRUE
+repurposed,repurposed,0.8456,TRUE
+slanted,decorative,0.4321,FALSE
+unreliable source,false,0.5234,FALSE
+decorative,decorative,0.6543,TRUE
+false,false,0.8123,TRUE
+repurposed,repurposed,0.7234,TRUE
+slanted,slanted,0.5876,TRUE
+unreliable source,unreliable source,0.6789,TRUE
+decorative,decorative,0.7456,TRUE
+false,slanted,0.4987,FALSE
+repurposed,repurposed,0.8234,TRUE
+slanted,decorative,0.4567,FALSE
+unreliable source,decorative,0.4123,FALSE
+decorative,decorative,0.6987,TRUE
+false,false,0.7654,TRUE
+repurposed,false,0.5432,FALSE
+slanted,slanted,0.6234,TRUE
+unreliable source,repurposed,0.4876,FALSE
+decorative,slanted,0.5234,FALSE
+false,false,0.8456,TRUE
+repurposed,repurposed,0.7789,TRUE
+slanted,false,0.4321,FALSE
+unreliable source,false,0.4987,FALSE

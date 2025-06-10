@@ -1,0 +1,63 @@
+SIMILAR EXAMPLES: SLANTED VS UNRELIABLE SOURCE
+==================================================
+
+Analysis Summary:
+  Total pairs analyzed: 1072
+  Highest similarity: 1.000
+  Average similarity: 1.000
+
+Top 5 Most Similar Examples:
+----------------------------------------
+
+Example 1 (Similarity: 1.000)
+Slanted Content:
+  @sentdefender The US Embassy in Russia issued a very strange message about an imminent terrorist attack against crowds in Moscow in the next 48h
+
+They know it was going to happen. 🤔 https://t.co/jFGGg...
+Unreliable Content:
+  This Palestinian woman was denied vital treatment for her burns in an Israeli prison. She’s been released along with 38 other women and children in Israel’s hostage exchange with Hamas. https://t.co/H...
+Matching Features (3): Outdatedinformation, Missingimportantcontext, Meta Trustworthysources
+Differing Features (2): Factualerror, Unverifiedclaimasfact
+----------------------------------------
+
+Example 2 (Similarity: 1.000)
+Slanted Content:
+  The Prime Minister of Fucking Australia attempting to SCAM my bank account @AlboMP 🇦🇺
+
+Correct scumbag? https://t.co/Qo45uXHHSL...
+Unreliable Content:
+  Deadliest #Russian attacks on #Ukraine; 'Record ten thousand Ukrainian troops wiped out' https://t.co/TFKN1nJs9e...
+Matching Features (2): Unverifiedclaimasfact, Meta Trustworthysources
+Differing Features (3): Factualerror, Outdatedinformation, Missingimportantcontext
+----------------------------------------
+
+Example 3 (Similarity: 1.000)
+Slanted Content:
+  🚨🇬🇧 UK Police shoot dead a Bangladeshi Male 
+
+Chaos ensues in London.  It’s not a coincidence you’re seeing all these events unfold. 
+
+Britain is falling apart. https://t.co/0CNjOVPaom...
+Unreliable Content:
+  Deadliest #Russian attacks on #Ukraine; 'Record ten thousand Ukrainian troops wiped out' https://t.co/TFKN1nJs9e...
+Matching Features (1): Meta Trustworthysources
+Differing Features (4): Factualerror, Outdatedinformation, Missingimportantcontext, Unverifiedclaimasfact
+----------------------------------------
+
+Example 4 (Similarity: 1.000)
+Slanted Content:
+  🔥🚨DEVELOPING: X made a new policy where if you are a journalist investigating in anything that could lead to an arrest you will be demonetized. That means X no longer values TRUE journalism. I wonder ...
+Unreliable Content:
+  Deadliest #Russian attacks on #Ukraine; 'Record ten thousand Ukrainian troops wiped out' https://t.co/TFKN1nJs9e...
+Matching Features (3): Missingimportantcontext, Unverifiedclaimasfact, Meta Trustworthysources
+Differing Features (2): Factualerror, Outdatedinformation
+----------------------------------------
+
+Example 5 (Similarity: 1.000)
+Slanted Content:
+  @flightradar24 Quite the track record . https://t.co/1tYJ0Nok5i...
+Unreliable Content:
+  Deadliest #Russian attacks on #Ukraine; 'Record ten thousand Ukrainian troops wiped out' https://t.co/TFKN1nJs9e...
+Matching Features (2): Missingimportantcontext, Meta Trustworthysources
+Differing Features (3): Outdatedinformation, Unverifiedclaimasfact, Meta Quote Count
+----------------------------------------

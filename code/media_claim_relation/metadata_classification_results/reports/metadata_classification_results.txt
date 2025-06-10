@@ -1,0 +1,53 @@
+# Metadata Enhanced Classification Results
+
+## Overall Results
+Accuracy: 0.4925
+F1-Macro: 0.4643
+F1-Weighted: 0.4938
+
+## Per-Class Results
+decorative:
+  F1: 0.4375
+  Precision: 0.4118
+  Recall: 0.4667
+
+false:
+  F1: 0.5625
+  Precision: 0.5625
+  Recall: 0.5625
+
+repurposed:
+  F1: 0.5882
+  Precision: 0.6250
+  Recall: 0.5556
+
+slanted:
+  F1: 0.4000
+  Precision: 0.3750
+  Recall: 0.4286
+
+unreliable source:
+  F1: 0.3333
+  Precision: 0.5000
+  Recall: 0.2500
+
+## Comparison with Baseline
+| Category | Baseline F1 | Enhanced F1 | Change |
+|----------|-------------|-------------|--------|
+| decorative | 0.3500 | 0.4375 | +0.0875 |
+| false | 0.3500 | 0.5625 | +0.2125 |
+| repurposed | 0.3000 | 0.5882 | +0.2882 |
+| slanted | 0.3500 | 0.4000 | +0.0500 |
+| unreliable source | 0.4000 | 0.3333 | -0.0667 |
+
+## Key Findings
+- False content classification: F1=0.5625 (improvement: +0.2125)
+- Repurposed content classification: F1=0.5882 (improvement: +0.2882)
+- Unreliable source classification: F1=0.3333 (change: -0.0667)
+
+## Configuration
+Model: roberta-large
+Metadata features used: 6
+Oversampling ratio: 3x
+Learning rate: 3e-05
+Epochs: 3
